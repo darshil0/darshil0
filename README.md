@@ -8,7 +8,7 @@ I lead QA teams that do more than find bugs; we **prevent patient safety risks, 
 
 ---
 
-## 💼 My Expertise at a Glance
+## 💼 My Expertise at a Glance:
 
 With over **9 years of experience** at industry leaders like **Accenture, Kaiser, Infosys, and Prime Therapeutics**, I bring a unique blend of technical, clinical, and leadership skills to every project.
 
@@ -18,7 +18,7 @@ With over **9 years of experience** at industry leaders like **Accenture, Kaiser
 
 ---
 
-## 🏆 Key Achievements
+## 🏆 Key Achievements:
 
 * **Cost & Efficiency:** Contributed to a **40% reduction in patient care costs** through optimized testing processes.
 * **Patient Experience:** Helped implement system improvements that **reduced patient wait times by 30%**.
@@ -39,24 +39,23 @@ A repository for evaluating AI models using automated QA methodologies and testi
 
 ---
 
-## 🛠 Technical Toolkit
+## 🛠 Technical Toolkit:
 
-### Core Competencies
+### Core Competencies:
 * Strategic QA Leadership & Team Management
 * End-to-End Quality Assurance (Patient Safety & Clinical Impact Focus)
 * Regulatory Compliance (HIPAA, FDA, ISO)
 * Cross-Functional Collaboration (Product, Engineering, Business)
 * Healthcare Systems (EHR/EMR, Telehealth, ADA, Medical Devices)
 
-### Testing Methodologies
-* **Types:** Regression, Scrum, SIT, Exploratory, E2E
-* **Domains:** API, Database, Web Services, Functional, Web/Mobile
+### Testing Methodologies & Types:
+* **Types:** Regression, Scrum, SIT, Exploratory, E2E, API, Database, Web Services, Functional, Web/Mobile
 
-### Tools & Technologies
+### Tools & Technologies:
 * **Test Management:** JIRA, Confluence, TestRail, HP ALM
 * **API Testing:** Postman, SoapUI, Rest Assured
 * **AI & Automation:** ChatGPT, Copilot, LLM Frameworks
-* **Database:** SQL, ** MYSQL
+* **Database:** SQL, MYSQL
 
 ---
 

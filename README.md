@@ -1,6 +1,6 @@
 # Darshil Shah
 
-**Test Lead | Healthcare QA Specialist | AI Test Consultant**
+**Test Lead | Healthcare QA Specialist | AI Testing Innovator**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshil-qa-lead/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:darshils99@gmail.com)
@@ -54,17 +54,33 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 
 ## Technical Arsenal
 
-**Leadership & Strategy**  
-QA Team Leadership • Stakeholder Management • Risk Assessment • Process Optimization • Regulatory Compliance (HIPAA, FDA, ISO) • Cross-Functional Collaboration
+### Leadership & Strategy
+- QA Team Leadership & Management
+- Stakeholder Management & Communication
+- Risk Assessment & Mitigation
+- Process Optimization & Improvement
+- Regulatory Compliance (HIPAA, FDA 21 CFR Part 11, ISO 13485)
+- Cross-Functional Collaboration
+- Healthcare Systems (EHR/EMR, Telehealth, ADA, Medical Devices)
 
-**Testing Expertise**  
-Functional • Regression • API • Database • E2E • Exploratory • SIT • Performance • Security • AI/ML Model Validation • Web & Mobile
+### Testing Methodologies & Types
+- **Core Testing:** Functional, Regression, End-to-End (E2E), Exploratory
+- **Technical Testing:** API, Database, Web Services
+- **Platform Testing:** Web, Mobile, Cross-Browser
+- **Process Testing:** System Integration Testing (SIT), Scrum-based Testing
+- **Specialized Testing:** AI/ML Model Validation, Performance, Security
 
-**Tools & Platforms**  
-JIRA • Confluence • TestRail • HP ALM • Postman • SoapUI • Rest Assured • SQL • MySQL • Git
+### Tools & Technologies
 
-**AI & Innovation**  
-ChatGPT • GitHub Copilot • LLM Evaluation • Prompt Engineering • AI Agent Architecture
+**Test Management & Collaboration:** JIRA, Confluence, TestRail, HP ALM
+
+**API & Web Services Testing:** Postman, SoapUI, Rest Assured
+
+**Database & Query:** SQL, MySQL
+
+**AI & Automation Tools:** ChatGPT, GitHub Copilot, LLM Frameworks, AI Agent Architecture & Evaluation, Prompt Engineering & Optimization
+
+**Version Control & DevOps:** Git, CI/CD Pipelines
 
 ---
 
@@ -110,7 +126,7 @@ In healthcare, the stakes are higher than bugs and regressions. Every defect pre
 
 I'm actively seeking opportunities to collaborate on projects at the intersection of healthcare, AI, and quality engineering. Whether you're looking for strategic QA leadership, AI testing expertise, or mentorship, I'd love to connect.
 
-**Open to:** Full-time roles • Consulting engagements •
+**Open to:** Full-time roles • Consulting engagements • Long Term Contract Roles 
 
 📧 **Email:** darshils99@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/darshil-qa-lead](https://www.linkedin.com/in/darshil-qa-lead/)

@@ -82,7 +82,6 @@ A repository for evaluating AI models using automated QA methodologies and testi
 
 ## 💡 Leadership Philosophy
 My approach is defined by empathy, integrity, and transparent communication. I mentor teams to deliver meaningful impact in dynamic healthcare environments.
-> At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence.
 
 ---
 

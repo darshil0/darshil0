@@ -18,14 +18,11 @@ My mission is simple: ensure every line of code, every feature, and every system
 
 ## What I Bring
 
-**Strategic Leadership**  
-Built and mentor global QA teams of 15+ professionals, fostering cultures of excellence and continuous improvement. Champion AI-powered testing methodologies that push the boundaries of what's possible in quality assurance.
+**Strategic Leadership**  Built and mentor global QA teams of 15+ professionals, fostering cultures of excellence and continuous improvement. Champion AI-powered testing methodologies that push the boundaries of what's possible in quality assurance.
 
-**Healthcare Excellence**  
-Deep domain expertise in healthcare systems including EHR/EMR platforms, telehealth solutions, and medical devices. Navigate complex regulatory landscapes including HIPAA, FDA 21 CFR Part 11, and ISO 13485 with confidence.
+**Healthcare Excellence**  Deep domain expertise in healthcare systems including EHR/EMR platforms, telehealth solutions, and medical devices. Navigate complex regulatory landscapes including HIPAA, FDA 21 CFR Part 11, and ISO 13485 with confidence.
 
-**Technical Mastery**  
-Full-spectrum testing across functional, API, database, mobile, web, and emerging AI/ML model validation. Architect comprehensive quality strategies that scale from startups to enterprise healthcare organizations.
+**Technical Mastery**  Full-spectrum testing across functional, API, database, mobile, web, and emerging AI/ML model validation. Architect comprehensive quality strategies that scale from startups to enterprise healthcare organizations.
 
 ---
 
@@ -71,16 +68,11 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 - **Specialized Testing:** AI/ML Model Validation, Performance, Security
 
 ### Tools & Technologies
-
 **Test Management & Collaboration:** JIRA, Confluence, TestRail, HP ALM
-
 **API & Web Services Testing:** Postman, SoapUI, Rest Assured
-
 **Database & Query:** SQL, MySQL
-
 **AI & Automation Tools:** ChatGPT, GitHub Copilot, LLM Frameworks, AI Agent Architecture & Evaluation, Prompt Engineering & Optimization
 
-**Version Control & DevOps:** Git, CI/CD Pipelines
 
 ---
 
@@ -88,6 +80,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 
 **Education**  
 MBA, Information Technology
+B.Tech, Information Technology 
 
 **Professional Certifications**  
 • PMI Certified  
@@ -108,9 +101,7 @@ MBA, Information Technology
 
 ## Leadership Approach
 
-I believe great QA leadership starts with empathy and ends with impact. My teams thrive because I prioritize transparent communication, psychological safety, and continuous learning. I don't just manage quality; I build cultures where quality becomes everyone's responsibility.
-
-In healthcare, the stakes are higher than bugs and regressions. Every defect prevented is a patient protected. That principle guides everything I do.
+I believe great QA leadership starts with empathy and ends with impact. My teams thrive because I prioritize transparent communication, psychological safety, and continuous learning. I don't just manage quality; I build cultures where quality becomes everyone's responsibility. In healthcare, the stakes are higher than bugs and regressions. Every defect prevented is a patient protected. That principle guides everything I do.
 
 ---
 
@@ -130,7 +121,3 @@ I'm actively seeking opportunities to collaborate on projects at the intersectio
 
 📧 **Email:** darshils99@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/darshil-qa-lead](https://www.linkedin.com/in/darshil-qa-lead/)
-
----
-
-<img width="777" height="175" alt="Profile Banner" src="https://github.com/user-attachments/assets/ba71a60e-385f-4b69-a561-d7ff9914ee20" />

@@ -92,6 +92,4 @@ My approach is defined by empathy, integrity, and transparent communication. I m
 
 ## 🤝 Let’s Connect
 
-I’m open to collaboration, mentorship, and innovative QA/AI projects. Let’s work together to transform patient care through smarter QA solutions.
-
-Thanks for visiting! Feel free to explore my projects or reach out for collaboration or job opportunities.
+I’m open to collaboration, mentorship, and innovative QA/AI projects. Let’s work together to transform patient care through smarter QA solutions. Thanks for visiting! Feel free to explore my projects or reach out for collaboration or job opportunities.

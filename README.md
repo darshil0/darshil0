@@ -12,7 +12,7 @@
 
 I lead QA teams that transform healthcare technology by preventing patient safety risks, driving measurable business outcomes, and enabling innovation that saves lives. With a decade of experience spanning **Accenture, Kaiser Permanente, Infosys, and Prime Therapeutics**, I bridge the gap between technical excellence and clinical impact.
 
-My mission is simple: ensure every feature, and every system serves patients safely and effectively.
+My mission is simple: ensure every feature and every system serves patients safely and effectively.
 
 ---
 

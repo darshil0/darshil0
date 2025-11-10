@@ -1,10 +1,10 @@
+```markdown
 # Hi, I'm Darshil Shah 👋
 
-## Test Lead |  Passionate AI & QA Tester | Test Analyst 
+## Test Lead | Passionate AI & QA Tester | Test Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)  
-  
 
 I lead QA teams that do more than find bugs; we **prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation**. Passionate about advancing healthcare technology to **improve outcomes while ensuring compliance, quality, and trust**.
 
@@ -58,7 +58,7 @@ Repository for evaluating AI models using automated QA methods and testing frame
 
 ## 📅 Projects Timeline
 
-```mermaid
+```
 gantt
     dateFormat  YYYY-MM
     title Projects Timeline
@@ -72,3 +72,14 @@ gantt
     Framework Setup         :done, 2023-07, 2m
     Model Testing           :done, 2023-09, 2m
     Automation & Reporting  :done, 2023-11, 1m
+```
+
+---
+
+## 🛠 Core Strengths & Technical Skills
+
+- Tools: JIRA, Confluence, TestRail, Postman, HP ALM, SoapUI, Rest Assured, SQL  
+- Testing: regression, scrum, SIT, exploratory, E2E, API, database, web services  
+- Healthcare systems: EHR/EMR, telehealth, ADA compliance, connected medical devices  
+
+Thanks for visiting my profile! Feel free to explore my projects or reach out for collaboration.

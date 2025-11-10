@@ -1,6 +1,4 @@
------
-
-# Darshil Shah 👋
+# Hi I am Darshil Shah 👋
 
 ### Test Lead | Healthcare QA & AI Specialist | Test Analyst
 

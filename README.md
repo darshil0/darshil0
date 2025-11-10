@@ -1,6 +1,6 @@
 # Darshil Shah
 
-**Test Lead | Healthcare QA Specialist | AI Testing Innovator**
+**Test Lead | Healthcare QA Specialist | Seeking AI Testing Consultant Positions**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshil-qa-lead/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:darshils99@gmail.com)

@@ -1,10 +1,10 @@
 # Hi, I'm Darshil Shah 👋
 
-## Test Lead |  Passionate AI & QA Tester | Test Analyst | 
+## Test Lead |  Passionate AI & QA Tester | Test Analyst 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=googlesites&logoColor=white)](#)  
+  
 
 I lead QA teams that do more than find bugs; we **prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation**. Passionate about advancing healthcare technology to **improve outcomes while ensuring compliance, quality, and trust**.
 

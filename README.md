@@ -3,6 +3,7 @@
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/darshil-qa-lead/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:darshils99@gmail.com)
+https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fsoulsurfer300
 
 I lead QA teams that do more than find bugs; we **prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation**. I am passionate about advancing healthcare technology to **improve outcomes while ensuring compliance, quality, and trust**.
 

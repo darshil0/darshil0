@@ -69,8 +69,11 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 
 ### Tools & Technologies
 **Test Management & Collaboration:** JIRA, Confluence, TestRail, HP ALM
+
 **API & Web Services Testing:** Postman, SoapUI, Rest Assured
+
 **Database & Query:** SQL, MySQL
+
 **AI & Automation Tools:** ChatGPT, GitHub Copilot, LLM Frameworks, AI Agent Architecture & Evaluation, Prompt Engineering & Optimization
 
 

@@ -82,11 +82,11 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 ## Credentials
 
 **Education**  
-MBA, Information Technology
-B.Tech, Information Technology 
+• MBA, Information Technology
+• B.Tech, Information Technology 
 
-**Professional Certifications**  
-• PMI Certified  
+**Professional Certifications that make an impact**  
+• PMI Certified IT Consultant  
 • AWS Certified Cloud Practitioner  
 • Registered Scrum Basics (Agile Education)
 

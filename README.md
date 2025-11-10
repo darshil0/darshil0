@@ -56,7 +56,7 @@ A repository for evaluating AI models using automated QA methodologies and testi
 * **Test Management:** JIRA, Confluence, TestRail, HP ALM
 * **API Testing:** Postman, SoapUI, Rest Assured
 * **AI & Automation:** ChatGPT, Copilot, LLM Frameworks
-* **Data:** SQL
+* **Database:** SQL, ** MYSQL
 
 ---
 

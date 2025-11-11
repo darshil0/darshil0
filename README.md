@@ -77,7 +77,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 
 **Database & Query:** SQL, MySQL
 
-**AI & Automation Tools:** ChatGPT, GitHub Copilot, Microsoft Copilot, Claude, Google Gemini, Perplexity
+**AI & Automation Tools:** ChatGPT, Claude, GitHub Copilot, Google Gemini, Microsoft Copilot, Perplexity
 
 **AI Browsers:** Perplexity Comet 
 
@@ -87,8 +87,8 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 ## Credentials
 
 **Education**  
-• MBA, Information Technology
-• B.Tech, Information Technology 
+• MBA, Information Technology, Sikkim Manipal University, 2013-2015
+• B.Tech, Information Technology, Sardar Patel University, 2007-2011
 
 **Professional Certifications that make an impact**  
 • PMI Certified IT Consultant  

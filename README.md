@@ -29,8 +29,11 @@ My mission is simple: ensure every feature and every system serves patients safe
 ## Impact by the Numbers
 
 **40%** reduction in patient care costs through optimized testing processes and early defect detection
+
 **30%** decrease in patient wait times by ensuring system reliability and performance
+
 **15+** global team members successfully recruited, trained, and mentored
+
 **9+** years driving quality excellence across Fortune 500 healthcare organizations
 
 ---

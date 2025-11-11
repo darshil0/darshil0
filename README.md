@@ -81,7 +81,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 
 **AI Browsers:** Perplexity Comet 
 
-**Other AI Capabilities:** LLM Frameworks, AI Agent Architecture & Evaluation, Prompt Engineering & Optimization,
+**Other AI Capabilities:** LLM Frameworks, AI Agent Architecture & Evaluation, Prompt Engineering & Optimization
 ---
 
 ## Credentials

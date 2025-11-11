@@ -77,9 +77,11 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 
 **Database & Query:** SQL, MySQL
 
-**AI & Automation Tools:** ChatGPT, GitHub Copilot, LLM Frameworks, AI Agent Architecture & Evaluation, Prompt Engineering & Optimization
+**AI & Automation Tools:** ChatGPT, GitHub Copilot, Microsoft Copilot, Claude, Google Gemini, Perplexity
 
+**AI Browsers:** Perplexity Comet 
 
+**Other AI Capabilities:** LLM Frameworks, AI Agent Architecture & Evaluation, Prompt Engineering & Optimization,
 ---
 
 ## Credentials

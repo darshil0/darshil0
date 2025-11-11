@@ -87,7 +87,9 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 ## Credentials
 
 **Education**  
+
 • MBA, Information Technology, Sikkim Manipal University, 2013-2015 
+
 • B.Tech, Information Technology, Sardar Patel University, 2007-2011
 
 **Professional Certifications that make an impact**  

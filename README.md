@@ -10,6 +10,13 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 - 🤝 **End-to-End Quality Assurance:** Ensuring end-to-end quality assurance with a focus on patient safety and clinical impact.
 - 🌐 **Regulatory Compliance:** Ensuring regulatory compliance with HIPAA, FDA, and ISO standards.
 
+## Spotlight
+
+- 💡 Delivered **40% reduction in patient care costs** through shift-left, risk-based testing.
+- 🏥 Improved **patient wait times by 30%** by streamlining QA workflows and automation coverage.
+- 📈 Led, coached, and mentored **global QA teams of 15+ professionals** across multiple time zones.
+- 🤝 Pioneered **AI-powered testing** using LLMs and generative AI to enhance accuracy and scalability.
+
 ## Pinned
 
 - ### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
@@ -77,6 +84,10 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
     </td>
   </tr>
 </table>
+
+## Leadership Philosophy
+
+Empathy, integrity, and transparent communication define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence. I’m committed to mentoring teams that deliver meaningful impact in dynamic healthcare environments.
 
 ## GitHub Activity
 

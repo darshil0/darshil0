@@ -90,10 +90,6 @@ Empathy, integrity, and transparent communication define my leadership approach.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshil0&theme=radical" alt="Profile Details">
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshil0&theme=radical" alt="Repos Per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshil0&theme=radical" alt="Most Commit Language">
 </p>

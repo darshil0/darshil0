@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://x.com/soulsurfer300" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
 </p>
 
@@ -20,85 +20,60 @@
 
 ---
 
-<p align="center">I'm a QA leader passionate about building technology that safeguards patient health and transforms the healthcare landscape. With over a decade of experience at industry leaders like <strong>Accenture, Kaiser Permanente, and Prime Therapeutics</strong>, I specialize in ensuring that healthcare systems are not only innovative but also safe, reliable, and effective.</p>
+<p align="center">I lead QA teams that do far more than find bugs; we prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation. Passionate about advancing healthcare technology that improves outcomes while ensuring compliance, quality, and trust.</p>
 
----
-
-<h2 align="center">✨ Spotlight</h2>
-
+<h3 align="center">Spotlight</h3>
 <p align="center">
-💡 <strong>AI-Powered Testing:</strong> Championing and implementing cutting-edge AI methodologies to enhance testing efficiency and accuracy.
-<br><br>
-🏥 <strong>Healthcare Domain Expert:</strong> Deep knowledge of EHR/EMR systems, telehealth, and medical devices, ensuring compliance with HIPAA, FDA 21 CFR Part 11, and ISO 13485.
-<br><br>
-📈 <strong>Proven Impact:</strong> My work has led to a 40% reduction in patient care costs and a 30% decrease in wait times by optimizing system quality and performance.
-<br><br>
-🤝 <strong>Team Builder:</strong> Successfully recruited, trained, and mentored global teams of 15+ QA professionals, fostering a culture of excellence.
+  💡 Delivered <strong>40% reduction in patient care costs</strong> through shift-left, risk-based testing.
+  <br>
+  🏥 Improved <strong>patient wait times by 30%</strong> by streamlining QA workflows and automation coverage.
+  <br>
+  📈 Led, coached, and mentored <strong>global QA teams of 15+ professionals</strong> across multiple time zones.
+  <br>
+  🤝 Pioneered <strong>AI-powered testing</strong> using LLMs and generative AI to enhance accuracy and scalability.
 </p>
 
 ---
 
-<h2 align="center">🚀 Featured Work</h2>
+<h2 align="center">Featured Work</h2>
 
-<table align="center">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/darshil0/micro-journal-ai">micro-journal-ai</a></h3>
-      <p align="center">Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.</p>
-      <p align="center"><strong>Stack:</strong> React, TailwindCSS, Anthropic Claude API</p>
+      <h3><a href="https://github.com/darshil0/micro-journal-ai">micro-journal-ai</a></h3>
+      <p>Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.</p>
+      <p><strong>Stack:</strong> React, TailwindCSS, Anthropic Claude API</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/darshil0/AI-Evaluation-QA">AI-Evaluation-QA</a></h3>
-      <p align="center">A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.</p>
-      <p align="center"><strong>Stack:</strong> Python, ML Testing Frameworks</p>
+      <h3><a href="https://github.com/darshil0/AI-Evaluation-QA">AI-Evaluation-QA</a></h3>
+      <p>A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.</p>
+      <p><strong>Stack:</strong> Python, ML Testing Frameworks</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">🛠️ My Toolkit</h2>
+<h2 align="center">My Toolkit</h2>
 
-<table align="center">
+<table>
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center">👥 Leadership & Strategy</h3>
+      <h3>Core Strengths</h3>
       <ul>
-        <li>QA Team Leadership & Management</li>
-        <li>Stakeholder Communication</li>
-        <li>Risk Assessment & Mitigation</li>
-        <li>Process Optimization</li>
-        <li>Regulatory Compliance (HIPAA, FDA)</li>
-        <li>Healthcare Systems (EHR/EMR, Telehealth)</li>
+        <li>Strategic QA Leadership & Team Management</li>
+        <li>End-to-End Quality Assurance</li>
+        <li>Regulatory Compliance (HIPAA, FDA, ISO)</li>
+        <li>Cross-Functional Collaboration</li>
+        <li>AI-Driven Automation</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3 align="center">🔧 Testing Methodologies</h3>
+      <h3>Technical Skills</h3>
       <ul>
-        <li>Functional, Regression, E2E</li>
-        <li>API, Database, Web Services</li>
-        <li>Web, Mobile, Cross-Browser</li>
-        <li>System Integration Testing (SIT)</li>
-        <li>AI/ML Model Validation</li>
-        <li>Performance & Security</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">💻 Tools & Technologies</h3>
-      <ul>
-        <li><strong>Test Management:</strong> JIRA, Confluence, TestRail</li>
-        <li><strong>API Testing:</strong> Postman, SoapUI, Rest Assured</li>
-        <li><strong>Databases:</strong> SQL, MySQL</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">🤖 AI & Automation</h3>
-      <ul>
-        <li>ChatGPT, Claude, GitHub Copilot</li>
-        <li>Google Gemini, Microsoft Copilot</li>
-        <li>Perplexity</li>
+        <li><strong>Testing Types:</strong> Regression, Scrum, SIT, Exploratory, E2E, API, Database, Web Services</li>
+        <li><strong>Tools:</strong> JIRA, Confluence, TestRail, Postman, HP ALM, SoapUI, Rest Assured, SQL</li>
+        <li><strong>Healthcare Systems:</strong> EHR/EMR, Telehealth, ADA Compliance, Connected Medical Devices</li>
       </ul>
     </td>
   </tr>
@@ -106,38 +81,30 @@
 
 ---
 
-<h2 align="center">🎓 Credentials</h2>
+<h2 align="center">Credentials</h2>
 
-<table align="center">
+<table>
   <tr>
     <td valign="top" width="50%">
-      <h3 align="center">📚 Education</h3>
+      <h3>Education</h3>
       <ul>
-        <li><strong>MBA, Information Technology</strong><br>Sikkim Manipal University</li>
-        <li><strong>B.Tech, Information Technology</strong><br>Sardar Patel University</li>
+        <li><b>MBA, Information Technology</b><br>Sikkim Manipal University</li>
+        <li><b>B.Tech, Information Technology</b><br>Sardar Patel University</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3 align="center">📜 Professional Certifications</h3>
+      <h3>Certifications</h3>
       <ul>
-        <li>PMI Certified IT Consultant</li>
-        <li>AWS Certified Cloud Practitioner</li>
-        <li>Registered Scrum Basics</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2">
-      <h3 align="center">🚀 AI & Emerging Tech</h3>
-      <ul>
-        <li>Generative AI for Project Managers (PMI)</li>
-        <li>ChatGPT Prompt Engineering (Coursera)</li>
-        <li>Becoming an AI Agent Architect (IBM)</li>
-        <li>Generative AI in Action (IBM)</li>
-        <li>MLOps for Generative AI (Google)</li>
-        <li>Microsoft Copilot Foundations (Microsoft)</li>
-        <li>Introduction to MCP (Anthropic)</li>
-        <li>AI Fluency Framework (Anthropic)</li>
+        <li><b>Introduction to MCP</b> | Anthropic | Oct 2025</li>
+        <li><b>AI Fluency Framework & Foundations</b> | Anthropic | Aug 2025</li>
+        <li><b>Registered Scrum Basics™</b> | Agile Education by Scrum Inc. | Aug 2025</li>
+        <li><b>ChatGPT Prompt Engineering for Developers</b> | Coursera | Jul 2025</li>
+        <li><b>Becoming an AI Agent Architect</b> | IBM | Jul 2025</li>
+        <li><b>Microsoft Copilot Foundations</b> | Microsoft | Jun 2025</li>
+        <li><b>Generative AI in Action</b> | IBM | Jun 2025</li>
+        <li><b>MLOps for Generative AI</b> | Google | Jun 2025</li>
+        <li><b>AWS Cloud Practitioner Essentials</b> | AWS | May 2025</li>
+        <li><b>Generative AI for Project Managers</b> | PMI | Mar 2025</li>
       </ul>
     </td>
   </tr>
@@ -145,7 +112,13 @@
 
 ---
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 align="center">Leadership Philosophy</h2>
+
+<p align="center">Empathy, integrity, and transparent communication define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence. I’m committed to mentoring teams that deliver meaningful impact in dynamic healthcare environments.</p>
+
+---
+
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical" alt="Darshil's GitHub stats">
@@ -157,8 +130,15 @@
 
 ---
 
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center">Let's Connect</h2>
 
-<p align="center">I'm always open to discussing new opportunities in healthcare technology, AI testing, and QA leadership. If you're looking for a strategic partner to help build safer, more effective healthcare solutions, I'd love to chat.</p>
+Ready to connect? Let’s collaborate to build smarter QA solutions and transform patient care through innovation.
 
-<p align="center"><strong>Open to:</strong> Full-time roles, consulting engagements, and long-term contract roles.</p>
+<p align="center">
+  <a href="mailto:darshils99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/darshil-qa-lead/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>

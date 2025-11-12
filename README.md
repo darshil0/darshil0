@@ -17,8 +17,6 @@
 <p align="left">
  redesign-readme
   <img src="https://komarev.com/ghpvc/?username=darshil0" alt="Profile Views">
-
-  <img src="https://gpvc.arturio.dev/darshil0" alt="Profile Views">main
 </p>
 
 ---

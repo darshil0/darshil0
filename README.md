@@ -27,7 +27,6 @@ I'm a QA leader passionate about building technology that safeguards patient hea
 🤝 **Team Builder:** Successfully recruited, trained, and mentored global teams of 15+ QA professionals, fostering a culture of excellence.
 
 ---
----
 
 ## Featured Work
 

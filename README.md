@@ -4,6 +4,12 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/darshil-qa-lead/" target="_blank">
+# Hi, I'm Darshil Shah 👋
+
+### *Test Lead | Healthcare QA Specialist | Seeking AI Testing Consultant Positions*
+
+<p align="left">
+  <a href="https.linkedin.com/in/darshil-qa-lead/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:darshils99@gmail.com" target="_blank">
@@ -31,6 +37,22 @@ I'm a QA leader passionate about building technology that safeguards patient hea
 ---
 
 <h2 align="center">Featured Work</h2>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=darshil0" alt="Profile Views">
+</p>
+
+---
+
+I'm a QA leader passionate about building technology that safeguards patient health and transforms the healthcare landscape. With over a decade of experience at industry leaders like **Accenture, Kaiser Permanente, and Prime Therapeutics**, I specialize in ensuring that healthcare systems are not only innovative but also safe, reliable, and effective.
+
+### Spotlight
+💡 **AI-Powered Testing:** Championing and implementing cutting-edge AI methodologies to enhance testing efficiency and accuracy.
+🏥 **Healthcare Domain Expert:** Deep knowledge of EHR/EMR systems, telehealth, and medical devices, ensuring compliance with HIPAA, FDA 21 CFR Part 11, and ISO 13485.
+📈 **Proven Impact:** My work has led to a 40% reduction in patient care costs and a 30% decrease in wait times by optimizing system quality and performance.
+🤝 **Team Builder:** Successfully recruited, trained, and mentored global teams of 15+ QA professionals, fostering a culture of excellence.
+
+---
+
+## Featured Work
 
 ### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
 Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI, demonstrating the intersection of quality engineering and user-centered AI applications.
@@ -45,6 +67,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 ---
 
 <h2 align="center">My Toolkit</h2>
+## My Toolkit
 
 <table>
   <tr>
@@ -94,6 +117,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 ---
 
 <h2 align="center">Credentials</h2>
+## Credentials
 
 <table>
   <tr>
@@ -145,6 +169,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 ---
 
 <h2 align="center">Let's Connect</h2>
+## Let's Connect
 
 I'm always open to discussing new opportunities in healthcare technology, AI testing, and QA leadership. If you're looking for a strategic partner to help build safer, more effective healthcare solutions, I'd love to chat.
 

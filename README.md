@@ -90,11 +90,17 @@ Empathy, integrity, and transparent communication define my leadership approach.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical&include_all_commits=true" alt="Darshil's GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshil0&theme=radical" alt="Profile Details">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&langs_count=8" alt="Top Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshil0&theme=radical" alt="Repos Per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshil0&theme=radical" alt="Most Commit Language">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshil0&theme=radical" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darshil0&theme=radical&utcOffset=8" alt="Productive Time">
 </p>
 
 ---

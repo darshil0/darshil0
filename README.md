@@ -22,7 +22,9 @@
 
 <p align="center">I'm a QA leader passionate about building technology that safeguards patient health and transforms the healthcare landscape. With over a decade of experience at industry leaders like <strong>Accenture, Kaiser Permanente, and Prime Therapeutics</strong>, I specialize in ensuring that healthcare systems are not only innovative but also safe, reliable, and effective.</p>
 
-<h3 align="center">Spotlight</h3>
+---
+
+<h2 align="center">✨ Spotlight</h2>
 
 <p align="center">
 💡 <strong>AI-Powered Testing:</strong> Championing and implementing cutting-edge AI methodologies to enhance testing efficiency and accuracy.
@@ -36,31 +38,31 @@
 
 ---
 
-<h2 align="center">Featured Work</h2>
+<h2 align="center">🚀 Featured Work</h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/darshil0/micro-journal-ai">micro-journal-ai</a></h3>
-      <p>Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.</p>
-      <p><strong>Stack:</strong> React, TailwindCSS, Anthropic Claude API</p>
+      <h3 align="center"><a href="https://github.com/darshil0/micro-journal-ai">micro-journal-ai</a></h3>
+      <p align="center">Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.</p>
+      <p align="center"><strong>Stack:</strong> React, TailwindCSS, Anthropic Claude API</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/darshil0/AI-Evaluation-QA">AI-Evaluation-QA</a></h3>
-      <p>A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.</p>
-      <p><strong>Stack:</strong> Python, ML Testing Frameworks</p>
+      <h3 align="center"><a href="https://github.com/darshil0/AI-Evaluation-QA">AI-Evaluation-QA</a></h3>
+      <p align="center">A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.</p>
+      <p align="center"><strong>Stack:</strong> Python, ML Testing Frameworks</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">My Toolkit</h2>
+<h2 align="center">🛠️ My Toolkit</h2>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
-      <h3>👥 Leadership & Strategy</h3>
+      <h3 align="center">👥 Leadership & Strategy</h3>
       <ul>
         <li>QA Team Leadership & Management</li>
         <li>Stakeholder Communication</li>
@@ -71,7 +73,7 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>🔧 Testing Methodologies</h3>
+      <h3 align="center">🔧 Testing Methodologies</h3>
       <ul>
         <li>Functional, Regression, E2E</li>
         <li>API, Database, Web Services</li>
@@ -84,7 +86,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>💻 Tools & Technologies</h3>
+      <h3 align="center">💻 Tools & Technologies</h3>
       <ul>
         <li><strong>Test Management:</strong> JIRA, Confluence, TestRail</li>
         <li><strong>API Testing:</strong> Postman, SoapUI, Rest Assured</li>
@@ -92,7 +94,7 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>🤖 AI & Automation</h3>
+      <h3 align="center">🤖 AI & Automation</h3>
       <ul>
         <li>ChatGPT, Claude, GitHub Copilot</li>
         <li>Google Gemini, Microsoft Copilot</li>
@@ -104,19 +106,19 @@
 
 ---
 
-<h2 align="center">Credentials</h2>
+<h2 align="center">🎓 Credentials</h2>
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
-      <h3>🎓 Education</h3>
+      <h3 align="center">📚 Education</h3>
       <ul>
         <li><strong>MBA, Information Technology</strong><br>Sikkim Manipal University</li>
         <li><strong>B.Tech, Information Technology</strong><br>Sardar Patel University</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>📜 Professional Certifications</h3>
+      <h3 align="center">📜 Professional Certifications</h3>
       <ul>
         <li>PMI Certified IT Consultant</li>
         <li>AWS Certified Cloud Practitioner</li>
@@ -126,7 +128,7 @@
   </tr>
   <tr>
     <td valign="top" colspan="2">
-      <h3>🚀 AI & Emerging Tech</h3>
+      <h3 align="center">🚀 AI & Emerging Tech</h3>
       <ul>
         <li>Generative AI for Project Managers (PMI)</li>
         <li>ChatGPT Prompt Engineering (Coursera)</li>
@@ -143,7 +145,7 @@
 
 ---
 
-<h2 align="center">GitHub Activity</h2>
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical" alt="Darshil's GitHub stats">
@@ -155,7 +157,7 @@
 
 ---
 
-<h2 align="center">Let's Connect</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">I'm always open to discussing new opportunities in healthcare technology, AI testing, and QA leadership. If you're looking for a strategic partner to help build safer, more effective healthcare solutions, I'd love to chat.</p>
 

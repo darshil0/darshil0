@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Darshil Shah 👋</h1>
 
-<h3 align="center">*Test Lead | Healthcare QA Specialist | Seeking AI Testing Consultant Positions*</h3>
+<h3 align="center">Driving Healthcare Innovation Through Quality Engineering</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/darshil-qa-lead/" target="_blank">
@@ -37,15 +37,20 @@
 
 <h2 align="center">Featured Work</h2>
 
-### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
-Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI, demonstrating the intersection of quality engineering and user-centered AI applications.
-
-**Stack:** React, TailwindCSS, Anthropic Claude API
-
-### [AI-Evaluation-QA](https://github.com/darshil0/AI-Evaluation-QA)
-Specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems and ensuring AI reliability in production environments.
-
-**Stack:** Python, ML Testing Frameworks
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/darshil0/micro-journal-ai">micro-journal-ai</a></h3>
+      <p>Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.</p>
+      <p><strong>Stack:</strong> React, TailwindCSS, Anthropic Claude API</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/darshil0/AI-Evaluation-QA">AI-Evaluation-QA</a></h3>
+      <p>A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.</p>
+      <p><strong>Stack:</strong> Python, ML Testing Frameworks</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,7 +59,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Leadership & Strategy</h3>
+      <h3><img src="https://icongr.am/clarity/users.svg?size=24&color=currentColor" alt="Leadership & Strategy"> Leadership & Strategy</h3>
       <ul>
         <li>QA Team Leadership & Management</li>
         <li>Stakeholder Communication</li>
@@ -65,7 +70,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>Testing Methodologies</h3>
+      <h3><img src="https://icongr.am/clarity/wrench.svg?size=24&color=currentColor" alt="Testing Methodologies"> Testing Methodologies</h3>
       <ul>
         <li>Functional, Regression, E2E</li>
         <li>API, Database, Web Services</li>
@@ -78,7 +83,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>Tools & Technologies</h3>
+      <h3><img src="https://icongr.am/clarity/computer.svg?size=24&color=currentColor" alt="Tools & Technologies"> Tools & Technologies</h3>
       <ul>
         <li><strong>Test Management:</strong> JIRA, Confluence, TestRail</li>
         <li><strong>API Testing:</strong> Postman, SoapUI, Rest Assured</li>
@@ -86,7 +91,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>AI & Automation</h3>
+      <h3><img src="https://icongr.am/clarity/atom.svg?size=24&color=currentColor" alt="AI & Automation"> AI & Automation</h3>
       <ul>
         <li>ChatGPT, Claude, GitHub Copilot</li>
         <li>Google Gemini, Microsoft Copilot</li>

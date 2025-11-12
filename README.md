@@ -86,11 +86,15 @@ Empathy, integrity, and transparent communication define my leadership approach.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical&include_all_commits=true&cache_seconds=1800" alt="Darshil's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical&include_all_commits=true&nocache=true" alt="Darshil's GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&cache_seconds=1800&langs_count=8" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshil0&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&langs_count=8&nocache=true" alt="Top Languages">
 </p>
 
 ---

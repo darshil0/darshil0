@@ -1,133 +1,113 @@
-# Darshil Shah
+# Hi, I'm Darshil Shah 👋
 
-**Test Lead | Healthcare QA Specialist | Seeking AI Testing Consultant Positions**
+I lead QA teams that do far more than find bugs; we prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation. Passionate about advancing healthcare technology that improves outcomes while ensuring compliance, quality, and trust.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshil-qa-lead/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:darshils99@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x)](https://x.com/soulsurfer300)
+## What I Work On
 
----
+- 💡 **AI-Powered Testing:** Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.
+- 🏥 **Healthcare Innovation:** Driving healthcare innovation with a focus on quality engineering.
+- 📈 **Strategic QA Leadership:** Leading, coaching, and mentoring global QA teams of 15+ professionals.
+- 🤝 **End-to-End Quality Assurance:** Ensuring end-to-end quality assurance with a focus on patient safety and clinical impact.
+- 🌐 **Regulatory Compliance:** Ensuring regulatory compliance with HIPAA, FDA, and ISO standards.
+
+## Spotlight
+
+- 💡 Delivered **40% reduction in patient care costs** through shift-left, risk-based testing.
+- 🏥 Improved **patient wait times by 30%** by streamlining QA workflows and automation coverage.
+- 📈 Led, coached, and mentored **global QA teams of 15+ professionals** across multiple time zones.
+- 🤝 Pioneered **AI-powered testing** using LLMs and generative AI to enhance accuracy and scalability.
+
+## Pinned
+
+- ### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
+  - Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.
+- ### [AI-Evaluation-QA](https://github.com/darshil0/AI-Evaluation-QA)
+  - A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.
 
 ## About Me
 
-I lead QA teams that transform healthcare technology by preventing patient safety risks, driving measurable business outcomes, and enabling innovation that saves lives. With a decade of experience spanning **Accenture, Kaiser Permanente, Infosys, and Prime Therapeutics**, I bridge the gap between technical excellence and clinical impact.
-
-My mission is simple: ensure every feature and every system serves patients safely and effectively.
-
----
-
-## What I Bring
-
-**Strategic Leadership**  Built and mentor global QA teams of 15+ professionals, fostering cultures of excellence and continuous improvement. Champion AI-powered testing methodologies that push the boundaries of what's possible in quality assurance.
-
-**Healthcare Excellence**  Deep domain expertise in healthcare systems including EHR/EMR platforms, telehealth solutions, and medical devices. Navigate complex regulatory landscapes including HIPAA, FDA 21 CFR Part 11, and ISO 13485 with confidence.
-
-**Technical Mastery**  Full-spectrum testing across functional, API, database, mobile, web, and emerging AI/ML model validation. Architect comprehensive quality strategies that scale from startups to enterprise healthcare organizations.
-
----
-
-## Impact by the Numbers
-
-**40%** reduction in patient care costs through optimized testing processes and early defect detection
-
-**30%** decrease in patient wait times by ensuring system reliability and performance
-
-**15+** global team members successfully recruited, trained, and mentored
-
-**9+** years driving quality excellence across Fortune 500 healthcare organizations
-
----
-
-## Featured Work
-
-### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
-Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI, demonstrating the intersection of quality engineering and user-centered AI applications.
-
-**Stack:** React, TailwindCSS, Anthropic Claude API
-
-### [AI-Evaluation-QA](https://github.com/darshil0/AI-Evaluation-QA)
-Specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems and ensuring AI reliability in production environments.
-
-**Stack:** Python, ML Testing Frameworks
-
----
-
-## Technical Arsenal
-
-### Leadership & Strategy
-- QA Team Leadership & Management
-- Stakeholder Management & Communication
-- Risk Assessment & Mitigation
-- Process Optimization & Improvement
-- Regulatory Compliance (HIPAA, FDA 21 CFR Part 11, ISO 13485)
-- Cross-Functional Collaboration
-- Healthcare Systems (EHR/EMR, Telehealth, ADA, Medical Devices)
-
-### Testing Methodologies & Types
-- **Core Testing:** Functional, Regression, End-to-End (E2E), Exploratory
-- **Technical Testing:** API, Database, Web Services
-- **Platform Testing:** Web, Mobile, Cross-Browser
-- **Process Testing:** System Integration Testing (SIT), Scrum-based Testing
-- **Specialized Testing:** AI/ML Model Validation, Performance, Security
-
-### Tools & Technologies
-**Test Management & Collaboration:** JIRA, Confluence, TestRail, HP ALM
-
-**API & Web Services Testing:** Postman, SoapUI, Rest Assured
-
-**Database & Query:** SQL, MySQL
-
-**AI & Automation Tools:** ChatGPT, Claude, GitHub Copilot, Google Gemini, Microsoft Copilot, Perplexity
-
-**AI Browsers:** Perplexity Comet 
-
-
----
+- 🎓 MBA in Information Technology and B.Tech in Information Technology.
+- 🏆 Awarded for leadership and technical excellence at Accenture.
+- 💬 Ask me about AI, QA, and healthcare technology.
+- 📫 How to reach me: darshils99@gmail.com
 
 ## Credentials
 
-**Education**  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Education</h3>
+      <ul>
+        <li><b>MBA, Information Technology</b><br>Sikkim Manipal University</li>
+        <li><b>B.Tech, Information Technology</b><br>Sardar Patel University</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Certifications</h3>
+      <ul>
+        <li><b>Introduction to MCP</b> | Anthropic | Oct 2025</li>
+        <li><b>AI Fluency Framework & Foundations</b> | Anthropic | Aug 2025</li>
+        <li><b>Registered Scrum Basics™</b> | Agile Education by Scrum Inc. | Aug 2025</li>
+        <li><b>ChatGPT Prompt Engineering for Developers</b> | Coursera | Jul 2025</li>
+        <li><b>Becoming an AI Agent Architect</b> | IBM | Jul 2025</li>
+        <li><b>Microsoft Copilot Foundations</b> | Microsoft | Jun 2025</li>
+        <li><b>Generative AI in Action</b> | IBM | Jun 2025</li>
+        <li><b>MLOps for Generative AI</b> | Google | Jun 2025</li>
+        <li><b>AWS Cloud Practitioner Essentials</b> | AWS | May 2025</li>
+        <li><b>Generative AI for Project Managers</b> | PMI | Mar 2025</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-• MBA, Information Technology, Sikkim Manipal University, 2013-2015 
+## My Toolkit
 
-• B.Tech, Information Technology, Sardar Patel University, 2007-2011
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3><img src="https://icongr.am/clarity/star.svg?size=24&color=currentColor" alt="Core Strengths"> Core Strengths</h3>
+      <ul>
+        <li>Strategic QA Leadership & Team Management</li>
+        <li>End-to-End Quality Assurance</li>
+        <li>Regulatory Compliance (HIPAA, FDA, ISO)</li>
+        <li>Cross-Functional Collaboration</li>
+        <li>AI-Driven Automation</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3><img src="https://icongr.am/clarity/code.svg?size=24&color=currentColor" alt="Technical Skills"> Technical Skills</h3>
+      <ul>
+        <li><strong>Testing Types:</strong> Regression, Scrum, SIT, Exploratory, E2E, API, Database, Web Services</li>
+        <li><strong>Tools:</strong> JIRA, Confluence, TestRail, Postman, HP ALM, SoapUI, Rest Assured, SQL</li>
+        <li><strong>Healthcare Systems:</strong> EHR/EMR, Telehealth, ADA Compliance, Connected Medical Devices</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-**Professional Certifications that make an impact**  
-• PMI Certified IT Consultant  
-• AWS Certified Cloud Practitioner  
-• Registered Scrum Basics (Agile Education)
+## Leadership Philosophy
 
-**AI & Emerging Tech**  
-• Generative AI for Project Managers (PMI)  
-• ChatGPT Prompt Engineering (Coursera)  
-• Becoming an AI Agent Architect (IBM)  
-• Generative AI in Action (IBM)  
-• MLOps for Generative AI (Google)  
-• Microsoft Copilot Foundations (Microsoft)  
-• Introduction to MCP (Anthropic)  
-• AI Fluency Framework (Anthropic)
-
----
-
-## Leadership Approach
-
-I believe great QA leadership starts with empathy and ends with impact. My teams thrive because I prioritize transparent communication, psychological safety, and continuous learning. I don't just manage quality; I build cultures where quality becomes everyone's responsibility. In healthcare, the stakes are higher than bugs and regressions. Every defect prevented is a patient protected. That principle guides everything I do.
-
----
+Empathy, integrity, and transparent communication define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence. I’m committed to mentoring teams that deliver meaningful impact in dynamic healthcare environments.
 
 ## GitHub Activity
 
-![Darshil's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical&cache_seconds=1" alt="Darshil's GitHub stats">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&cache_seconds=1" alt="Top Languages">
+</p>
 
----
+## Let's Connect
 
-## Let's Build Something
+Ready to connect? Let’s collaborate to build smarter QA solutions and transform patient care through innovation.
 
-I'm actively seeking opportunities to collaborate on projects at the intersection of healthcare, AI, and quality engineering. Whether you're looking for strategic QA leadership, AI testing expertise, or mentorship, I'd love to connect.
-
-**Open to:** Full-time roles • Consulting engagements • Long Term Contract Roles 
-
-📧 **Email:** darshils99@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/darshil-qa-lead](https://www.linkedin.com/in/darshil-qa-lead/)
+<p align="center">
+  <a href="mailto:darshils99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/darshil-qa-lead/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>

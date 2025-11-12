@@ -2,12 +2,6 @@
 
 I lead QA teams that do far more than find bugs; we prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation. Passionate about advancing healthcare technology that improves outcomes while ensuring compliance, quality, and trust.
 
-- 💡 **AI-Powered Testing:** Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.
-- 🏥 **Healthcare Innovation:** Driving healthcare innovation with a focus on quality engineering.
-- 📈 **Strategic QA Leadership:** Leading, coaching, and mentoring global QA teams of 15+ professionals.
-- 🤝 **End-to-End Quality Assurance:** Ensuring end-to-end quality assurance with a focus on patient safety and clinical impact.
-- 🌐 **Regulatory Compliance:** Ensuring regulatory compliance with HIPAA, FDA, and ISO standards.
-
 ## What I Work On
 
 - 💡 **AI-Powered Testing:** Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.

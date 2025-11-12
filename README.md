@@ -65,7 +65,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Core Strengths</h3>
+      <h3><img src="https://icongr.am/clarity/star.svg?size=24&color=currentColor" alt="Core Strengths"> Core Strengths</h3>
       <ul>
         <li>Strategic QA Leadership & Team Management</li>
         <li>End-to-End Quality Assurance</li>
@@ -75,7 +75,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>Technical Skills</h3>
+      <h3><img src="https://icongr.am/clarity/code.svg?size=24&color=currentColor" alt="Technical Skills"> Technical Skills</h3>
       <ul>
         <li><strong>Testing Types:</strong> Regression, Scrum, SIT, Exploratory, E2E, API, Database, Web Services</li>
         <li><strong>Tools:</strong> JIRA, Confluence, TestRail, Postman, HP ALM, SoapUI, Rest Assured, SQL</li>

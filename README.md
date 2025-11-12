@@ -1,87 +1,30 @@
-<h1 align="center">Hi, I'm Darshil Shah 👋</h1>
+# Hi, I'm Darshil Shah 👋
 
-<h3 align="center">Driving Healthcare Innovation Through Quality Engineering</h3>
+I lead QA teams that do far more than find bugs; we prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation. Passionate about advancing healthcare technology that improves outcomes while ensuring compliance, quality, and trust.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/darshil-qa-lead/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:darshils99@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://x.com/soulsurfer300" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-  </a>
-</p>
+## What I Work On
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darshil0" alt="Profile Views">
-</p>
+- 💡 **AI-Powered Testing:** Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.
+- 🏥 **Healthcare Innovation:** Driving healthcare innovation with a focus on quality engineering.
+- 📈 **Strategic QA Leadership:** Leading, coaching, and mentoring global QA teams of 15+ professionals.
+- 🤝 **End-to-End Quality Assurance:** Ensuring end-to-end quality assurance with a focus on patient safety and clinical impact.
+- 🌐 **Regulatory Compliance:** Ensuring regulatory compliance with HIPAA, FDA, and ISO standards.
 
----
+## Pinned
 
-<p align="center">I lead QA teams that do far more than find bugs; we prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation. Passionate about advancing healthcare technology that improves outcomes while ensuring compliance, quality, and trust.</p>
+- ### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
+  - Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.
+- ### [AI-Evaluation-QA](https://github.com/darshil0/AI-Evaluation-QA)
+  - A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.
 
-<h3 align="center">Spotlight</h3>
-<p align="center">
-  💡 Delivered <strong>40% reduction in patient care costs</strong> through shift-left, risk-based testing.
-  <br>
-  🏥 Improved <strong>patient wait times by 30%</strong> by streamlining QA workflows and automation coverage.
-  <br>
-  📈 Led, coached, and mentored <strong>global QA teams of 15+ professionals</strong> across multiple time zones.
-  <br>
-  🤝 Pioneered <strong>AI-powered testing</strong> using LLMs and generative AI to enhance accuracy and scalability.
-</p>
+## About Me
 
----
+- 🎓 MBA in Information Technology and B.Tech in Information Technology.
+- 🏆 Awarded for leadership and technical excellence at Accenture.
+- 💬 Ask me about AI, QA, and healthcare technology.
+- 📫 How to reach me: darshils99@gmail.com
 
-<h2 align="center">Featured Work</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/darshil0/micro-journal-ai">micro-journal-ai</a></h3>
-      <p>Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.</p>
-      <p><strong>Stack:</strong> React, TailwindCSS, Anthropic Claude API</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/darshil0/AI-Evaluation-QA">AI-Evaluation-QA</a></h3>
-      <p>A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.</p>
-      <p><strong>Stack:</strong> Python, ML Testing Frameworks</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">My Toolkit</h2>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><img src="https://icongr.am/clarity/star.svg?size=24&color=currentColor" alt="Core Strengths"> Core Strengths</h3>
-      <ul>
-        <li>Strategic QA Leadership & Team Management</li>
-        <li>End-to-End Quality Assurance</li>
-        <li>Regulatory Compliance (HIPAA, FDA, ISO)</li>
-        <li>Cross-Functional Collaboration</li>
-        <li>AI-Driven Automation</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3><img src="https://icongr.am/clarity/code.svg?size=24&color=currentColor" alt="Technical Skills"> Technical Skills</h3>
-      <ul>
-        <li><strong>Testing Types:</strong> Regression, Scrum, SIT, Exploratory, E2E, API, Database, Web Services</li>
-        <li><strong>Tools:</strong> JIRA, Confluence, TestRail, Postman, HP ALM, SoapUI, Rest Assured, SQL</li>
-        <li><strong>Healthcare Systems:</strong> EHR/EMR, Telehealth, ADA Compliance, Connected Medical Devices</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">Credentials</h2>
+## Credentials
 
 <table>
   <tr>
@@ -110,15 +53,32 @@
   </tr>
 </table>
 
----
+## My Toolkit
 
-<h2 align="center">Leadership Philosophy</h2>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Core Strengths</h3>
+      <ul>
+        <li>Strategic QA Leadership & Team Management</li>
+        <li>End-to-End Quality Assurance</li>
+        <li>Regulatory Compliance (HIPAA, FDA, ISO)</li>
+        <li>Cross-Functional Collaboration</li>
+        <li>AI-Driven Automation</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Technical Skills</h3>
+      <ul>
+        <li><strong>Testing Types:</strong> Regression, Scrum, SIT, Exploratory, E2E, API, Database, Web Services</li>
+        <li><strong>Tools:</strong> JIRA, Confluence, TestRail, Postman, HP ALM, SoapUI, Rest Assured, SQL</li>
+        <li><strong>Healthcare Systems:</strong> EHR/EMR, Telehealth, ADA Compliance, Connected Medical Devices</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<p align="center">Empathy, integrity, and transparent communication define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence. I’m committed to mentoring teams that deliver meaningful impact in dynamic healthcare environments.</p>
-
----
-
-<h2 align="center">GitHub Activity</h2>
+## GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical&cache_seconds=1" alt="Darshil's GitHub stats">
@@ -128,12 +88,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&cache_seconds=1" alt="Top Languages">
 </p>
 
----
-
----
-
-<h2 align="center">Let's Connect</h2>
-<h4 align="center">Open to new opportunities and collaborations.</h4>
+## Let's Connect
 
 Ready to connect? Let’s collaborate to build smarter QA solutions and transform patient care through innovation.
 

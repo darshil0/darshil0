@@ -4,7 +4,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ---
 
-## What I Work On?
+## What I Work On
 
 - 💡 **AI-Powered Testing:** Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.
 - 🏥 **Healthcare Innovation:** Driving healthcare innovation with a focus on quality engineering.
@@ -14,7 +14,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ---
 
-## Noteworthy Achievements Spotlight:
+## Spotlight
 
 - 💡 Delivered **40% reduction in patient care costs** through shift-left, risk-based testing.
 - 🏥 Improved **patient wait times by 30%** by streamlining QA workflows and automation coverage.
@@ -90,7 +90,7 @@ Empathy, integrity, and transparent communication define my leadership approach.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&cache_seconds=1&rand=29384" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&cache_seconds=1&rand=83742" alt="Top Languages">
 </p>
 
 ---

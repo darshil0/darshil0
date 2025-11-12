@@ -97,10 +97,6 @@ Empathy, integrity, and transparent communication define my leadership approach.
 
 ## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical&include_all_commits=true" alt="Darshil's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&cache_seconds=1&rand=83742" alt="Top Languages">
-
----
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </p>
@@ -124,12 +120,3 @@ Empathy, integrity, and transparent communication define my leadership approach.
 ## Let's Connect
 
 Ready to connect? Let's collaborate to build smarter QA solutions and transform patient care through innovation.
-
-<p align="center">
-  <a href="mailto:darshils99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/darshil-qa-lead/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>

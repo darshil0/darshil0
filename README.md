@@ -1,21 +1,18 @@
-<h1 align="center">Hi, I'm Darshil Shah 👋</h1>
+# Hi, I'm Darshil Shah 👋
 
-<h3 align="center">*Test Lead | Healthcare QA Specialist | Seeking AI Testing Consultant Positions*</h3>
+### *Test Lead | Healthcare QA Specialist | Seeking AI Testing Consultant Positions*
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darshil0" alt="Profile Views">
 </p>
 
----
-
 I'm a QA leader passionate about building technology that safeguards patient health and transforms the healthcare landscape. With over a decade of experience at industry leaders like **Accenture, Kaiser Permanente, and Prime Therapeutics**, I specialize in ensuring that healthcare systems are not only innovative but also safe, reliable, and effective.
 
-<h2 align="center">Featured Work</h2>
 ---
-I'm a QA leader passionate about building technology that safeguards patient health and transforms the healthcare landscape. With over a decade of experience at industry leaders like **Accenture, Kaiser Permanente, and Prime Therapeutics**, I specialize in ensuring that healthcare systems are not only innovative but also safe, reliable, and effective.
 
-### Spotlight
-💡 **AI-Powered Testing: ** Championing and implementing cutting-edge AI methodologies to enhance testing efficiency and accuracy.
+## 🌟 SPOTLIGHT
+
+💡 **AI-Powered Testing:** Championing and implementing cutting-edge AI methodologies to enhance testing efficiency and accuracy.
 
 🏥 **Healthcare Domain Expert:** Deep knowledge of EHR/EMR systems, telehealth, and medical devices, ensuring compliance with HIPAA, FDA 21 CFR Part 11, and ISO 13485.
 
@@ -25,7 +22,7 @@ I'm a QA leader passionate about building technology that safeguards patient hea
 
 ---
 
-## Featured Work
+## 🚀 Featured Work
 
 ### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
 Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI, demonstrating the intersection of quality engineering and user-centered AI applications.
@@ -39,8 +36,8 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 
 ---
 
-<h2 align="center">My Toolkit</h2>
-## My Toolkit
+## 🛠️ My Toolkit
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -88,16 +85,15 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 
 ---
 
-<h2 align="center">Credentials</h2>
-## Credentials
+## 🎓 Credentials
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <h3>Education</h3>
       <ul>
-        <li><b>MBA, Information Technology</b><br>Sikkim Manipal University</li>
-        <li><b>B.Tech, Information Technology</b><br>Sardar Patel University</li>
+        <li><strong>MBA, Information Technology</strong><br>Sikkim Manipal University</li>
+        <li><strong>B.Tech, Information Technology</strong><br>Sardar Patel University</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -128,7 +124,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 
 ---
 
-<h2 align="center">GitHub Activity</h2>
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical" alt="Darshil's GitHub stats">
@@ -140,8 +136,7 @@ Specialized repository for evaluating AI/ML models using custom QA methodologies
 
 ---
 
-<h2 align="center">Let's Connect</h2>
-## Let's Connect
+## 🤝 Let's Connect
 
 I'm always open to discussing new opportunities in healthcare technology, AI testing, and QA leadership. If you're looking for a strategic partner to help build safer, more effective healthcare solutions, I'd love to chat.
 

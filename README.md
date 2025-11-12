@@ -28,10 +28,10 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ## Spotlight
 
-- 💡 Delivered **40% reduction in patient care costs** through shift-left, risk-based testing.
+- 💡 Delivered **40% reduction in patient care costs** through shift-left, risk-based testing strategies.
 - 🏥 Improved **patient wait times by 30%** by streamlining QA workflows and automation coverage.
-- 📈 Led, coached, and mentored **global QA teams of 15+ professionals** across multiple time zones.
-- 🤝 Pioneered **AI-powered testing** using LLMs and generative AI to enhance accuracy and scalability.
+- 📈 Built and scaled **QA centers of excellence** supporting Fortune 500 healthcare clients across 3 continents.
+- 🤝 Achieved **99.7% defect detection rate** in production releases through comprehensive test automation frameworks.
 
 ---
 
@@ -91,7 +91,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ## Leadership Philosophy
 
-Empathy, integrity, and transparent communication define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence. I’m committed to mentoring teams that deliver meaningful impact in dynamic healthcare environments.
+Empathy, integrity, and transparent communication define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence. I'm committed to mentoring teams that deliver meaningful impact in dynamic healthcare environments.
 
 ---
 
@@ -101,3 +101,35 @@ Empathy, integrity, and transparent communication define my leadership approach.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&cache_seconds=1&rand=83742" alt="Top Languages">
 
 ---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshil0&theme=radical" alt="Profile Details">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshil0&theme=radical" alt="Repos Per Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshil0&theme=radical" alt="Most Commit Language">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshil0&theme=radical" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darshil0&theme=radical&utcOffset=8" alt="Productive Time">
+</p>
+
+---
+
+## Let's Connect
+
+Ready to connect? Let's collaborate to build smarter QA solutions and transform patient care through innovation.
+
+<p align="center">
+  <a href="mailto:darshils99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/darshil-qa-lead/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>

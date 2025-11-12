@@ -79,25 +79,25 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ## Leadership Philosophy
 
-Empathy, integrity, and transparent communication define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence. I’m committed to mentoring teams that deliver meaningful impact in dynamic healthcare environments.
+Empathy, integrity, and transparent communication define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence. I'm committed to mentoring teams that deliver meaningful impact in dynamic healthcare environments.
 
 ---
 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical&include_all_commits=true" alt="Darshil's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical&include_all_commits=true&cache_seconds=1800" alt="Darshil's GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&cache_seconds=1&rand=83742" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&cache_seconds=1800&langs_count=8" alt="Top Languages">
 </p>
 
 ---
 
 ## Let's Connect
 
-Ready to connect? Let’s collaborate to build smarter QA solutions and transform patient care through innovation.
+Ready to connect? Let's collaborate to build smarter QA solutions and transform patient care through innovation.
 
 <p align="center">
   <a href="mailto:darshils99@gmail.com">

@@ -160,12 +160,3 @@
 <p align="center">I'm always open to discussing new opportunities in healthcare technology, AI testing, and QA leadership. If you're looking for a strategic partner to help build safer, more effective healthcare solutions, I'd love to chat.</p>
 
 <p align="center"><strong>Open to:</strong> Full-time roles, consulting engagements, and long-term contract roles.</p>
-
-<p align="center">
-  <a href="mailto:darshils99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/darshil-qa-lead/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>

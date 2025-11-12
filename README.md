@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://x.com/soulsurfer300" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </p>
 
@@ -20,17 +20,18 @@
 
 ---
 
-<p align="center">I'm a QA leader passionate about building technology that safeguards patient health and transforms the healthcare landscape. With over a decade of experience at industry leaders like **Accenture, Kaiser Permanente, and Prime Therapeutics**, I specialize in ensuring that healthcare systems are not only innovative but also safe, reliable, and effective.</p>
+<p align="center">I'm a QA leader passionate about building technology that safeguards patient health and transforms the healthcare landscape. With over a decade of experience at industry leaders like <strong>Accenture, Kaiser Permanente, and Prime Therapeutics</strong>, I specialize in ensuring that healthcare systems are not only innovative but also safe, reliable, and effective.</p>
 
 <h3 align="center">Spotlight</h3>
+
 <p align="center">
-💡 **AI-Powered Testing:** Championing and implementing cutting-edge AI methodologies to enhance testing efficiency and accuracy.
-<br>
-🏥 **Healthcare Domain Expert:** Deep knowledge of EHR/EMR systems, telehealth, and medical devices, ensuring compliance with HIPAA, FDA 21 CFR Part 11, and ISO 13485.
-<br>
-📈 **Proven Impact:** My work has led to a 40% reduction in patient care costs and a 30% decrease in wait times by optimizing system quality and performance.
-<br>
-🤝 **Team Builder:** Successfully recruited, trained, and mentored global teams of 15+ QA professionals, fostering a culture of excellence.
+💡 <strong>AI-Powered Testing:</strong> Championing and implementing cutting-edge AI methodologies to enhance testing efficiency and accuracy.
+<br><br>
+🏥 <strong>Healthcare Domain Expert:</strong> Deep knowledge of EHR/EMR systems, telehealth, and medical devices, ensuring compliance with HIPAA, FDA 21 CFR Part 11, and ISO 13485.
+<br><br>
+📈 <strong>Proven Impact:</strong> My work has led to a 40% reduction in patient care costs and a 30% decrease in wait times by optimizing system quality and performance.
+<br><br>
+🤝 <strong>Team Builder:</strong> Successfully recruited, trained, and mentored global teams of 15+ QA professionals, fostering a culture of excellence.
 </p>
 
 ---
@@ -59,7 +60,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3><img src="https://icongr.am/clarity/users.svg?size=24&color=currentColor" alt="Leadership & Strategy"> Leadership & Strategy</h3>
+      <h3>👥 Leadership & Strategy</h3>
       <ul>
         <li>QA Team Leadership & Management</li>
         <li>Stakeholder Communication</li>
@@ -70,7 +71,7 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3><img src="https://icongr.am/clarity/wrench.svg?size=24&color=currentColor" alt="Testing Methodologies"> Testing Methodologies</h3>
+      <h3>🔧 Testing Methodologies</h3>
       <ul>
         <li>Functional, Regression, E2E</li>
         <li>API, Database, Web Services</li>
@@ -83,7 +84,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3><img src="https://icongr.am/clarity/computer.svg?size=24&color=currentColor" alt="Tools & Technologies"> Tools & Technologies</h3>
+      <h3>💻 Tools & Technologies</h3>
       <ul>
         <li><strong>Test Management:</strong> JIRA, Confluence, TestRail</li>
         <li><strong>API Testing:</strong> Postman, SoapUI, Rest Assured</li>
@@ -91,7 +92,7 @@
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3><img src="https://icongr.am/clarity/atom.svg?size=24&color=currentColor" alt="AI & Automation"> AI & Automation</h3>
+      <h3>🤖 AI & Automation</h3>
       <ul>
         <li>ChatGPT, Claude, GitHub Copilot</li>
         <li>Google Gemini, Microsoft Copilot</li>
@@ -108,14 +109,14 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h3>Education</h3>
+      <h3>🎓 Education</h3>
       <ul>
-        <li><b>MBA, Information Technology</b><br>Sikkim Manipal University</li>
-        <li><b>B.Tech, Information Technology</b><br>Sardar Patel University</li>
+        <li><strong>MBA, Information Technology</strong><br>Sikkim Manipal University</li>
+        <li><strong>B.Tech, Information Technology</strong><br>Sardar Patel University</li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h3>Professional Certifications</h3>
+      <h3>📜 Professional Certifications</h3>
       <ul>
         <li>PMI Certified IT Consultant</li>
         <li>AWS Certified Cloud Practitioner</li>
@@ -125,7 +126,7 @@
   </tr>
   <tr>
     <td valign="top" colspan="2">
-      <h3>AI & Emerging Tech</h3>
+      <h3>🚀 AI & Emerging Tech</h3>
       <ul>
         <li>Generative AI for Project Managers (PMI)</li>
         <li>ChatGPT Prompt Engineering (Coursera)</li>
@@ -156,9 +157,9 @@
 
 <h2 align="center">Let's Connect</h2>
 
-I'm always open to discussing new opportunities in healthcare technology, AI testing, and QA leadership. If you're looking for a strategic partner to help build safer, more effective healthcare solutions, I'd love to chat.
+<p align="center">I'm always open to discussing new opportunities in healthcare technology, AI testing, and QA leadership. If you're looking for a strategic partner to help build safer, more effective healthcare solutions, I'd love to chat.</p>
 
-**Open to:** Full-time roles, consulting engagements, and long-term contract roles.
+<p align="center"><strong>Open to:</strong> Full-time roles, consulting engagements, and long-term contract roles.</p>
 
 <p align="center">
   <a href="mailto:darshils99@gmail.com">

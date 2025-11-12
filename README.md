@@ -98,7 +98,7 @@ Empathy, integrity, and transparent communication define my leadership approach.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com?user=darshil0&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">

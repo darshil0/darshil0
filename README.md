@@ -2,11 +2,7 @@
 
 I lead QA teams that do far more than find bugs; we prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation. Passionate about advancing healthcare technology that improves outcomes while ensuring compliance, quality, and trust.
 
-- 💡 **AI-Powered Testing:** Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.
-- 🏥 **Healthcare Innovation:** Driving healthcare innovation with a focus on quality engineering.
-- 📈 **Strategic QA Leadership:** Leading, coaching, and mentoring global QA teams of 15+ professionals.
-- 🤝 **End-to-End Quality Assurance:** Ensuring end-to-end quality assurance with a focus on patient safety and clinical impact.
-- 🌐 **Regulatory Compliance:** Ensuring regulatory compliance with HIPAA, FDA, and ISO standards.
+---
 
 ## What I Work On
 
@@ -43,10 +39,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 - 💬 Ask me about AI, QA, and healthcare technology.
 - 📫 How to reach me: darshils99@gmail.com
 
-- 🎓 MBA in Information Technology and B.Tech in Information Technology.
-- 🏆 Awarded for leadership and technical excellence at Accenture.
-- 💬 Ask me about AI, QA, and healthcare technology.
-- 📫 How to reach me: darshils99@gmail.com
+---
 
 ## Credentials
 
@@ -93,7 +86,7 @@ Empathy, integrity, and transparent communication define my leadership approach.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical&cache_seconds=1&rand=29384" alt="Darshil's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&hide=stars&count_private=true&theme=radical&include_all_commits=true" alt="Darshil's GitHub stats">
 </p>
 
 <p align="center">

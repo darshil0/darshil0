@@ -13,10 +13,7 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
 </p>
-
-<p align="left">
- redesign-readme
-  <img src="https://komarev.com/ghpvc/?username=darshil0" alt="Profile Views">
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=darshil0" alt="Profile Views">
 </p>
 
 ---

@@ -90,6 +90,9 @@ A collection of basic java projects.
 - **Testing Types:** Regression, Scrum, SIT, Exploratory, E2E, API, Database, Web Services
 - **Tools:** JIRA, Confluence, TestRail, Postman, HP ALM, SoapUI, Rest Assured, SQL
 - **Healthcare Systems:** EHR/EMR, Telehealth, ADA Compliance, Connected Medical Devices
+- **AI Tools & LLMs:** ChatGPT, Claude.AI, Google Gemini, Perplexity, Microsoft Copilot
+- **AI Browsers:** Perplexity Comet
+- **AI Coding Assistants:** Google Labs Jules, Loveable.dev, Emergent.sh, Claude Sonnet 4.5
 
 ---
 

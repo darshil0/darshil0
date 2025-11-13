@@ -41,8 +41,8 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
   - Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.
 - ### [AI-Evaluation-QA](https://github.com/darshil0/AI-Evaluation-QA)
   - A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.
-- ### [https://github.com/darshil0/java-projects]
-- This repository contains a collection of basic Java projects. For a detailed list and links to the projects, please see java_projects.md.
+- ### [java-projects](https://github.com/darshil0/java-projects)
+  - This repository contains a collection of basic Java projects. For a detailed list and links to the projects, please see java_projects.md.
 ---
 
 ## About Me
@@ -76,14 +76,14 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ## My Toolkit
 
-### <img src="https://icongr.am/clarity/star.svg?size=24&color=currentColor" alt="Core Strengths"> Core Strengths
+### ⭐ Core Strengths
 - Strategic QA Leadership & Team Management
 - End-to-End Quality Assurance
 - Regulatory Compliance (HIPAA, FDA, ISO)
 - Cross-Functional Collaboration
 - AI-Driven Automation
 
-### <img src="https://icongr.am/clarity/code.svg?size=24&color=currentColor" alt="Technical Skills"> Technical Skills
+### 💻 Technical Skills
 - **Testing Types:** Regression, Scrum, SIT, Exploratory, E2E, API, Database, Web Services
 - **Tools:** JIRA, Confluence, TestRail, Postman, HP ALM, SoapUI, Rest Assured, SQL
 - **Healthcare Systems:** EHR/EMR, Telehealth, ADA Compliance, Connected Medical Devices
@@ -99,7 +99,7 @@ Empathy, integrity, and transparent communication define my leadership approach.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=darshil0&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
@@ -109,9 +109,6 @@ Empathy, integrity, and transparent communication define my leadership approach.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshil0&theme=radical" alt="Repos Per Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshil0&theme=radical" alt="Most Commit Language">
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=darshil0&theme=radical" alt="Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=darshil0&theme=radical&utcOffset=8" alt="Productive Time">
 </p>

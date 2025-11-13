@@ -10,7 +10,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://x.com/soulsurfer300" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
 </p>
 
@@ -35,14 +35,17 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ---
 
-## Pinned
+## Pinned Projects
 
-- ### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
-  - Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.
-- ### [AI-Evaluation-QA](https://github.com/darshil0/AI-Evaluation-QA)
-  - A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.
-- ### [java-projects](https://github.com/darshil0/java-projects)
-  - This repository contains a collection of basic Java projects. For a detailed list and links to the projects, please see java_projects.md.
+### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
+Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.
+
+### [AI-Evaluation-QA](https://github.com/darshil0/AI-Evaluation-QA)
+A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.
+
+### [java-projects](https://github.com/darshil0/java-projects)
+This repository contains a collection of basic Java projects. For a detailed list and links to the projects, please see java_projects.md.
+
 ---
 
 ## About Me
@@ -61,16 +64,16 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 - **B.Tech, Information Technology** - Sardar Patel University
 
 ### Certifications
-- **Introduction to MCP** | Anthropic | Oct 2025
-- **AI Fluency Framework & Foundations** | Anthropic | Aug 2025
-- **Registered Scrum Basics™** | Agile Education by Scrum Inc. | Aug 2025
-- **ChatGPT Prompt Engineering for Developers** | Coursera | Jul 2025
-- **Becoming an AI Agent Architect** | IBM | Jul 2025
-- **Microsoft Copilot Foundations** | Microsoft | Jun 2025
-- **Generative AI in Action** | IBM | Jun 2025
-- **MLOps for Generative AI** | Google | Jun 2025
-- **AWS Cloud Practitioner Essentials** | AWS | May 2025
-- **Generative AI for Project Managers** | PMI | Mar 2025
+- **Introduction to MCP** | Anthropic | Oct 2024
+- **AI Fluency Framework & Foundations** | Anthropic | Aug 2024
+- **Registered Scrum Basics™** | Agile Education by Scrum Inc. | Aug 2024
+- **ChatGPT Prompt Engineering for Developers** | Coursera | Jul 2024
+- **Becoming an AI Agent Architect** | IBM | Jul 2024
+- **Microsoft Copilot Foundations** | Microsoft | Jun 2024
+- **Generative AI in Action** | IBM | Jun 2024
+- **MLOps for Generative AI** | Google | Jun 2024
+- **AWS Cloud Practitioner Essentials** | AWS | May 2024
+- **Generative AI for Project Managers** | PMI | Mar 2024
 
 ---
 
@@ -99,7 +102,7 @@ Empathy, integrity, and transparent communication define my leadership approach.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=radical&hide_border=false" alt="GitHub Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=darshil0&theme=radical&hide_border=false" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">

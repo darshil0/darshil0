@@ -88,7 +88,7 @@ A collection of basic java projects.
 
 ### 💻 Technical Skills
 - **Testing Types:** Regression, Scrum, SIT, Exploratory, E2E, API, Database, Web Services
-- **Tools:** JIRA, Confluence, TestRail, Postman, HP ALM, SoapUI, Rest Assured, SQL
+- **Testing Tools:** JIRA, Confluence, TestRail, Postman, HP ALM, SoapUI, Rest Assured, SQL
 - **Healthcare Systems:** EHR/EMR, Telehealth, ADA Compliance, Connected Medical Devices
 - **AI Tools & LLMs:** ChatGPT, Claude.AI, Google Gemini, Perplexity, Microsoft Copilot
 - **AI Browsers:** Perplexity Comet

@@ -38,13 +38,14 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 ## Pinned Projects
 
 ### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
-  Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.
+Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.
 
 ### [AI-Evaluation-QA](https://github.com/darshil0/AI-Evaluation-QA)
-  A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.
+A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.
 
 ### [java-projects](https://github.com/darshil0/java-projects)
-    A collection of basic java projects.
+A collection of basic java projects.
+
 ---
 
 ## About Me

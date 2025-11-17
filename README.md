@@ -50,7 +50,7 @@ A collection of basic java projects.
 
 ## About Me
 
-- 🎓 MBA in Information Technology and B.Tech in Information Technology.
+- 🎓 MBA and B.Tech in Information Technology.
 - 🏆 Awarded for leadership and technical excellence at Accenture.
 - 💬 Ask me about AI, QA, and healthcare technology.
 - 📫 How to reach me: darshils99@gmail.com

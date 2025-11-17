@@ -37,16 +37,10 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ## Pinned Projects
 
-### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
-Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.
+### [mobile-testing-framework](https://github.com/darshil0/mobile-testing-framework)
+This framework provides a robust and scalable structure for automating mobile application tests using Appium and TestNG. It supports both Android and iOS platforms and promotes maintainable, reusable test code through the Page Object Model (POM) design pattern.
 
-### [AI-Evaluation-QA](https://github.com/darshil0/AI-Evaluation-QA)
-A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.
-
-### [java-projects](https://github.com/darshil0/java-projects)
-A collection of basic java projects.
-
-### https://github.com/darshil0/AI-Testing
+### [AI-Testing](https://github.com/darshil0/AI-Testing)
 A comprehensive repository containing test cases and evaluation frameworks for assessing various AI models' performance, capabilities, and limitations.
 
 

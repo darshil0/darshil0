@@ -37,16 +37,10 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ## Pinned Projects
 
-### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
-Privacy-first journaling app powered by Anthropic's Claude API. Captures daily reflections and generates personalized insights using advanced AI.
+### [mobile-testing-framework](https://github.com/darshil0/mobile-testing-framework)
+This framework provides a robust and scalable structure for automating mobile application tests using Appium and TestNG. It supports both Android and iOS platforms and promotes maintainable, reusable test code through the Page Object Model (POM) design pattern.
 
-### [AI-Evaluation-QA](https://github.com/darshil0/AI-Evaluation-QA)
-A specialized repository for evaluating AI/ML models using custom QA methodologies. Addresses the unique challenges of testing non-deterministic systems.
-
-### [java-projects](https://github.com/darshil0/java-projects)
-A collection of basic java projects.
-
-### https://github.com/darshil0/AI-Testing
+### [AI-Testing](https://github.com/darshil0/AI-Testing)
 A comprehensive repository containing test cases and evaluation frameworks for assessing various AI models' performance, capabilities, and limitations.
 
 
@@ -69,16 +63,46 @@ A comprehensive repository containing test cases and evaluation frameworks for a
 - **B.Tech, Information Technology** - Sardar Patel University
 
 ### Certifications
-- **Introduction to MCP** | Anthropic | Oct 2024
-- **AI Fluency Framework & Foundations** | Anthropic | Aug 2024
-- **Registered Scrum Basics™** | Agile Education by Scrum Inc. | Aug 2024
-- **ChatGPT Prompt Engineering for Developers** | Coursera | Jul 2024
-- **Becoming an AI Agent Architect** | IBM | Jul 2024
-- **Microsoft Copilot Foundations** | Microsoft | Jun 2024
-- **Generative AI in Action** | IBM | Jun 2024
-- **MLOps for Generative AI** | Google | Jun 2024
-- **AWS Cloud Practitioner Essentials** | AWS | May 2024
-- **Generative AI for Project Managers** | PMI | Mar 2024
+- **Introduction to Model Context Protocol** | Anthropic | Oct 2025
+- **Certificate of Completion: Al Fluency Framework & Foundations** | Anthropic | Aug 2025
+- **Registered Scrum Basics™** | Agile Education by Scrum Inc.™ | Aug 2025
+- **AI for Beginners** | HP LIFE | Jul 2025
+- **Agile Project Management** | HP LIFE | Jul 2025
+- **ChatGPT For Everyone** | Learn Prompting | Jul 2025
+- **ChatGPT Prompt Engineering For Developers** | Coursera | Jul 2025
+- **From Learner to Builder Becoming an AI Agent Architect** | IBM | Jul 2025
+- **Fundamentals of Agentic AI: Business Implications and Ethical Insights** | LinkedIn | Jul 2025
+- **Leading Through AI Agent Disruption** | LinkedIn | Jul 2025
+- **Preparing Your Organization for AI Agents** | LinkedIn | Jul 2025
+- **Preparing for the Future of Work with AI Agents** | LinkedIn | Jul 2025
+- **Transforming Business with AI Agents: Autonomous Efficiency and Decision-Making** | LinkedIn | Jul 2025
+- **Copilot Foundations** | Microsoft | Jun 2025
+- **Develop generative AI apps in Azure** | Microsoft | Jun 2025
+- **Evaluate Generative AI model in Azure AI Foundry Portal** | Microsoft | Jun 2025
+- **Exploring Artificial Intelligence** | IBM | Jun 2025
+- **Exploring Cloud Computing** | IBM | Jun 2025
+- **Generative AI in Action** | IBM | Jun 2025
+- **Get Started with Microsoft Copilot Studio** | Microsoft | Jun 2025
+- **Introduction to Responsible AI** | Amazon Web Services (AWS) | Jun 2025
+- **Machine Learning Operations (MLOps) for Generative AI** | Google | Jun 2025
+- **Product Management Basics Certification** | Pendo.io | Jun 2025
+- **Responsible Artificial Intelligence Practices** | Amazon Web Services (AWS) | Jun 2025
+- **AI Fluency** | Microsoft | May 2025
+- **AI skills Fest Challenge: AI for public Sector Upskilling** | Microsoft | May 2025
+- **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) | May 2025
+- **Accenture UK - Developer and Technology Job Simulation** | Forage | May 2025
+- **Ask questions & analyze content with Microsoft 365 Copilot** | Microsoft | May 2025
+- **Boost your productivity with Microsoft Copilot** | Microsoft | May 2025
+- **Choose & deploy models from the model catalog in Azure AI Foundary portal** | Microsoft | May 2025
+- **Craft effective prompts for Microsoft 365 Copilot** | Microsoft | May 2025
+- **Design a Dream Destination using Microsoft Copilot** | Microsoft | May 2025
+- **Develop a RAG based solution with your own data in Azure AI Foundary** | Microsoft | May 2025
+- **Develop an app with the Azure AI Foundary SDK** | Microsoft | May 2025
+- **Digital Skills: Artificial Intellegence** | Accenture | May 2025
+- **Digital Skills: Digital Skills For Work and Life** | Accenture | May 2025
+- **Edit and transform content with Microsoft 365 Copilot** | Microsoft | May 2025
+- **Electronic Arts - Product Management Job Simulation** | Forage | May 2025
+- **Enhance public sector services with Generative AI** | Microsoft | May 2025
 
 ---
 

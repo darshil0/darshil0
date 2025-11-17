@@ -53,8 +53,8 @@ I hold an MBA and B.Tech in Information Technology and have been awarded for lea
 ## Education & Top Certifications:
 
 **Education**
-- MBA, Information Technology|Sikkim Manipal University
-- B.Tech, Information Technology|Sardar Patel University
+- MBA, Information Technology | Sikkim Manipal University
+- B.Tech, Information Technology | Sardar Patel University
 
 **Key Certifications Undertaken:**
 

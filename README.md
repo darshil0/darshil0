@@ -16,7 +16,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ---
 
-## What I Work On?:
+## What I Work On
 
 **AI-Powered Testing:** Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.
 
@@ -42,8 +42,7 @@ I've delivered measurable impact across healthcare QA through strategic testing 
 
 **[AI-Testing](https://github.com/darshil0/AI-Testing)** — A comprehensive repository containing test cases and evaluation frameworks for assessing various AI models' performance, capabilities, and limitations.
 
-**[Web-Testing Framework] (https://github.com/darshil0/Web-Testing-Framework) This is a new repository created for Web Testing Framework creation and understanding. This is a lightweight web testing framework built using Java, Selenium, and TestNG.
-
+**[Web-Testing-Framework](https://github.com/darshil0/Web-Testing-Framework)** — A lightweight web testing framework built using Java, Selenium, and TestNG. Created for understanding and implementing web testing framework best practices.
 
 ---
 
@@ -53,15 +52,15 @@ I hold an MBA and B.Tech in Information Technology and have been awarded for lea
 
 ---
 
-## Education & Top Certifications:
+## Education & Top Certifications
 
-**Education**
+### Education
 - MBA, Information Technology | Sikkim Manipal University
 - B.Tech, Information Technology | Sardar Patel University
 
-**Key Certifications Undertaken:**
+### Key Certifications
 
-*AI & Machine Learning Excellence*
+**AI & Machine Learning Excellence**
 - Introduction to Model Context Protocol | Anthropic | Oct 2025
 - Certificate of Completion: AI Fluency Framework & Foundations | Anthropic | Aug 2025
 - ChatGPT Prompt Engineering For Developers | Coursera | Jul 2025
@@ -69,32 +68,32 @@ I hold an MBA and B.Tech in Information Technology and have been awarded for lea
 - From Learner to Builder Becoming an AI Agent Architect | IBM | Jul 2025
 - Generative AI in Action | IBM | Jun 2025
 
-*Cloud & AI Platform Skills*
+**Cloud & AI Platform Skills**
 - Develop generative AI apps in Azure | Microsoft | Jun 2025
 - Develop a RAG based solution with your own data in Azure AI Foundry | Microsoft | May 2025
 - AWS Cloud Practitioner Essentials | Amazon Web Services (AWS) | May 2025
 - Choose & deploy models from the model catalog in Azure AI Foundry portal | Microsoft | May 2025
 
-*AI Business & Leadership*
+**AI Business & Leadership**
 - Transforming Business with AI Agents: Autonomous Efficiency and Decision-Making | LinkedIn | Jul 2025
 - Preparing Your Organization for AI Agents | LinkedIn | Jul 2025
 - Leading Through AI Agent Disruption | LinkedIn | Jul 2025
 
-*Responsible AI & Ethics*
+**Responsible AI & Ethics**
 - Introduction to Responsible AI | Amazon Web Services (AWS) | Jun 2025
 - Responsible Artificial Intelligence Practices | Amazon Web Services (AWS) | Jun 2025
 
-*Microsoft Copilot Ecosystem*
+**Microsoft Copilot Ecosystem**
 - Get Started with Microsoft Copilot Studio | Microsoft | Jun 2025
 - Craft effective prompts for Microsoft 365 Copilot | Microsoft | May 2025
 
-*Product & Agile Management*
+**Product & Agile Management**
 - Product Management Basics Certification | Pendo.io | Jun 2025
 - Registered Scrum Basics™ | Agile Education by Scrum Inc.™ | Aug 2025
 
 ---
 
-## My Toolkit:
+## My Toolkit
 
 **Core Strengths:** Strategic QA Leadership & Team Management, End-to-End Quality Assurance, Regulatory Compliance (HIPAA, FDA, ISO), Cross-Functional Collaboration, and AI-Driven Automation.
 
@@ -108,13 +107,13 @@ I hold an MBA and B.Tech in Information Technology and have been awarded for lea
 
 ---
 
-## Leadership Philosophy:
+## Leadership Philosophy
 
 Empathy, integrity, and transparent communication define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence. I'm committed to mentoring teams that deliver meaningful impact in dynamic healthcare environments.
 
 ---
 
-## GitHub Activity:
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=darshil0&theme=radical&hide_border=false" alt="GitHub Streak Stats">

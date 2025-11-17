@@ -46,6 +46,11 @@ A specialized repository for evaluating AI/ML models using custom QA methodologi
 ### [java-projects](https://github.com/darshil0/java-projects)
 A collection of basic java projects.
 
+### https://github.com/darshil0/AI-Testing
+A comprehensive repository containing test cases and evaluation frameworks for assessing various AI models' performance, capabilities, and limitations.
+
+
+
 ---
 
 ## About Me

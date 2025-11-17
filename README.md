@@ -16,7 +16,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 ---
 
-## What I Work On
+## What I Work On?:
 
 **AI-Powered Testing:** Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.
 
@@ -50,13 +50,13 @@ I hold an MBA and B.Tech in Information Technology and have been awarded for lea
 
 ---
 
-## Education & Top Certifications
+## Education & Top Certifications:
 
 **Education**
 - MBA, Information Technology|Sikkim Manipal University
 - B.Tech, Information Technology|Sardar Patel University
 
-**Key Certifications**
+**Key Certifications Undertaken:**
 
 *AI & Machine Learning Excellence*
 - Introduction to Model Context Protocol | Anthropic | Oct 2025
@@ -91,7 +91,7 @@ I hold an MBA and B.Tech in Information Technology and have been awarded for lea
 
 ---
 
-## My Toolkit
+## My Toolkit:
 
 **Core Strengths:** Strategic QA Leadership & Team Management, End-to-End Quality Assurance, Regulatory Compliance (HIPAA, FDA, ISO), Cross-Functional Collaboration, and AI-Driven Automation.
 
@@ -105,13 +105,13 @@ I hold an MBA and B.Tech in Information Technology and have been awarded for lea
 
 ---
 
-## Leadership Philosophy
+## Leadership Philosophy:
 
 Empathy, integrity, and transparent communication define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for leadership and technical excellence. I'm committed to mentoring teams that deliver meaningful impact in dynamic healthcare environments.
 
 ---
 
-## GitHub Activity
+## GitHub Activity:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=darshil0&theme=radical&hide_border=false" alt="GitHub Streak Stats">

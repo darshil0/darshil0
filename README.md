@@ -9,10 +9,9 @@
     I lead QA teams that do far more than find bugs; we prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation. Passionate about advancing healthcare technology that improves outcomes while ensuring compliance, quality, and trust.
   </p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil0)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/darshil0)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshil0)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soulsurfer300)
   
   ![](https://komarev.com/ghpvc/?username=darshil0&color=blue&style=flat-square)
   
@@ -98,8 +97,8 @@ Ensuring regulatory compliance with HIPAA, FDA, and ISO standards.
 
 <div align="center">
 
-<a href="https://github.com/darshil0/Mobile-Testing-Framework">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshil0&repo=Mobile-Testing-Framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
+<a href="https://github.com/darshil0/mobile-testing-framework">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshil0&repo=mobile-testing-framework&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
 </a>
 <a href="https://github.com/darshil0/AI-Testing">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=darshil0&repo=AI-Testing&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
@@ -282,15 +281,12 @@ At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earn
   
   **Ready to connect? Let's collaborate to build smarter QA solutions and transform patient care through innovation.**
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil0)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
-  [![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/darshil0)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/darshil0)
+  [![Twitter](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soulsurfer300)
   
   ---
   
-  <sub>© 2025 Darshil Shah | Healthcare QA Leader | AI-Powered Testing Pioneer</sub>
-  
-  ![](https://hit.yhype.me/github/profile?user_id=YOUR_USER_ID)
+  <sub>© 2024 Darshil Shah | Healthcare QA Leader | AI-Powered Testing Pioneer</sub>
   
 </div>

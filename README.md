@@ -87,10 +87,9 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
     <td valign="top" width="50%">
       <h3>🛠️ Testing & Automation</h3>
       <ul>
-        <li>Selenium WebDriver, Appium</li>
-        <li>TestNG, JUnit, Cucumber</li>
+        <li>Selenium WebDriver, Java</li>
+        <li>TestNG, Cucumber</li>
         <li>Rest Assured, Postman, SoapUI</li>
-        <li>Playwright, Cypress</li>
       </ul>
       <h3>💻 Programming</h3>
       <ul>
@@ -101,7 +100,6 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
       <ul>
         <li>ChatGPT, Claude AI, Gemini</li>
         <li>Microsoft Copilot</li>
-        <li>AWS (EC2, S3, Lambda)</li>
       </ul>
     </td>
     <td valign="top" width="50%">
@@ -116,8 +114,8 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
       </ul>
       <h3>⚙️ DevOps & Tools</h3>
       <ul>
-        <li><strong>CI/CD:</strong> Jenkins, Git, Docker, K8s</li>
-        <li><strong>Management:</strong> JIRA, Confluence, TestRail, HP ALM, Azure Boards</li>
+        <li><strong>CI/CD:</strong> Jenkins, Git</li>
+        <li><strong>Management:</strong> JIRA, Confluence, TestRail, HP ALM </li>
       </ul>
       <h3>📈 Methodologies</h3>
       <ul>

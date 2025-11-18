@@ -4,8 +4,6 @@ I lead QA teams that prevent patient safety risks, drive measurable business imp
 
 Most of my work is hands-on: building automation frameworks, implementing AI-driven test strategies, and establishing quality standards that protect patients while accelerating product delivery.
 
-I specialize in healthcare QA with expertise in HIPAA, FDA, and ISO compliance testing, and I'm pioneering the integration of LLMs and generative AI into traditional QA workflows to revolutionize how we test healthcare products.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soulsurfer300)
@@ -24,13 +22,12 @@ I specialize in healthcare QA with expertise in HIPAA, FDA, and ISO compliance t
 
 ---
 
-🎯 **Healthcare QA Leader** with 9+ years leading globally distributed teams of 15+ professionals, achieving 99.7% defect detection rate through intelligent automation and strategic risk management.
+## About Me
 
-📚 **Testing advocate** sharing knowledge on AI-powered testing, healthcare compliance, and quality engineering best practices.
-
-🔭 **Impact-driven results**: Reduced patient care costs by 40% and cut patient wait times by 30% through shift-left strategies and streamlined QA workflows.
-
-🌱 **Building healthcare products with AI?** I'd love to chat about quality engineering strategies, compliance testing, or AI-powered QA approaches.
+- 🎯 **Healthcare QA Leader** with 9+ years leading globally distributed teams of 15+ professionals, achieving a 99.7% defect detection rate through intelligent automation and strategic risk management.
+- 🔭 **Impact-driven results**: Reduced patient care costs by 40% and cut patient wait times by 30% through shift-left strategies and streamlined QA workflows.
+- 📚 **Testing advocate** sharing knowledge on AI-powered testing, healthcare compliance, and quality engineering best practices.
+- 🌱 **Building healthcare products with AI?** I'd love to chat about quality engineering strategies, compliance testing, or AI-powered QA approaches.
 
 ---
 
@@ -80,31 +77,9 @@ Agile/Scrum • Risk-Based Testing • Shift-Left Testing • Test Strategy • 
 
 ---
 
-## 📈 Impact Highlights
-
-**99.7% Defect Detection Rate**  
-Built intelligent automation frameworks with strategic test coverage analysis, achieving industry-leading defect detection while maintaining rapid release cycles.
-
-**40% Reduction in Patient Care Costs**  
-Implemented risk-based, shift-left testing strategies that identified critical defects earlier in development, significantly reducing costly production fixes.
-
-**30% Decrease in Patient Wait Times**  
-Streamlined QA workflows and accelerated automation coverage enabled faster releases of patient-facing features, directly improving patient experience.
-
-**Global QA Excellence**  
-Established and scaled QA Centers of Excellence across 3 continents, managing distributed teams and standardizing best practices across multiple time zones.
-
----
-
 ## 💡 Currently Exploring
 
 I'm actively researching how AI can transform healthcare quality assurance through autonomous test generation, intelligent test maintenance, predictive quality analytics, and AI-assisted compliance validation. My focus is ensuring AI-powered testing maintains the rigorous standards healthcare requires while accelerating delivery timelines.
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing healthcare quality assurance, AI-powered testing strategies, or leadership challenges in distributed QA teams. Reach out via [LinkedIn](https://www.linkedin.com/in/darshil-qa-lead/) or [email](mailto:darshils99@gmail.com).
 
 ---
 

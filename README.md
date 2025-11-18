@@ -49,7 +49,7 @@ I lead QA teams that prevent patient safety risks, drive measurable business imp
 * HIPAA, FDA, and ISO compliance with automated evidence collection
 
 ### 📦 Quality Engineering
-* Production-ready functional testing (mobile, web, API, database)
+* Production-ready automation frameworks (mobile, web, API, database)
 * End-to-end QA lifecycle management
 * Risk-based testing strategies and shift-left methodologies
 * Scrum, regression, E2E, BVT, and production testing
@@ -149,7 +149,7 @@ I'm actively researching how AI can transform healthcare quality assurance throu
   <table>
     <tr>
       <td valign="top" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=darshil0&theme=dark&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
       </td>
       <td valign="top" width="50%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />

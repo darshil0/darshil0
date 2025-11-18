@@ -14,7 +14,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 <div align="center">
 
-| **6** | **9+** | **15+** | **99.7%** |
+| **8** | **9+** | **15+** | **99.7%** |
 |:---:|:---:|:---:|:---:|
 | Repositories | Years Experience | Team Members Led | Defect Detection |
 
@@ -121,7 +121,6 @@ A robust and scalable structure for automating mobile application tests using Ap
 
 `appium` `testng` `mobile-automation` `pom` `android` `ios`
 
-**Java**
 
 </td>
 <td width="50%">
@@ -132,7 +131,6 @@ A comprehensive repository containing test cases and evaluation frameworks for a
 
 `ai` `testing` `evaluation` `llm` `machine-learning`
 
-**Python**
 
 </td>
 </tr>
@@ -145,7 +143,6 @@ A lightweight web testing framework built using Java, Selenium, and TestNG. Crea
 
 `selenium` `testng` `java` `web-testing` `automation`
 
-**Java**
 
 </td>
 <td width="50%">
@@ -156,7 +153,6 @@ A minimalist AI-powered journaling web app built with React, Vite, and TailwindC
 
 `react` `vite` `tailwindcss` `claude-ai` `journaling`
 
-**JavaScript**
 
 </td>
 </tr>

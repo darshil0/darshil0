@@ -9,11 +9,11 @@ I lead QA teams that do more than find bugs — we prevent patient safety risks,
 
 ## 🚀 About Me
 
-- 9+ years leading quality assurance teams in healthcare IT.
-- Specialized in HIPAA, FDA, and ISO compliance testing.
-- Driving AI-powered testing with LLMs and generative AI tools.
-- Built and scaled QA Centers of Excellence across 3 continents.
-- Achieved 99.7% defect detection rate with automation frameworks.
+- 9+ years leading quality assurance teams in healthcare IT.  
+- Specialized in HIPAA, FDA, and ISO compliance testing.  
+- Driving AI-powered testing with LLMs and generative AI tools.  
+- Built and scaled QA Centers of Excellence across 3 continents.  
+- Achieved 99.7% defect detection rate with automation frameworks.  
 
 ---
 

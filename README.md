@@ -37,44 +37,43 @@
 
 ## 🎯 What I Work On
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Testing
-Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Healthcare Innovation
-Driving healthcare innovation with a focus on quality engineering.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👥 Strategic QA Leadership
-Leading, coaching, and mentoring global QA teams of 15+ professionals.
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ End-to-End Quality Assurance
-Ensuring end-to-end quality assurance with a focus on patient safety and clinical impact.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🛡️ Regulatory Compliance
-Ensuring regulatory compliance with HIPAA, FDA, and ISO standards.
-
-</td>
-</tr>
-</table>
+<div align="center">
+  
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/fluency/96/000000/bot.png" width="64" height="64" alt="AI Icon"/>
+        <h3>AI-Powered Testing</h3>
+        <p>Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/fluency/96/000000/like.png" width="64" height="64" alt="Healthcare Icon"/>
+        <h3>Healthcare Innovation</h3>
+        <p>Driving healthcare innovation with a focus on quality engineering.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/fluency/96/000000/conference-call.png" width="64" height="64" alt="Leadership Icon"/>
+        <h3>Strategic QA Leadership</h3>
+        <p>Leading, coaching, and mentoring global QA teams of 15+ professionals.</p>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://img.icons8.com/fluency/96/000000/checkmark.png" width="64" height="64" alt="Quality Icon"/>
+        <h3>End-to-End Quality Assurance</h3>
+        <p>Ensuring end-to-end quality assurance with a focus on patient safety and clinical impact.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://img.icons8.com/fluency/96/000000/security-shield-green.png" width="64" height="64" alt="Compliance Icon"/>
+        <h3>Regulatory Compliance</h3>
+        <p>Ensuring regulatory compliance with HIPAA, FDA, and ISO standards.</p>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 ---
 

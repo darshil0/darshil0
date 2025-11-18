@@ -49,7 +49,7 @@ I lead QA teams that prevent patient safety risks, drive measurable business imp
 * HIPAA, FDA, and ISO compliance with automated evidence collection
 
 ### 📦 Quality Engineering
-* Production-ready automation frameworks (mobile, web, API, database)
+* Production-ready functional testing (mobile, web, API, database)
 * End-to-end QA lifecycle management
 * Risk-based testing strategies and shift-left methodologies
 * Scrum, regression, E2E, BVT, and production testing

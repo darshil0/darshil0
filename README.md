@@ -8,10 +8,6 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 ![AI-Powered Testing](https://img.shields.io/badge/AI--Powered_Testing-4285F4?style=flat)
 ![Available for Collaboration](https://img.shields.io/badge/Available_for_Collaboration-00C853?style=flat)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/soulsurfer300)
-
 </div>
 
 ---

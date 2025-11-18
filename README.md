@@ -15,8 +15,8 @@ I specialize in healthcare QA with expertise in HIPAA, FDA, and ISO compliance t
 ## What I work on
 
 - 🤖 **AI-Powered Testing**: LLM-based test generation, intelligent defect analysis, autonomous testing workflows
-- 📦 **Ready-to-run frameworks**: clone → install → test (mobile, web, API, DB, Web Services)
-- 🔧 **QA workflows**: test strategy,test planning, regression and scrum testing, risk-based testing
+- 📦 **Ready-to-run frameworks**: clone → install → test (mobile, web, API, DB, web services)
+- 🔧 **QA workflows**: test strategy, test planning, regression and scrum testing, risk-based testing
 - ❤️ **Healthcare systems**: EHR/EMR testing, telehealth platforms, connected devices, clinical workflows
 - 💬 **Compliance testing**: HIPAA, FDA, ISO validation with automated evidence collection
 - 🚀 **Team leadership**: building and scaling QA teams of 15+ QA professionals
@@ -39,21 +39,29 @@ I specialize in healthcare QA with expertise in HIPAA, FDA, and ISO compliance t
 ### [mobile-testing-framework](https://github.com/darshil0/mobile-testing-framework)
 Production-ready mobile automation framework using Appium and TestNG with Page Object Model design. Supports Android and iOS with parallel execution, detailed reporting, and CI/CD integration.
 
+**Technologies**: `Appium` `TestNG` `Mobile Automation` `Java` `POM`
+
 ### [AI-Testing](https://github.com/darshil0/AI-Testing)
 Comprehensive evaluation suite for testing AI models in healthcare contexts. Includes accuracy testing, bias detection, safety validation, and performance benchmarking specifically for medical AI applications.
+
+**Technologies**: `AI Testing` `LLM Evaluation` `Python` `Quality Metrics`
 
 ### [Web-Testing-Framework](https://github.com/darshil0/Web-Testing-Framework)
 Lightweight, maintainable web automation framework built with Java, Selenium, and TestNG. Features data-driven testing, cross-browser support, and extensive reporting capabilities.
 
+**Technologies**: `Selenium` `Java` `TestNG` `Web Automation` `CI/CD`
+
 ### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
 Minimalist React journaling app demonstrating practical AI integration with Anthropic Claude API. Provides personalized insights while maintaining data privacy and security standards.
+
+**Technologies**: `React` `Vite` `TailwindCSS` `Claude API` `TypeScript`
 
 ---
 
 ## 🧰 My Toolkit
 
 **Testing & Automation**  
-Selenium WebDriver • Appium • TestNG • Rest Assured • Postman • SoapUI • Cucumber 
+Selenium WebDriver • Appium • TestNG • Rest Assured • Postman • SoapUI • Cucumber • JMeter • LoadRunner
 
 **Languages & Frameworks**  
 Java • Python • JavaScript • TypeScript • SQL • Shell Scripting

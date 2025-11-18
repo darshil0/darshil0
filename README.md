@@ -14,7 +14,7 @@ I lead QA teams that do far more than find bugs; we prevent patient safety risks
 
 <div align="center">
 
-| **8** | **9+** | **15+** | **99.7%** |
+| **9** | **9+** | **15+** | **99.7%** |
 |:---:|:---:|:---:|:---:|
 | Repositories | Years Experience | Team Members Led | Defect Detection |
 

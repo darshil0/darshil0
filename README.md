@@ -54,12 +54,12 @@ Ensuring HIPAA, FDA, and ISO standards are met with diligence.
 
 ## 🧰 My Toolkit
 
-**Testing Expertise:** Regression • E2E • API • Mobile • Database • Automation • Exploratory
-**Languages & Frameworks:** Java • Python • JavaScript • Selenium • TestNG • Appium • Rest Assured
-**Tools & Platforms:** JIRA • Confluence • TestRail • Postman • HP ALM • SoapUI • SQL
-**AI & Cloud:** ChatGPT • Claude.AI • Google Gemini • Microsoft Copilot • AWS • Azure
-**Healthcare Systems:** EHR/EMR • Telehealth • ADA Compliance • Connected Devices
-**Leadership & Compliance:** Agile/Scrum • HIPAA • FDA • ISO • Product Management • Risk Mitigation
+- 🧪 **Testing Expertise:** Regression • E2E • API • Mobile • Database • Automation • Exploratory
+- 💻 **Languages & Frameworks:** Java • Python • JavaScript • Selenium • TestNG • Appium • Rest Assured
+- 🛠️ **Tools & Platforms:** JIRA • Confluence • TestRail • Postman • HP ALM • SoapUI • SQL
+- ☁️ **AI & Cloud:** ChatGPT • Claude.AI • Google Gemini • Microsoft Copilot • AWS • Azure
+- ❤️ **Healthcare Systems:** EHR/EMR • Telehealth • ADA Compliance • Connected Devices
+- 📜 **Leadership & Compliance:** Agile/Scrum • HIPAA • FDA • ISO • Product Management • Risk Mitigation
 
 ---
 

@@ -1,215 +1,84 @@
-<div align="center">
+# Hi, I'm Darshil Shah 👋
 
-# Darshil Shah 👋
+I’m a **Healthcare QA Leader & AI-Powered Testing Pioneer**, passionate about building safer, smarter healthcare systems.  
+I lead QA teams that do more than find bugs — we prevent patient safety risks, drive measurable business impact, and enable safer healthcare innovation.
 
-I lead QA teams that do far more than find bugs; we prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation. Passionate about advancing healthcare technology that improves outcomes while ensuring compliance, quality, and trust.
-
-![Healthcare QA Leader](https://img.shields.io/badge/Healthcare_QA_Leader-00A67E?style=flat)
-![AI-Powered Testing](https://img.shields.io/badge/AI--Powered_Testing-4285F4?style=flat)
-![Available for Collaboration](https://img.shields.io/badge/Available_for_Collaboration-00C853?style=flat)
-
-</div>
+📍 Irving, TX | 💼 Open for collaboration
 
 ---
 
-<div align="center">
+## 🚀 About Me
 
-| **9** | **9+** | **15+** | **99.7%** |
-|:---:|:---:|:---:|:---:|
-| Repositories | Years Experience | Team Members Led | Defect Detection |
-
-</div>
-
----
-
-## What I Work On
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 🤖 AI-Powered Testing
-
-Pioneering AI-powered testing using LLMs and generative AI to enhance accuracy and scalability.
-
-</td>
-<td width="50%" align="center">
-
-### ❤️ Healthcare Innovation
-
-Driving healthcare innovation with a focus on quality engineering.
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### 👥 Strategic QA Leadership
-
-Leading, coaching, and mentoring global QA teams of 15+ professionals.
-
-</td>
-<td width="50%" align="center">
-
-### ✅ End-to-End Quality Assurance
-
-Ensuring end-to-end quality assurance with a focus on patient safety and clinical impact.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🛡️ Regulatory Compliance
-
-Ensuring regulatory compliance with HIPAA, FDA, and ISO standards.
-
-</td>
-</tr>
-</table>
+- 9+ years leading quality assurance teams in healthcare IT.
+- Specialized in HIPAA, FDA, and ISO compliance testing.
+- Driving AI-powered testing with LLMs and generative AI tools.
+- Built and scaled QA Centers of Excellence across 3 continents.
+- Achieved 99.7% defect detection rate with automation frameworks.
 
 ---
 
-## Spotlight
+## 🔧 What I Do
 
-### Measurable Impact in Healthcare QA
+### 🤖 AI-Powered Testing  
+Leveraging LLMs and generative AI to revolutionize QA for healthcare products.
 
-<table>
-<tr>
-<td width="25%" align="center">
+### ❤️ Healthcare Innovation  
+Delivering quality engineering that ensures patient safety and clinical impact.
 
-### 40%
+### 👥 Strategic QA Leadership  
+Leading teams of 15+ globally distributed QA professionals.
 
-Reduction in patient care costs through shift-left, risk-based testing strategies
-
-</td>
-<td width="25%" align="center">
-
-### 30%
-
-Improvement in patient wait times by streamlining QA workflows and automation coverage
-
-</td>
-<td width="25%" align="center">
-
-### 3 Continents
-
-Built and scaled QA centers of excellence supporting Fortune 500 healthcare clients
-
-</td>
-<td width="25%" align="center">
-
-### 99.7%
-
-Defect detection rate in production releases through comprehensive test automation frameworks
-
-</td>
-</tr>
-</table>
+### 🛡️ Regulatory Compliance  
+Ensuring HIPAA, FDA, and ISO standards are met with diligence.
 
 ---
 
-## Pinned Projects
+## 📂 Pinned Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### [mobile-testing-framework](https://github.com/darshil0/mobile-testing-framework)
-
-A robust and scalable structure for automating mobile application tests using Appium and TestNG. Supports both Android and iOS platforms with Page Object Model (POM) design pattern.
-
-`appium` `testng` `mobile-automation` `pom` `android` `ios`
-
-
-</td>
-<td width="50%">
-
-### [AI-Testing](https://github.com/darshil0/AI-Testing)
-
-A comprehensive repository containing test cases and evaluation frameworks for assessing various AI models' performance, capabilities, and limitations.
-
-`ai` `testing` `evaluation` `llm` `machine-learning`
-
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [Web-Testing-Framework](https://github.com/darshil0/Web-Testing-Framework)
-
-A lightweight web testing framework built using Java, Selenium, and TestNG. Created for understanding and implementing web testing framework best practices.
-
-`selenium` `testng` `java` `web-testing` `automation`
-
-
-</td>
-<td width="50%">
-
-### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
-
-A minimalist AI-powered journaling web app built with React, Vite, and TailwindCSS. Generate personalized insights using Anthropic's Claude API with private data storage.
-
-`react` `vite` `tailwindcss` `claude-ai` `journaling`
-
-
-</td>
-</tr>
-</table>
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [mobile-testing-framework](https://github.com/darshil0/mobile-testing-framework) | Mobile automation framework using Appium & TestNG with POM design supporting Android & iOS. | `appium` `testng` `mobile-automation` |
+| [AI-Testing](https://github.com/darshil0/AI-Testing) | Evaluation suite for testing AI models' accuracy, limitations, and capabilities. | `ai` `testing` `llm` `evaluation` |
+| [Web-Testing-Framework](https://github.com/darshil0/Web-Testing-Framework) | Lightweight Java+Selenium+TestNG web automation framework for best practices. | `selenium` `java` `automation` |
+| [micro-journal-ai](https://github.com/darshil0/micro-journal-ai) | Minimalist React journaling app with Anthropic Claude API-based personalized insights. | `react` `vite` `tailwindcss` |
 
 ---
 
-## My Toolkit
+## 🧰 My Toolkit
 
-**Testing Expertise**
-
-Regression Testing • E2E Testing • API Testing • Database Testing • Exploratory Testing • Web Services • Mobile Testing
-
-**Languages & Frameworks**
-
-Java • Python • JavaScript • Selenium • Appium • TestNG • Rest Assured
-
-**Tools & Platforms**
-
-JIRA • Confluence • TestRail • Postman • HP ALM • SoapUI • SQL
-
-**AI & Cloud**
-
-ChatGPT • Claude.AI • Google Gemini • Microsoft Copilot • AWS • Azure
-
-**Healthcare Systems**
-
-EHR/EMR • Telehealth • ADA Compliance • Connected Medical Devices
-
-**Leadership & Compliance**
-
-Team Management • HIPAA • FDA Standards • ISO • Agile/Scrum • Product Management
+**Testing Expertise:** Regression • E2E • API • Mobile • Database • Automation • Exploratory  
+**Languages & Frameworks:** Java • Python • JavaScript • Selenium • TestNG • Appium • Rest Assured  
+**Tools & Platforms:** JIRA • Confluence • TestRail • Postman • HP ALM • SoapUI • SQL  
+**AI & Cloud:** ChatGPT • Claude.AI • Google Gemini • Microsoft Copilot • AWS • Azure  
+**Healthcare Systems:** EHR/EMR • Telehealth • ADA Compliance • Connected Devices  
+**Leadership & Compliance:** Agile/Scrum • HIPAA • FDA • ISO • Product Management • Risk Mitigation  
 
 ---
 
-## Contribution Activity
+## 📈 Highlights
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=default&hide_border=true)
-
-</div>
+- Reduced patient care costs by 40% with risk-based, shift-left strategies.  
+- Cut patient wait times by 30% via streamlined QA workflows and automation.  
+- Reached 99.7% defect detection rate using advanced test automation.
 
 ---
 
-<div align="center">
+## 📊 Contribution Activity
 
-## Let's Connect
-
-**Ready to connect? Let's collaborate to build smarter QA solutions and transform patient care through innovation.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/soulsurfer300)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-*© 2025 Darshil Shah. Healthcare QA Leader | AI-Powered Testing Pioneer*
+## 🤝 Let's Connect
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/darshil-qa-lead/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:darshils99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://x.com/soulsurfer300"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
+</p>
+
+---
+
+© 2025 Darshil Shah — Healthcare QA Leader | AI-Powered Testing Pioneer

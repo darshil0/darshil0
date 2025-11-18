@@ -77,10 +77,10 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 ## 🧰 Technical Expertise
 
 ### Testing & Automation Frameworks
-Selenium WebDriver • Appium • TestNG • Rest Assured • Postman • SoapUI • Cucumber • JMeter • LoadRunner
+Selenium WebDriver • Appium • TestNG • Rest Assured • Postman • SoapUI • Cucumber
 
 ### Programming Languages
-Java • Python • JavaScript • TypeScript • SQL • Shell Scripting
+Java • Python • JavaScript • TypeScript • SQL
 
 ### Healthcare Domain Knowledge
 - **Systems:** EHR/EMR Platforms, Telehealth Solutions, Connected Medical Devices
@@ -90,13 +90,12 @@ Java • Python • JavaScript • TypeScript • SQL • Shell Scripting
 
 ### AI & Cloud Technologies
 **AI Tools:** ChatGPT • Claude AI • Google Gemini • Microsoft Copilot  
-**Cloud Platforms:** AWS • Azure • Google Cloud Platform
 
 ### DevOps & CI/CD
-Git • Jenkins • Docker • Kubernetes • GitHub Actions • Azure DevOps
+Git • Jenkins
 
 ### Project Management & Collaboration
-JIRA • Confluence • TestRail • HP ALM • Azure Boards
+JIRA • Confluence • TestRail • HP ALM 
 
 ### Methodologies
 Agile/Scrum • Kanban • Risk-Based Testing • Shift-Left Testing • BDD/TDD • Test Strategy Development • Team Leadership

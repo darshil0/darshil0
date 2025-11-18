@@ -76,29 +76,77 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 
 ## 🧰 Technical Expertise
 
-### Testing & Automation Frameworks
-Selenium WebDriver • Appium • TestNG • Rest Assured • Postman • SoapUI • Cucumber
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Programming Languages
-Java • Python • JavaScript • TypeScript • SQL
+**Testing & Automation**
+- Selenium WebDriver
+- Appium
+- TestNG
+- Rest Assured
+- Postman
+- SoapUI
+- Cucumber
+- JMeter
+- LoadRunner
 
-### Healthcare Domain Knowledge
-- **Systems:** EHR/EMR Platforms, Telehealth Solutions, Connected Medical Devices
-- **Standards:** HL7, FHIR, DICOM
-- **Compliance:** HIPAA, FDA 21 CFR Part 11, ISO 13485, ADA/WCAG
-- **Workflows:** Clinical Documentation, Patient Scheduling, Medical Billing, Lab Integration
+**Programming Languages**
+- Java
+- Python
+- JavaScript
+- TypeScript
+- SQL
+- Shell Scripting
 
-### AI & Cloud Technologies
-**AI Tools:** ChatGPT • Claude AI • Google Gemini • Microsoft Copilot  
+**AI & Cloud**
+- ChatGPT
+- Claude AI
+- Google Gemini
+- Microsoft Copilot
+- AWS
+- Azure
+- Google Cloud Platform
 
-### DevOps & CI/CD
-Git • Jenkins
+</td>
+<td width="50%" valign="top">
 
-### Project Management & Collaboration
-JIRA • Confluence • TestRail • HP ALM 
+**Healthcare Domain**
+- EHR/EMR Platforms
+- Telehealth Solutions
+- Connected Medical Devices
+- HL7/FHIR/DICOM Standards
+- HIPAA Compliance
+- FDA 21 CFR Part 11
+- ISO 13485
+- ADA/WCAG
+- Clinical Workflows
 
-### Methodologies
-Agile/Scrum • Kanban • Risk-Based Testing • Shift-Left Testing • BDD/TDD • Test Strategy Development • Team Leadership
+**DevOps & CI/CD**
+- Git
+- Jenkins
+- Docker
+- Kubernetes
+- GitHub Actions
+- Azure DevOps
+
+**Project Management**
+- JIRA
+- Confluence
+- TestRail
+- HP ALM
+- Azure Boards
+
+**Methodologies**
+- Agile/Scrum
+- Risk-Based Testing
+- Shift-Left Testing
+- BDD/TDD
+- Team Leadership
+
+</td>
+</tr>
+</table>
 
 ---
 

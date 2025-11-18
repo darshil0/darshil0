@@ -88,16 +88,12 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 - Postman
 - SoapUI
 - Cucumber
-- JMeter
-- LoadRunner
 
 **Programming Languages**
 - Java
 - Python
 - JavaScript
-- TypeScript
 - SQL
-- Shell Scripting
 
 **AI & Cloud**
 - ChatGPT
@@ -105,8 +101,6 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 - Google Gemini
 - Microsoft Copilot
 - AWS
-- Azure
-- Google Cloud Platform
 
 </td>
 <td width="50%" valign="top">
@@ -127,8 +121,6 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 - Jenkins
 - Docker
 - Kubernetes
-- GitHub Actions
-- Azure DevOps
 
 **Project Management**
 - JIRA

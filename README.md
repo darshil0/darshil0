@@ -117,7 +117,7 @@ My focus is ensuring AI-powered testing maintains the rigorous standards healthc
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=dark&hide_border=true)
+![GitHub Streak]https://streak-stats.demolab.com/?user=darshil0&theme=dark&hide_border=true
 
 ---
 

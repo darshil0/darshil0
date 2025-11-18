@@ -15,11 +15,11 @@ I specialize in healthcare QA with expertise in HIPAA, FDA, and ISO compliance t
 ## What I work on
 
 - 🤖 **AI-Powered Testing**: LLM-based test generation, intelligent defect analysis, autonomous testing workflows
-- 📦 **Ready-to-run frameworks**: clone → install → test (mobile, web, API automation)
-- 🔧 **QA workflows**: test strategy, automation architecture, CI/CD integration, risk-based testing
+- 📦 **Ready-to-run frameworks**: clone → install → test (mobile, web, API, DB, Web Services)
+- 🔧 **QA workflows**: test strategy,test planning, regression and scrum testing, risk-based testing
 - ❤️ **Healthcare systems**: EHR/EMR testing, telehealth platforms, connected devices, clinical workflows
 - 💬 **Compliance testing**: HIPAA, FDA, ISO validation with automated evidence collection
-- 🚀 **Team leadership**: building and scaling QA Centers of Excellence across 3 continents
+- 🚀 **Team leadership**: building and scaling QA teams of 15+ QA professionals
 - 🧩 **Full testing lifecycle**: from requirements analysis → test design → execution → reporting
 
 ---

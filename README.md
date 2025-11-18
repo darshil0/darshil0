@@ -49,7 +49,7 @@ I lead QA teams that prevent patient safety risks, drive measurable business imp
 * HIPAA, FDA, and ISO compliance with automated evidence collection
 
 ### 📦 Quality Engineering
-* Production-ready functional testing (mobile, web, API, database)
+* Production-ready automation frameworks (mobile, web, API, database)
 * End-to-end QA lifecycle management
 * Risk-based testing strategies and shift-left methodologies
 * Scrum, regression, E2E, BVT, and production testing
@@ -123,6 +123,35 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
       <ul>
         <li>Agile/Scrum, BDD/TDD</li>
         <li>Risk-Based & Shift-Left Testing</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📜 Certifications & Continuous Learning
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🧠 Generative AI & Agents</h3>
+      <ul>
+        <li><strong>Anthropic:</strong> Model Context Protocol & AI Fluency</li>
+        <li><strong>Google:</strong> MLOps for Generative AI</li>
+        <li><strong>IBM:</strong> From Learner to Builder: AI Agent Architect</li>
+        <li><strong>Microsoft:</strong> Develop Generative AI Apps in Azure</li>
+        <li><strong>Coursera:</strong> ChatGPT Prompt Engineering for Developers</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>☁️ Cloud, Agile & Leadership</h3>
+      <ul>
+        <li><strong>AWS:</strong> Cloud Practitioner Essentials</li>
+        <li><strong>AWS:</strong> Responsible AI Practices</li>
+        <li><strong>Scrum Inc:</strong> Registered Scrum Basics™</li>
+        <li><strong>Pendo:</strong> Product Management Basics</li>
+        <li><strong>LinkedIn:</strong> Fundamentals of Agentic AI</li>
       </ul>
     </td>
   </tr>

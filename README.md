@@ -1,8 +1,8 @@
 # Hi, I'm Darshil Shah 👋
 
-I lead QA teams that prevent patient safety risks, drive measurable business impact, and enable safer healthcare innovation through AI-powered testing.
+**QA Leader | Healthcare Quality Engineering | AI-Powered Testing**
 
-Most of my work is hands-on: building automation frameworks, implementing AI-driven test strategies, and establishing quality standards that protect patients while accelerating product delivery.
+I lead QA teams that prevent patient safety risks, drive measurable business impact, and enable safer healthcare innovation through AI-powered testing. Most of my work is hands-on: building automation frameworks, implementing AI-driven test strategies, and establishing quality standards that protect patients while accelerating product delivery.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
@@ -10,24 +10,37 @@ Most of my work is hands-on: building automation frameworks, implementing AI-dri
 
 ---
 
-## What I work on
+## 🎯 About Me
 
-- 🤖 **AI-Powered Testing**: LLM-based test generation, intelligent defect analysis, autonomous testing workflows
-- 📦 **Ready-to-run frameworks**: clone → install → test (mobile, web, API, DB, web services)
-- 🔧 **QA workflows**: test strategy, test planning, regression and scrum testing, risk-based testing
-- ❤️ **Healthcare systems**: EHR/EMR testing, telehealth platforms, connected devices, clinical workflows
-- 💬 **Compliance testing**: HIPAA, FDA, ISO validation with automated evidence collection
-- 🚀 **Team leadership**: building and scaling QA teams of 15+ QA professionals
-- 🧩 **Full testing lifecycle**: from requirements analysis → test design → execution → reporting
+**Healthcare QA Leader** with 9+ years leading globally distributed teams of 15+ professionals, achieving a 99.7% defect detection rate through intelligent automation and strategic risk management.
+
+**Key Achievements:**
+- Reduced patient care costs by 40% through shift-left strategies
+- Cut patient wait times by 30% via streamlined QA workflows
+- Built and scaled QA teams from ground up to 15+ professionals
+- Established compliance testing frameworks for HIPAA, FDA, and ISO standards
+
+**Currently seeking:** Long-term/short-term contract and full-time roles as an IT QA Engineer, specializing in healthcare systems and AI-powered testing.
 
 ---
 
-## About Me
+## 🚀 What I Work On
 
-- 🎯 **Healthcare QA Leader** with 9+ years leading globally distributed teams of 15+ professionals, achieving a 99.7% defect detection rate through intelligent automation and strategic risk management.
-- 🔭 **Impact-driven results**: Reduced patient care costs by 40% and cut patient wait times by 30% through shift-left strategies and streamlined QA workflows.
-- 📚 **Testing advocate** sharing knowledge on AI-powered testing, healthcare compliance, and quality engineering best practices.
-- 🌱 **Building healthcare products with AI?** I'd love to chat about quality engineering strategies, compliance testing, or AI-powered QA approaches.
+### AI & Automation
+🤖 LLM-based test generation and intelligent defect analysis  
+🔄 Autonomous testing workflows with self-healing capabilities  
+📊 Predictive quality analytics and AI-assisted compliance validation
+
+### Healthcare Systems
+❤️ EHR/EMR testing and clinical workflow validation  
+🏥 Telehealth platforms and connected medical devices  
+💬 HIPAA, FDA, and ISO compliance with automated evidence collection
+
+### Quality Engineering
+📦 Production-ready automation frameworks (mobile, web, API, database)  
+🔧 End-to-end QA lifecycle management  
+🧩 Risk-based testing strategies and shift-left methodologies  
+📋 Scrum, regression, E2E, BVT, and production testing
 
 ---
 
@@ -36,54 +49,88 @@ Most of my work is hands-on: building automation frameworks, implementing AI-dri
 ### [mobile-testing-framework](https://github.com/darshil0/mobile-testing-framework)
 Production-ready mobile automation framework using Appium and TestNG with Page Object Model design. Supports Android and iOS with parallel execution, detailed reporting, and CI/CD integration.
 
-**Technologies**: `Appium` `TestNG` `Mobile Automation` `Java` `POM`
+**Tech Stack:** Appium • TestNG • Java • Mobile Automation • POM • CI/CD
+
+---
 
 ### [AI-Testing](https://github.com/darshil0/AI-Testing)
 Comprehensive evaluation suite for testing AI models in healthcare contexts. Includes accuracy testing, bias detection, safety validation, and performance benchmarking specifically for medical AI applications.
 
-**Technologies**: `AI Testing` `LLM Evaluation` `Python` `Quality Metrics`
+**Tech Stack:** Python • LLM Evaluation • AI Testing • Quality Metrics • Healthcare AI
+
+---
 
 ### [Web-Testing-Framework](https://github.com/darshil0/Web-Testing-Framework)
 Lightweight, maintainable web automation framework built with Java, Selenium, and TestNG. Features data-driven testing, cross-browser support, and extensive reporting capabilities.
 
-**Technologies**: `Selenium` `Java` `TestNG` `Web Automation` `CI/CD`
+**Tech Stack:** Selenium • Java • TestNG • Web Automation • Data-Driven Testing • CI/CD
+
+---
 
 ### [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
 Minimalist React journaling app demonstrating practical AI integration with Anthropic Claude API. Provides personalized insights while maintaining data privacy and security standards.
 
-**Technologies**: `React` `Vite` `TailwindCSS` `Claude API` `TypeScript`
+**Tech Stack:** React • Vite • TailwindCSS • Claude API • TypeScript • Privacy-First Design
 
 ---
 
-## 🧰 My Toolkit
+## 🧰 Technical Expertise
 
-**Testing & Automation**  
+### Testing & Automation Frameworks
 Selenium WebDriver • Appium • TestNG • Rest Assured • Postman • SoapUI • Cucumber • JMeter • LoadRunner
 
-**Languages & Frameworks**  
+### Programming Languages
 Java • Python • JavaScript • TypeScript • SQL • Shell Scripting
 
-**Healthcare & Compliance**  
-EHR/EMR Systems • HL7/FHIR Standards • HIPAA Regulations • FDA Guidelines • ISO 13485 • ADA Compliance • Clinical Workflows • Telehealth Platforms
+### Healthcare Domain Knowledge
+- **Systems:** EHR/EMR Platforms, Telehealth Solutions, Connected Medical Devices
+- **Standards:** HL7, FHIR, DICOM
+- **Compliance:** HIPAA, FDA 21 CFR Part 11, ISO 13485, ADA/WCAG
+- **Workflows:** Clinical Documentation, Patient Scheduling, Medical Billing, Lab Integration
 
-**AI & Cloud Platforms**  
-ChatGPT • Claude AI • Google Gemini • Microsoft Copilot • AWS • Azure • Google Cloud Platform
+### AI & Cloud Technologies
+**AI Tools:** ChatGPT • Claude AI • Google Gemini • Microsoft Copilot  
+**Cloud Platforms:** AWS • Azure • Google Cloud Platform
 
-**Tools & Platforms**  
-JIRA • Confluence • TestRail • HP ALM • Git • Jenkins • Docker • Kubernetes • CI/CD Pipelines
+### DevOps & CI/CD
+Git • Jenkins • Docker • Kubernetes • GitHub Actions • Azure DevOps
 
-**Leadership & Methodologies**  
-Agile/Scrum • Risk-Based Testing • Shift-Left Testing • Test Strategy • Team Building • Stakeholder Management • Product Management
+### Project Management & Collaboration
+JIRA • Confluence • TestRail • HP ALM • Azure Boards
+
+### Methodologies
+Agile/Scrum • Kanban • Risk-Based Testing • Shift-Left Testing • BDD/TDD • Test Strategy Development • Team Leadership
 
 ---
 
-## 💡 Currently Exploring
+## 💡 Current Focus Areas
 
-I'm actively researching how AI can transform healthcare quality assurance through autonomous test generation, intelligent test maintenance, predictive quality analytics, and AI-assisted compliance validation. My focus is ensuring AI-powered testing maintains the rigorous standards healthcare requires while accelerating delivery timelines.
+I'm actively researching how AI can transform healthcare quality assurance through:
+
+- **Autonomous Test Generation:** Self-learning test creation based on application behavior
+- **Intelligent Test Maintenance:** AI-powered test healing and optimization
+- **Predictive Quality Analytics:** Early defect detection using machine learning
+- **Compliance Automation:** AI-assisted regulatory validation and documentation
+
+My focus is ensuring AI-powered testing maintains the rigorous standards healthcare requires while accelerating delivery timelines and reducing costs.
 
 ---
+
+## 📊 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=dark&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+Building healthcare products with AI? I'd love to discuss:
+- Quality engineering strategies for regulated environments
+- Compliance testing automation
+- AI-powered QA approaches
+- Team building and scaling best practices
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/darshil-qa-lead/) or [email](mailto:darshils99@gmail.com)!
 
 ---
 

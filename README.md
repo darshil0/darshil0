@@ -173,7 +173,7 @@ Minimalist React journaling app with Anthropic Claude API integration. Provides 
 ## 📜 Certifications & Learning
 
 <details>
-<summary><b>🤖 Generative AI & Machine Learning (5 Certifications)</b></summary>
+<summary><b>🤖 Generative AI & Machine Learning </b></summary>
 
 - **ChatGPT Prompt Engineering For Developers** | Coursera | Jul 2025
 - **Develop Generative AI Apps in Azure** | Microsoft | Jun 2025
@@ -184,7 +184,7 @@ Minimalist React journaling app with Anthropic Claude API integration. Provides 
 </details>
 
 <details>
-<summary><b>☁️ Cloud & MLOps (2 Certifications)</b></summary>
+<summary><b>☁️ Cloud & MLOps </b></summary>
 
 - **Machine Learning Operations (MLOps) for Generative AI** | Google | Jun 2025
 - **AWS Cloud Practitioner Essentials** | Amazon Web Services | May 2025
@@ -192,7 +192,7 @@ Minimalist React journaling app with Anthropic Claude API integration. Provides 
 </details>
 
 <details>
-<summary><b>📊 Agile & Project Management (2 Certifications)</b></summary>
+<summary><b>📊 Agile & Project Management </b></summary>
 
 - **Registered Scrum Basics™** | Scrum Inc.™ | Aug 2025
 - **Agile Project Management** | HP LIFE | Jul 2025
@@ -200,7 +200,7 @@ Minimalist React journaling app with Anthropic Claude API integration. Provides 
 </details>
 
 <details>
-<summary><b>🛡️ Responsible AI & Governance (2 Certifications)</b></summary>
+<summary><b>🛡️ Responsible AI & Governance </b></summary>
 
 - **Introduction to Responsible AI** | AWS | Jun 2025
 - **GitHub Responsible AI** | Microsoft | May 2025

@@ -246,27 +246,5 @@ Actively researching AI transformation in healthcare quality assurance:
 
 > **Mission:** Maintain rigorous healthcare standards while accelerating delivery through AI-powered testing.
 
----
-
-<div align="center">
-
-### 💬 Let's Connect
-
-Open to discussing **QA leadership opportunities**, **AI in testing**, and **healthcare technology innovations**.
-
-<p>
-  <a href="mailto:darshils99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-darshils99%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/darshil-qa-lead/">
-    <img src="https://img.shields.io/badge/LinkedIn-darshil--qa--lead-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/darshil0">
-    <img src="https://img.shields.io/badge/GitHub-%40darshil0-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" width="100%" />
-
 </div>
 

@@ -53,7 +53,7 @@ QA Leader with 9+ years driving digital transformation in healthcare technology.
 - **Availability:** Immediate Joiner
 - **Citizenship:** US Citizen (No sponsorship required)
 
-### 🏆 Key Achievements
+## 🏆 Key Achievements
 
 - **Reduced patient care costs by 40%** through shift-left strategies
 - **Reduced patient wait times by 30%** through enhanced QA strategies
@@ -62,29 +62,6 @@ QA Leader with 9+ years driving digital transformation in healthcare technology.
 - **Led and scaled global QA teams** of 15+ engineers, fostering innovation and collaboration
 - **Boosted mobile app testing efficiency by 30%** using Perfecto device labs
 - **Established compliance testing frameworks** for HIPAA, FDA, and ISO standards
-
----
-
-## 🚀 What I Work On
-
-### 🤖 AI & Automation
-
-- LLM-based test generation and intelligent defect analysis
-- Autonomous testing workflows with self-healing capabilities
-- Predictive quality analytics and AI-assisted compliance validation
-
-### ❤️ Healthcare Systems
-
-- EHR/EMR testing and clinical workflow validation
-- Telehealth platforms and connected medical devices
-- HIPAA, FDA, and ISO compliance with automated evidence collection
-
-### 📦 Quality Engineering
-
-- Functional/automation testing (mobile, web, API, database)
-- End-to-end QA lifecycle management
-- Risk-based testing strategies and shift-left methodologies
-- Scrum, regression, E2E, BVT, and production testing
 
 ---
 

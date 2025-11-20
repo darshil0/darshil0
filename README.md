@@ -26,7 +26,7 @@ I lead QA teams that prevent patient safety risks, drive measurable business imp
 
 **Healthcare QA Leader** with 9+ years leading globally distributed teams of 15+ professionals, achieving a 99.7% defect detection rate through intelligent automation and strategic risk management.
 
-> **Currently seeking:** Long-term/short-term contract and full-time roles as an IT QA Engineer, specializing in healthcare systems and AI-powered testing.
+> **Currently seeking:** Full-time and contract opportunities for roles such as **AI/ML Engineer**, **QA Automation Lead (AI Focus)**, and **QA Leader** in the healthcare technology sector.
 
 ### 🏆 Key Achievements
 

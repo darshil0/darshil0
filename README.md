@@ -180,5 +180,5 @@ graph LR
 ````
 
 <div align="center"\>
-<p\>\<i\>"Quality is not an act, it is a habit."\</i\>\</p\>
+<p\><i\>"Quality is not an act, it is a habit."</i\></p\>
 </div\>

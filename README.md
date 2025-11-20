@@ -207,12 +207,12 @@ I'm actively researching how AI can transform healthcare quality assurance throu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=600&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=dark&hide_border=true&cache_seconds=600&langs_count=8" alt="Top Languages" />
 </div>
 
 ---

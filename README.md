@@ -129,65 +129,24 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 
 ## 📜 Certifications & Continuous Learning
 
-- **Accenture UK - Developer and Technology Job Simulation** | Forage | May 2025
-- **AI Fluency** | Microsoft | May 2025
-- **AI for Beginners** | HP LIFE | Jul 2025
-- **AI Skills Fest Challenge: AI for Public Sector Upskilling** | Microsoft | May 2025
-- **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) | May 2025
-- **Agile Project Management** | HP LIFE | Jul 2025
-- **Ask Questions & Analyze Content with Microsoft 365 Copilot** | Microsoft | May 2025
-- **Boost Your Productivity with Microsoft Copilot** | Microsoft | May 2025
-- **Certificate of Completion: AI Fluency Framework & Foundations** | Anthropic | Aug 2025
-- **ChatGPT For Everyone** | Learn Prompting | Jul 2025
+### **Generative AI & Machine Learning**
 - **ChatGPT Prompt Engineering For Developers** | Coursera | Jul 2025
-- **Choose & Deploy Models from the Model Catalog in Azure AI Foundry Portal** | Microsoft | May 2025
-- **Copilot Foundations** | Microsoft | Jun 2025
-- **Craft Effective Prompts for Microsoft 365 Copilot** | Microsoft | May 2025
-- **Design a Dream Destination Using Microsoft Copilot** | Microsoft | May 2025
-- **Develop a RAG Based Solution with Your Own Data in Azure AI Foundry** | Microsoft | May 2025
-- **Develop an App with the Azure AI Foundry SDK** | Microsoft | May 2025
 - **Develop Generative AI Apps in Azure** | Microsoft | Jun 2025
-- **Digital Skills: Artificial Intelligence** | Accenture | May 2025
-- **Digital Skills: Digital Skills For Work and Life** | Accenture | May 2025
-- **Edit and Transform Content with Microsoft 365 Copilot** | Microsoft | May 2025
-- **Electronic Arts - Product Management Job Simulation** | Forage | May 2025
-- **Enhance Public Sector Services with Generative AI** | Microsoft | May 2025
-- **Evaluate Generative AI Model in Azure AI Foundry Portal** | Microsoft | Jun 2025
-- **Explore AI For All** | Microsoft | May 2025
-- **Explore Benefits of a Change Agents Program for Public Sector Organizations** | Microsoft | May 2025
-- **Explore Internet Search & Beyond** | Microsoft | May 2025
-- **Explore Responsible AI** | Microsoft | May 2025
-- **Exploring Artificial Intelligence** | IBM | Jun 2025
-- **Exploring Cloud Computing** | IBM | Jun 2025
-- **Fine Tune a Language Model with Azure AI Foundry** | Microsoft | May 2025
-- **Foundation of a Modern Public Sector Security Operations Center** | Microsoft | May 2025
 - **From Learner to Builder: Becoming an AI Agent Architect** | IBM | Jul 2025
-- **Fundamental AI Concepts** | Microsoft | May 2025
-- **Fundamentals of Agentic AI: Business Implications and Ethical Insights** | LinkedIn | Jul 2025
-- **Fundamentals of Azure AI Speech** | Microsoft | May 2025
-- **Fundamentals of Facial Recognition** | Microsoft | May 2025
-- **Fundamentals of Text Analysis with the Language Services** | Microsoft | May 2025
-- **Fundamentals of Conversational Language Understanding** | Microsoft | May 2025
-- **Fundamentals of Language Translation** | Microsoft | May 2025
-- **Fundamentals of Optical Character Recognition** | Microsoft | May 2025
-- **Fundamentals of Question Answering with the Language Service** | Microsoft | May 2025
 - **Gen AI: Beyond the Chatbot** | Google | May 2025
-- **Generative AI in Action** | IBM | Jun 2025
-- **Get Started with Microsoft Copilot** | Microsoft | May 2025
-- **Get Started with Microsoft Copilot Studio** | Microsoft | Jun 2025
-- **Get Started with Prompt Flow to Develop Language Model Apps in the Azure AI Foundry** | Microsoft | May 2025
-- **GitHub Responsible AI** | Microsoft | May 2025
-- **Implement a Responsible Generative AI Solution in Azure AI Foundry** | Microsoft | May 2025
-- **Introduction to Model Context Protocol** | Anthropic | Oct 2025
-- **Introduction to Responsible AI** | Amazon Web Services (AWS) | Jun 2025
-- **Leading Through AI Agent Disruption** | LinkedIn | Jul 2025
+- **Certificate of Completion: AI Fluency Framework & Foundations** | Anthropic | Aug 2025
+
+### **Cloud & MLOps**
 - **Machine Learning Operations (MLOps) for Generative AI** | Google | Jun 2025
-- **Preparing Your Organization for AI Agents** | LinkedIn | Jul 2025
-- **Preparing for the Future of Work with AI Agents** | LinkedIn | Jul 2025
-- **Product Management Basics Certification** | Pendo.io | Jun 2025
+- **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) | May 2025
+
+### **Agile & Project Management**
 - **Registered Scrum Basics™** | Agile Education by Scrum Inc.™ | Aug 2025
-- **Responsible Artificial Intelligence Practices** | Amazon Web Services (AWS) | Jun 2025
-- **Transforming Business with AI Agents: Autonomous Efficiency and Decision-Making** | LinkedIn | Jul 2025
+- **Agile Project Management** | HP LIFE | Jul 2025
+
+### **Responsible AI & Governance**
+- **Introduction to Responsible AI** | Amazon Web Services (AWS) | Jun 2025
+- **GitHub Responsible AI** | Microsoft | May 2025
 
 ---
 
@@ -220,9 +179,9 @@ I'm actively researching how AI can transform healthcare quality assurance throu
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <p>Building healthcare products with AI? I'd love to discuss quality engineering strategies for regulated environments.</p>
-  
+
   <a href="https://www.linkedin.com/in/darshil-qa-lead/">LinkedIn</a> • <a href="mailto:darshils99@gmail.com">Email</a>
-  
+
   <br /><br />
   <i>Building safer healthcare through intelligent quality assurance</i>
 </div>

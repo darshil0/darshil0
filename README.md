@@ -39,13 +39,12 @@
 
 <br />
 
-As a **QA Leader** with over 8 years of experience in the healthcare technology sector, I specialize in driving digital transformation and ensuring the highest standards of quality for patient-centric applications. My expertise lies in building and leading global QA teams, optimizing test coverage, and implementing AI-driven testing strategies to accelerate release cycles while maintaining strict regulatory compliance. I am a certified expert in AI/ML, Prompt Engineering, and Responsible AI, with advanced credentials from AWS, Google Cloud, and PMI. I am passionate about leveraging emerging technologies to deliver user-centric, compliant products that make a real difference in people's lives.
-
+QA Leader with 9+ years driving digital transformation in healthcare technology. I specialize in functional, API, and regression testing while leading global teams to accelerate release cycles and ensure regulatory compliance. Certified in AI/ML, Prompt Engineering, Responsible AI, and Project Management, with advanced credentials from AWS, Google Cloud, and PMI. I'm passionate about leveraging emerging technologies to elevate software quality and deliver user-centric products that align with business objectives. I am actively looking for a new role within a forward-thinking and a value-driven organization.
 </div>
 
 ---
 
-## 🎯 Open to Work
+## 🟢 Open to Work
 
 - **Target Roles:** QA Lead, Senior QA Lead, QA Manager, Test Manager, Project Manager (QA)
 - **Industries:** Healthcare Technology, Financial Services, IT Consulting, Tech Firms
@@ -53,8 +52,6 @@ As a **QA Leader** with over 8 years of experience in the healthcare technology 
 - **Location:** Dallas/Irving, TX | Open to Remote & Hybrid
 - **Availability:** Immediate Joiner
 - **Citizenship:** US Citizen (No sponsorship required)
-
----
 
 ## 🏆 Key Achievements
 
@@ -98,13 +95,13 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 
 ## 🧰 Technical Expertise
 
-- **🧪 Quality Assurance & Testing:** API, E2E, Regression, SIT, Smoke, Exploratory, Functional/automation testing (mobile, web, API, database)
-- **🛠️ Test Automation Tools:** Selenium WebDriver, Appium, TestNG, Cucumber, Rest Assured, Postman, SoapUI
-- **☁️ Cloud & DevOps:** AWS Certified, Multi-cloud (AWS, Google Cloud, Azure), Jenkins, Git
-- **📊 Project Management & Tools:** PMI Certified Associate, Agile/Scrum, Team Leadership, JIRA, Confluence, TestRail, HP ALM, qTest
-- **💻 Programming & Data:** Java, Python, JavaScript, SQL, JSON, XML
-- **🤖 AI/GenAI:** AI-driven test optimization, ChatGPT, Claude AI, Gemini, Microsoft Copilot
-- **🏥 Healthcare Domain:** EHR/EMR Platforms, Telehealth Solutions, HL7/FHIR/DICOM Standards, HIPAA, FDA 21 CFR Part 11, ISO 13485, ADA/WCAG Accessibility
+- **Quality Assurance & Testing:** API, E2E, Regression, SIT, Smoke, Exploratory, Functional/automation testing (mobile, web, API, database)
+- **Test Automation Tools:** Selenium WebDriver, Appium, TestNG, Cucumber, Rest Assured, Postman, SoapUI
+- **Cloud & DevOps:** AWS Certified, Multi-cloud (AWS, Google Cloud, Azure), Jenkins, Git
+- **Project Management & Tools:** PMI Certified Associate, Agile/Scrum, Team Leadership, JIRA, Confluence, TestRail, HP ALM, qTest
+- **Programming & Data:** Java, Python, JavaScript, SQL, JSON, XML
+- **AI/GenAI:** AI-driven test optimization, ChatGPT, Claude AI, Gemini, Microsoft Copilot
+- **Healthcare Domain:** EHR/EMR Platforms, Telehealth Solutions, HL7/FHIR/DICOM Standards, HIPAA, FDA 21 CFR Part 11, ISO 13485, ADA/WCAG Accessibility
 
 ---
 
@@ -131,7 +128,7 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 
 ---
 
-## 🏅 Honors & Recognition
+## 🏆 Honors & Recognition
 
 - **3 Years of Services Award and Recognition** from Accenture
 - **Client Recognition** for exceptional technology leadership
@@ -170,6 +167,3 @@ I'm actively researching how AI can transform healthcare quality assurance throu
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <p>I am actively seeking full-time or long-term contract QA leadership roles. If you need a results-driven QA leader who combines technical excellence, strategic insight, and healthcare expertise, let's discuss how I can help your team succeed.</p>
-  
-  <a href="https://www.linkedin.com/in/darshil-qa-lead/">LinkedIn</a> • <a href="mailto:darshils99@gmail.com">Email</a>
-</div>

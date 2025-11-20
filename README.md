@@ -44,6 +44,13 @@
 
 </div>
 
+## 📊 My GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=600&rank_icon=github" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=dark&hide_border=true&cache_seconds=600&langs_count=8" alt="Top Languages" height="180em" />
+</div>
+
 ---
 
 ## 👋 About Me
@@ -238,15 +245,3 @@ Actively researching AI transformation in healthcare quality assurance:
 ```
 
 > **Mission:** Maintain rigorous healthcare standards while accelerating delivery through AI-powered testing.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=600&rank_icon=github" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=dark&hide_border=true&cache_seconds=600&langs_count=8" alt="Top Languages" height="180em" />
-</div>
-
----
-

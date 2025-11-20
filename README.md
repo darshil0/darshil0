@@ -45,19 +45,17 @@
 </div>
 
 ## 📊 My GitHub Analytics
-
+<p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=600&rank_icon=github" alt="GitHub Stats" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=dark&hide_border=true&cache_seconds=600&langs_count=8" alt="Top Languages" height="180em" />
 </div>
-
+</p>
 ---
 
 ## 👋 About Me
 
-QA Leader with **9+ years** driving digital transformation in healthcare technology. I lead global teams to accelerate release cycles, optimize test coverage, and ensure regulatory compliance in highly regulated environments.
-
-Certified in **AI/ML, Prompt Engineering, Responsible AI, and Project Management** with advanced credentials from **AWS, Google Cloud, and PMI**. I combine technical excellence with strategic vision to deliver user-centric, compliant products.
+QA Leader with **9+ years** driving digital transformation in healthcare technology. I lead global teams to accelerate release cycles, optimize test coverage, and ensure regulatory compliance in highly regulated environments. Certified in **AI/ML, Prompt Engineering, Responsible AI, and Project Management** with advanced credentials from **AWS, Google Cloud, and PMI**. I combine technical excellence with strategic vision to deliver user-centric, compliant products.
 
 **🟢 Currently seeking full-time or contract QA leadership roles** to leverage emerging technologies and drive meaningful business impact.
 

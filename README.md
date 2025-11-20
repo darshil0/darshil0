@@ -179,6 +179,6 @@ graph LR
     style G fill:#00C853,stroke:#333,stroke-width:2px,color:#fff
 ````
 
-\<div align="center"\>
-\<p\>\<i\>"Quality is not an act, it is a habit."\</i\>\</p\>
-\</div\>
+<div align="center"\>
+<p\>\<i\>"Quality is not an act, it is a habit."\</i\>\</p\>
+</div\>

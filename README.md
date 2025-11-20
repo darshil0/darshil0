@@ -13,50 +13,58 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
 </p>
+<p>
+  <a href="https://www.coursera.org/learner/darshil-shah-1990">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera" />
+  </a>
+  <a href="https://www.credly.com/users/darshil-shah.qa/badges#credly">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+  <a href="https://www.skills.google/public_profiles/b4c10d9b-a4e0-4fe6-ba1b-7ac3d2b15158">
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google" />
+  </a>
+  <a href="https://docs.google.com/spreadsheets/d/1hf4n6WS9du7Iljhnz-i56xMhFYlOjcVn/edit?pli=1&hl=en&gid=1753036168#gid=1753036168">
+    <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/darshilshah-7981/">
+    <img src="https://img.shields.io/badge/Microsoft-232323?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" />
+  </a>
+  <a href="https://docs.google.com/document/d/1w2PM0M6tK6_GAuhEg0YcaoOF8FQtEwxDj_2kOjWPBCs/edit?tab=t.0">
+    <img src="https://img.shields.io/badge/PMI-002D62?style=for-the-badge&logo=pmi&logoColor=white" alt="PMI" />
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/darshilshah30">
+    <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  </a>
+</p>
 
 <br />
 
-I lead QA teams that prevent patient safety risks, drive measurable business impact, and enable safer healthcare innovation through AI-powered testing. Most of my work is hands-on: building automation frameworks, implementing AI-driven test strategies, and establishing quality standards that protect patients while accelerating product delivery.
+As a **QA Leader** with over 8 years of experience in the healthcare technology sector, I specialize in driving digital transformation and ensuring the highest standards of quality for patient-centric applications. My expertise lies in building and leading global QA teams, optimizing test coverage, and implementing AI-driven testing strategies to accelerate release cycles while maintaining strict regulatory compliance. I am a certified expert in AI/ML, Prompt Engineering, and Responsible AI, with advanced credentials from AWS, Google Cloud, and PMI. I am passionate about leveraging emerging technologies to deliver user-centric, compliant products that make a real difference in people's lives.
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🎯 Open to Work
 
-**Healthcare QA Leader** with 9+ years leading globally distributed teams of 15+ professionals, achieving a 99.7% defect detection rate through intelligent automation and strategic risk management.
-
-> **Currently seeking:** Long-term/short-term contract and full-time roles as an IT QA Engineer, specializing in healthcare systems and AI-powered testing.
-
-### 🏆 Key Achievements
-
-- **Reduced patient care costs by 40%** through shift-left strategies
-- **Cut patient wait times by 30%** via streamlined QA workflows
-- **Built and scaled QA teams** from the ground up to 15+ professionals
-- **Established compliance testing frameworks** for HIPAA, FDA, and ISO standards
+- **Target Roles:** QA Lead, Senior QA Lead, QA Manager, Test Manager, Project Manager (QA)
+- **Industries:** Healthcare Technology, Financial Services, IT Consulting, Tech Firms
+- **Preferred Employers:** CVS Health, Cigna, UnitedHealth Group, Accenture, Infosys, TCS, ThoughtSpot, NVIDIA, Bank of America, Verizon Wireless, PTC, Fidelity Investments, Citi Bank, Vistra, Fannie Mae, AT&T
+- **Location:** Dallas/Irving, TX | Open to Remote & Hybrid
+- **Availability:** Immediate Joiner
+- **Citizenship:** US Citizen (No sponsorship required)
 
 ---
 
-## 🚀 What I Work On
+## 🏆 Key Achievements
 
-### 🤖 AI & Automation
-
-- LLM-based test generation and intelligent defect analysis
-- Autonomous testing workflows with self-healing capabilities
-- Predictive quality analytics and AI-assisted compliance validation
-
-### ❤️ Healthcare Systems
-
-- EHR/EMR testing and clinical workflow validation
-- Telehealth platforms and connected medical devices
-- HIPAA, FDA, and ISO compliance with automated evidence collection
-
-### 📦 Quality Engineering
-
-- Functional/automation testing (mobile, web, API, database)
-- End-to-end QA lifecycle management
-- Risk-based testing strategies and shift-left methodologies
-- Scrum, regression, E2E, BVT, and production testing
+- **Reduced patient care costs by 40%** through shift-left strategies
+- **Reduced patient wait times by 30%** through enhanced QA strategies
+- **Increased test coverage by 25%** across high profile healthcare applications
+- **Elevated software quality from 40% to 100%**, earning client recognition
+- **Led and scaled global QA teams** of 15+ engineers, fostering innovation and collaboration
+- **Boosted mobile app testing efficiency by 30%** using Perfecto device labs
+- **Established compliance testing frameworks** for HIPAA, FDA, and ISO standards
 
 ---
 
@@ -90,104 +98,46 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 
 ## 🧰 Technical Expertise
 
-### 🛠️ Testing & Automation
-
-- Selenium WebDriver, Java
-- TestNG, Cucumber
-- Rest Assured, Postman, SoapUI
-
-### 💻 Programming
-
-- **Languages:** Java, Python, JavaScript
-- **Data:** SQL, JSON, XML
-
-### 🤖 AI & Cloud
-
-- ChatGPT, Claude AI, Gemini
-- Microsoft Copilot
-
-### 🏥 Healthcare Domain
-
-- EHR/EMR Platforms
-- Telehealth Solutions
-- HL7 / FHIR / DICOM Standards
-- HIPAA Compliance
-- FDA 21 CFR Part 11 & ISO 13485
-- ADA / WCAG Accessibility
-
-### ⚙️ DevOps & Tools
-
-- **CI/CD:** Jenkins, Git
-- **Management:** JIRA, Confluence, TestRail, HP ALM
-
-### 📈 Methodologies
-
-- Agile/Scrum, BDD/TDD
-- Risk-Based & Shift-Left Testing
+- **🧪 Quality Assurance & Testing:** API, E2E, Regression, SIT, Smoke, Exploratory, Functional/automation testing (mobile, web, API, database)
+- **🛠️ Test Automation Tools:** Selenium WebDriver, Appium, TestNG, Cucumber, Rest Assured, Postman, SoapUI
+- **☁️ Cloud & DevOps:** AWS Certified, Multi-cloud (AWS, Google Cloud, Azure), Jenkins, Git
+- **📊 Project Management & Tools:** PMI Certified Associate, Agile/Scrum, Team Leadership, JIRA, Confluence, TestRail, HP ALM, qTest
+- **💻 Programming & Data:** Java, Python, JavaScript, SQL, JSON, XML
+- **🤖 AI/GenAI:** AI-driven test optimization, ChatGPT, Claude AI, Gemini, Microsoft Copilot
+- **🏥 Healthcare Domain:** EHR/EMR Platforms, Telehealth Solutions, HL7/FHIR/DICOM Standards, HIPAA, FDA 21 CFR Part 11, ISO 13485, ADA/WCAG Accessibility
 
 ---
 
 ## 📜 Certifications & Continuous Learning
 
-- **Accenture UK - Developer and Technology Job Simulation** | Forage | May 2025
-- **AI Fluency** | Microsoft | May 2025
-- **AI for Beginners** | HP LIFE | Jul 2025
-- **AI Skills Fest Challenge: AI for Public Sector Upskilling** | Microsoft | May 2025
-- **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) | May 2025
-- **Agile Project Management** | HP LIFE | Jul 2025
-- **Ask Questions & Analyze Content with Microsoft 365 Copilot** | Microsoft | May 2025
-- **Boost Your Productivity with Microsoft Copilot** | Microsoft | May 2025
-- **Certificate of Completion: AI Fluency Framework & Foundations** | Anthropic | Aug 2025
-- **ChatGPT For Everyone** | Learn Prompting | Jul 2025
+### **Generative AI & Machine Learning**
 - **ChatGPT Prompt Engineering For Developers** | Coursera | Jul 2025
-- **Choose & Deploy Models from the Model Catalog in Azure AI Foundry Portal** | Microsoft | May 2025
-- **Copilot Foundations** | Microsoft | Jun 2025
-- **Craft Effective Prompts for Microsoft 365 Copilot** | Microsoft | May 2025
-- **Design a Dream Destination Using Microsoft Copilot** | Microsoft | May 2025
-- **Develop a RAG Based Solution with Your Own Data in Azure AI Foundry** | Microsoft | May 2025
-- **Develop an App with the Azure AI Foundry SDK** | Microsoft | May 2025
 - **Develop Generative AI Apps in Azure** | Microsoft | Jun 2025
-- **Digital Skills: Artificial Intelligence** | Accenture | May 2025
-- **Digital Skills: Digital Skills For Work and Life** | Accenture | May 2025
-- **Edit and Transform Content with Microsoft 365 Copilot** | Microsoft | May 2025
-- **Electronic Arts - Product Management Job Simulation** | Forage | May 2025
-- **Enhance Public Sector Services with Generative AI** | Microsoft | May 2025
-- **Evaluate Generative AI Model in Azure AI Foundry Portal** | Microsoft | Jun 2025
-- **Explore AI For All** | Microsoft | May 2025
-- **Explore Benefits of a Change Agents Program for Public Sector Organizations** | Microsoft | May 2025
-- **Explore Internet Search & Beyond** | Microsoft | May 2025
-- **Explore Responsible AI** | Microsoft | May 2025
-- **Exploring Artificial Intelligence** | IBM | Jun 2025
-- **Exploring Cloud Computing** | IBM | Jun 2025
-- **Fine Tune a Language Model with Azure AI Foundry** | Microsoft | May 2025
-- **Foundation of a Modern Public Sector Security Operations Center** | Microsoft | May 2025
 - **From Learner to Builder: Becoming an AI Agent Architect** | IBM | Jul 2025
-- **Fundamental AI Concepts** | Microsoft | May 2025
-- **Fundamentals of Agentic AI: Business Implications and Ethical Insights** | LinkedIn | Jul 2025
-- **Fundamentals of Azure AI Speech** | Microsoft | May 2025
-- **Fundamentals of Facial Recognition** | Microsoft | May 2025
-- **Fundamentals of Text Analysis with the Language Services** | Microsoft | May 2025
-- **Fundamentals of Conversational Language Understanding** | Microsoft | May 2025
-- **Fundamentals of Language Translation** | Microsoft | May 2025
-- **Fundamentals of Optical Character Recognition** | Microsoft | May 2025
-- **Fundamentals of Question Answering with the Language Service** | Microsoft | May 2025
 - **Gen AI: Beyond the Chatbot** | Google | May 2025
-- **Generative AI in Action** | IBM | Jun 2025
-- **Get Started with Microsoft Copilot** | Microsoft | May 2025
-- **Get Started with Microsoft Copilot Studio** | Microsoft | Jun 2025
-- **Get Started with Prompt Flow to Develop Language Model Apps in the Azure AI Foundry** | Microsoft | May 2025
-- **GitHub Responsible AI** | Microsoft | May 2025
-- **Implement a Responsible Generative AI Solution in Azure AI Foundry** | Microsoft | May 2025
-- **Introduction to Model Context Protocol** | Anthropic | Oct 2025
-- **Introduction to Responsible AI** | Amazon Web Services (AWS) | Jun 2025
-- **Leading Through AI Agent Disruption** | LinkedIn | Jul 2025
+- **Certificate of Completion: AI Fluency Framework & Foundations** | Anthropic | Aug 2025
+
+### **Cloud & MLOps**
 - **Machine Learning Operations (MLOps) for Generative AI** | Google | Jun 2025
-- **Preparing Your Organization for AI Agents** | LinkedIn | Jul 2025
-- **Preparing for the Future of Work with AI Agents** | LinkedIn | Jul 2025
-- **Product Management Basics Certification** | Pendo.io | Jun 2025
+- **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) | May 2025
+
+### **Agile & Project Management**
 - **Registered Scrum Basics™** | Agile Education by Scrum Inc.™ | Aug 2025
-- **Responsible Artificial Intelligence Practices** | Amazon Web Services (AWS) | Jun 2025
-- **Transforming Business with AI Agents: Autonomous Efficiency and Decision-Making** | LinkedIn | Jul 2025
+- **Agile Project Management** | HP LIFE | Jul 2025
+
+### **Responsible AI & Governance**
+- **Introduction to Responsible AI** | Amazon Web Services (AWS) | Jun 2025
+- **GitHub Responsible AI** | Microsoft | May 2025
+
+---
+
+## 🏅 Honors & Recognition
+
+- **3 Years of Services Award and Recognition** from Accenture
+- **Client Recognition** for exceptional technology leadership
+- **Praiseworthy Accolades** from the Client teams on exceptional product delivery
+- **100% Product Quality Achievement** across multiple healthcare projects
+- **Academic Accreditation** from Databricks Foundation on completing the Databricks Products Training (March 2025)
 
 ---
 
@@ -219,10 +169,7 @@ I'm actively researching how AI can transform healthcare quality assurance throu
 
 <div align="center">
   <h3>🤝 Let's Connect</h3>
-  <p>Building healthcare products with AI? I'd love to discuss quality engineering strategies for regulated environments.</p>
+  <p>I am actively seeking full-time or long-term contract QA leadership roles. If you need a results-driven QA leader who combines technical excellence, strategic insight, and healthcare expertise, let's discuss how I can help your team succeed.</p>
   
   <a href="https://www.linkedin.com/in/darshil-qa-lead/">LinkedIn</a> • <a href="mailto:darshils99@gmail.com">Email</a>
-  
-  <br /><br />
-  <i>Building safer healthcare through intelligent quality assurance</i>
 </div>

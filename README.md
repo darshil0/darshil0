@@ -39,7 +39,7 @@
 
 <br />
 
-QA Leader with 9+ years driving digital transformation in healthcare technology. I specialize in functional, API, and regression testing while leading global teams to accelerate release cycles and ensure regulatory compliance. Certified in AI/ML, Prompt Engineering, Responsible AI, and Project Management, with advanced credentials from AWS, Google Cloud, and PMI. I'm passionate about leveraging emerging technologies to elevate software quality and deliver user-centric products that align with business objectives.I am actively looking for a new role within a forward-thinking and a value-driven organization.
+QA Leader with 9+ years driving digital transformation in healthcare technology. I specialize in functional, API, and regression testing while leading global teams to accelerate release cycles and ensure regulatory compliance. Certified in AI/ML, Prompt Engineering, Responsible AI, and Project Management, with advanced credentials from AWS, Google Cloud, and PMI. I'm passionate about leveraging emerging technologies to elevate software quality and deliver user-centric products that align with business objectives. I am actively looking for a new role within a forward-thinking and a value-driven organization.
 </div>
 
 ---

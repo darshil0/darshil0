@@ -44,7 +44,8 @@
 
 </div>
 
-## 📊 My GitHub Analytics
+## 📊 GitHub Analytics
+
 <p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=600&rank_icon=github" alt="GitHub Stats" height="180em" />

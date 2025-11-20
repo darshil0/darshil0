@@ -16,15 +16,9 @@
 
 <br />
 
-Results-driven QA Leader with 8+ years of experience driving digital transformation in healthcare technology. Expert in functional, API, and regression testing with a track record of optimizing test coverage, accelerating release cycles, and ensuring regulatory compliance in highly regulated environments. Proven ability to lead global QA teams, streamline quality processes, and collaborate effectively across development and stakeholder teams. Certified in AI/ML, Prompt Engineering, Responsible AI, and Project Management, with advanced credentials from AWS, Google Cloud, and PMI. I combine deep technical expertise with strategic vision to deliver user-centric, compliant products that align with business objectives. I am passionate about leveraging emerging technologies and responsible AI practices to elevate software quality and create exceptional user experiences.
+Results-driven QA Leader with 9+ years of experience driving digital transformation in healthcare technology. Expert in functional, API, and regression testing with a track record of optimizing test coverage, accelerating release cycles, and ensuring regulatory compliance in highly regulated environments. Proven ability to lead global QA teams, streamline quality processes, and collaborate effectively across development and stakeholder teams. Certified in AI/ML, Prompt Engineering, Responsible AI, and Project Management, with advanced credentials from AWS, Google Cloud, and PMI. I combine deep technical expertise with strategic vision to deliver user-centric, compliant products that align with business objectives. I am passionate about leveraging emerging technologies and responsible AI practices to elevate software quality and create exceptional user experiences.
 
 </div>
-
----
-
-## 🎯 About Me
-
-**Healthcare QA Leader** with 9+ years leading globally distributed teams of 15+ professionals, achieving a 99.7% defect detection rate through intelligent automation and strategic risk management.
 
 ---
 

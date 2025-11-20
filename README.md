@@ -82,78 +82,98 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 
 ## 🧰 Technical Expertise
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🛠️ Testing & Automation</h3>
-      <ul>
-        <li>Selenium WebDriver, Java</li>
-        <li>TestNG, Cucumber</li>
-        <li>Rest Assured, Postman, SoapUI</li>
-      </ul>
-      <h3>💻 Programming</h3>
-      <ul>
-        <li><strong>Languages:</strong> Java, Python, JavaScript</li>
-        <li><strong>Data:</strong> SQL, JSON, XML</li>
-      </ul>
-      <h3>🤖 AI & Cloud</h3>
-      <ul>
-        <li>ChatGPT, Claude AI, Gemini</li>
-        <li>Microsoft Copilot</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🏥 Healthcare Domain</h3>
-      <ul>
-        <li>EHR/EMR Platforms</li>
-        <li>Telehealth Solutions</li>
-        <li>HL7 / FHIR / DICOM Standards</li>
-        <li>HIPAA Compliance</li>
-        <li>FDA 21 CFR Part 11 & ISO 13485</li>
-        <li>ADA / WCAG Accessibility</li>
-      </ul>
-      <h3>⚙️ DevOps & Tools</h3>
-      <ul>
-        <li><strong>CI/CD:</strong> Jenkins, Git</li>
-        <li><strong>Management:</strong> JIRA, Confluence, TestRail, HP ALM </li>
-      </ul>
-      <h3>📈 Methodologies</h3>
-      <ul>
-        <li>Agile/Scrum, BDD/TDD</li>
-        <li>Risk-Based & Shift-Left Testing</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🛠️ Testing & Automation
+*   Selenium WebDriver, Java
+*   TestNG, Cucumber
+*   Rest Assured, Postman, SoapUI
+
+### 💻 Programming
+*   **Languages:** Java, Python, JavaScript
+*   **Data:** SQL, JSON, XML
+
+### 🤖 AI & Cloud
+*   ChatGPT, Claude AI, Gemini
+*   Microsoft Copilot
+
+### 🏥 Healthcare Domain
+*   EHR/EMR Platforms
+*   Telehealth Solutions
+*   HL7 / FHIR / DICOM Standards
+*   HIPAA Compliance
+*   FDA 21 CFR Part 11 & ISO 13485
+*   ADA / WCAG Accessibility
+
+### ⚙️ DevOps & Tools
+*   **CI/CD:** Jenkins, Git
+*   **Management:** JIRA, Confluence, TestRail, HP ALM
+
+### 📈 Methodologies
+*   Agile/Scrum, BDD/TDD
+*   Risk-Based & Shift-Left Testing
 
 ---
 
 ## 📜 Certifications & Continuous Learning
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🧠 Generative AI & Agents</h3>
-      <ul>
-        <li><strong>Anthropic:</strong> Model Context Protocol & AI Fluency</li>
-        <li><strong>Google:</strong> MLOps for Generative AI</li>
-        <li><strong>IBM:</strong> From Learner to Builder: AI Agent Architect</li>
-        <li><strong>Microsoft:</strong> Develop Generative AI Apps in Azure</li>
-        <li><strong>Coursera:</strong> ChatGPT Prompt Engineering for Developers</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>☁️ Cloud, Agile & Leadership</h3>
-      <ul>
-        <li><strong>AWS:</strong> Cloud Practitioner Essentials</li>
-        <li><strong>AWS:</strong> Responsible AI Practices</li>
-        <li><strong>Scrum Inc:</strong> Registered Scrum Basics™</li>
-        <li><strong>Pendo:</strong> Product Management Basics</li>
-        <li><strong>LinkedIn:</strong> Fundamentals of Agentic AI</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+*   **Accenture UK - Developer and Technology Job Simulation** | Forage | May 2025
+*   **AI Fluency** | Microsoft | May 2025
+*   **AI for Beginners** | HP LIFE | Jul 2025
+*   **AI skills Fest Challenge: AI for public Sector Upskilling** | Microsoft | May 2025
+*   **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) | May 2025
+*   **Agile Project Management** | HP LIFE | Jul 2025
+*   **Ask questions & analyze content with Microsoft 365 Copilot** | Microsoft | May 2025
+*   **Boost your productivity with Microsoft Copilot** | Microsoft | May 2025
+*   **Certificate of Completion: Al Fluency Framework & Foundations** | Anthropic | Aug 2025
+*   **ChatGPT For Everyone** | Learn Prompting | Jul 2025
+*   **ChatGPT Prompt Engineering For Developers** | Coursera | Jul 2025
+*   **Choose & deploy models from the model catalog in Azure AI Foundary portal** | Microsoft | May 2025
+*   **Copilot Foundations** | Microsoft | Jun 2025
+*   **Craft effective prompts for Microsoft 365 Copilot** | Microsoft | May 2025
+*   **Design a Dream Destination using Microsoft Copilot** | Microsoft | May 2025
+*   **Develop a RAG based solution with your own data in Azure AI Foundary** | Microsoft | May 2025
+*   **Develop an app with the Azure AI Foundary SDK** | Microsoft | May 2025
+*   **Develop generative AI apps in Azure** | Microsoft | Jun 2025
+*   **Digital Skills: Artificial Intellegence** | Accenture | May 2025
+*   **Digital Skills: Digital Skills For Work and Life** | Accenture | May 2025
+*   **Edit and transform content with Microsoft 365 Copilot** | Microsoft | May 2025
+*   **Electronic Arts - Product Management Job Simulation** | Forage | May 2025
+*   **Enhance public sector services with Generative AI** | Microsoft | May 2025
+*   **Evaluate Generative AI model in Azure AI Foundry Portal** | Microsoft | Jun 2025
+*   **Explore AI For All** | Microsoft | May 2025
+*   **Explore benefits of a Change Agents Program for public sector Organizations** | Microsoft | May 2025
+*   **Explore internet search & beyond** | Microsoft | May 2025
+*   **Explore responsible AI** | Microsoft | May 2025
+*   **Exploring Artificial Intelligence** | IBM | Jun 2025
+*   **Exploring Cloud Computing** | IBM | Jun 2025
+*   **Fine tune a language model with Azure AI Foundary** | Microsoft | May 2025
+*   **Foundation of a modern public sector security operations center** | Microsoft | May 2025
+*   **From Learner to Builder Becoming an AI Agent Architect** | IBM | Jul 2025
+*   **Fundamental AI Concepts** | Microsoft | May 2025
+*   **Fundamentals of Agentic AI: Business Implications and Ethical Insights** | LinkedIn | Jul 2025
+*   **Fundamentals of Azure AI Speech** | Microsoft | May 2025
+*   **Fundamentals of Facial Recognition** | Microsoft | May 2025
+*   **Fundamentals of Text Analysis with the Language Services** | Microsoft | May 2025
+*   **Fundamentals of conversational language understanding** | Microsoft | May 2025
+*   **Fundamentals of language translation** | Microsoft | May 2025
+*   **Fundamentals of optical character recognition** | Microsoft | May 2025
+*   **Fundamentals of question answering with the Language Service** | Microsoft | May 2025
+*   **Gen AI: Beyond the Chatbot** | Google | May 2025
+*   **Generative AI in Action** | IBM | Jun 2025
+*   **Get Started with Microsoft Copilot** | Microsoft | May 2025
+*   **Get Started with Microsoft Copilot Studio** | Microsoft | Jun 2025
+*   **Get Started with prompt flow to develop language model apps in the Azure AI Foundary** | Microsoft | May 2025
+*   **GitHub Responsible AI** | Microsoft | May 2025
+*   **Implement a responsible generative AI solution in Azure AI Foundary** | Microsoft | May 2025
+*   **Introduction to Model Context Protocol** | Anthropic | Oct 2025
+*   **Introduction to Responsible AI** | Amazon Web Services (AWS) | Jun 2025
+*   **Leading Through AI Agent Disruption** | LinkedIn | Jul 2025
+*   **Machine Learning Operations (MLOps) for Generative AI** | Google | Jun 2025
+*   **Preparing Your Organization for AI Agents** | LinkedIn | Jul 2025
+*   **Preparing for the Future of Work with AI Agents** | LinkedIn | Jul 2025
+*   **Product Management Basics Certification** | Pendo.io | Jun 2025
+*   **Registered Scrum Basics™** | Agile Education by Scrum Inc.™ | Aug 2025
+*   **Responsible Artificial Intelligence Practices** | Amazon Web Services (AWS) | Jun 2025
+*   **Transforming Business with AI Agents: Autonomous Efficiency and Decision-Making** | LinkedIn | Jul 2025
 
 ---
 
@@ -173,16 +193,8 @@ I'm actively researching how AI can transform healthcare quality assurance throu
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---

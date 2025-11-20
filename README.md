@@ -191,6 +191,3 @@ I'm actively researching how AI can transform healthcare quality assurance throu
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <p>I am actively seeking full-time or long-term contract QA leadership roles. If you need a results-driven QA leader who combines technical excellence, strategic insight, and healthcare expertise, let's discuss how I can help your team succeed.</p>
-  
-  <a href="https://www.linkedin.com/in/darshil-qa-lead/">LinkedIn</a> • <a href="mailto:darshils99@gmail.com">Email</a>
-</div>

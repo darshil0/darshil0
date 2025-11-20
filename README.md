@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=280&section=header&text=Darshil%20Shah&fontSize=80&fontAlignY=35&desc=QA%20Leader%20%7C%20Healthcare%20Quality%20Engineering&descAlignY=65&descSize=25&fontColor=ffffff" width="100%" alt="Darshil Shah Banner" />

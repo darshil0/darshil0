@@ -16,7 +16,7 @@
 
 <br />
 
-I lead QA teams that prevent patient safety risks, drive measurable business impact, and enable safer healthcare innovation through AI-powered testing. Most of my work is hands-on: building automation frameworks, implementing AI-driven test strategies, and establishing quality standards that protect patients while accelerating product delivery.
+Results-driven QA Leader with 8+ years of experience driving digital transformation in healthcare technology. Expert in functional, API, and regression testing with a track record of optimizing test coverage, accelerating release cycles, and ensuring regulatory compliance in highly regulated environments. Proven ability to lead global QA teams, streamline quality processes, and collaborate effectively across development and stakeholder teams. Certified in AI/ML, Prompt Engineering, Responsible AI, and Project Management, with advanced credentials from AWS, Google Cloud, and PMI. I combine deep technical expertise with strategic vision to deliver user-centric, compliant products that align with business objectives. I am passionate about leveraging emerging technologies and responsible AI practices to elevate software quality and create exceptional user experiences.
 
 </div>
 
@@ -26,13 +26,25 @@ I lead QA teams that prevent patient safety risks, drive measurable business imp
 
 **Healthcare QA Leader** with 9+ years leading globally distributed teams of 15+ professionals, achieving a 99.7% defect detection rate through intelligent automation and strategic risk management.
 
-> **Currently seeking:** Full-time and contract opportunities for roles such as **AI/ML Engineer**, **QA Functional Lead (AI Focus)**, and **QA Leader** in the healthcare technology sector.
+---
+
+## 🟢 Open to Work
+
+- **Target Roles:** QA Lead, Senior QA Lead, QA Manager, Test Manager, Project Manager (QA)
+- **Industries:** Healthcare Technology, Financial Services, IT Consulting, Tech Firms
+- **Preferred Employers:** CVS Health, Cigna, UnitedHealth Group, Accenture, Infosys, TCS, ThoughtSpot, NVIDIA, Bank of America, Verizon Wireless, PTC, Fidelity Investments, Citi Bank, Vistra, Fannie Mae, AT&T
+- **Location:** Dallas/Irving, TX | Open to Remote & Hybrid
+- **Availability:** Immediate Joiner
+- **Citizenship:** US Citizen (No sponsorship required)
 
 ### 🏆 Key Achievements
 
 - **Reduced patient care costs by 40%** through shift-left strategies
-- **Cut patient wait times by 30%** via streamlined QA workflows
-- **Built and scaled QA teams** from the ground up to 15+ professionals
+- **Reduced patient wait times by 30%** through enhanced QA strategies
+- **Increased test coverage by 25%** across high profile healthcare applications
+- **Elevated software quality from 40% to 100%**, earning client recognition
+- **Led and scaled global QA teams** of 15+ engineers, fostering innovation and collaboration
+- **Boosted mobile app testing efficiency by 30%** using Perfecto device labs
 - **Established compliance testing frameworks** for HIPAA, FDA, and ISO standards
 
 ---
@@ -90,40 +102,13 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 
 ## 🧰 Technical Expertise
 
-### 🛠️ Testing & Automation
-
-- Selenium WebDriver, Java
-- TestNG, Cucumber
-- Rest Assured, Postman, SoapUI
-
-### 💻 Programming
-
-- **Languages:** Java, Python, JavaScript
-- **Data:** SQL, JSON, XML
-
-### 🤖 AI & Cloud
-
-- ChatGPT, Claude AI, Gemini
-- Microsoft Copilot
-
-### 🏥 Healthcare Domain
-
-- EHR/EMR Platforms
-- Telehealth Solutions
-- HL7 / FHIR / DICOM Standards
-- HIPAA Compliance
-- FDA 21 CFR Part 11 & ISO 13485
-- ADA / WCAG Accessibility
-
-### ⚙️ DevOps & Tools
-
-- **CI/CD:** Jenkins, Git
-- **Management:** JIRA, Confluence, TestRail, HP ALM
-
-### 📈 Methodologies
-
-- Agile/Scrum, BDD/TDD
-- Risk-Based & Shift-Left Testing
+- **Quality Assurance & Testing:** API, E2E, Regression, SIT, Smoke, Exploratory, Functional/automation testing (mobile, web, API, database)
+- **Test Automation Tools:** Selenium WebDriver, Appium, TestNG, Cucumber, Rest Assured, Postman, SoapUI
+- **Cloud & DevOps:** AWS Certified, Multi-cloud (AWS, Google Cloud, Azure), Jenkins, Git
+- **Project Management & Tools:** PMI Certified Associate, Agile/Scrum, Team Leadership, JIRA, Confluence, TestRail, HP ALM, qTest
+- **Programming & Data:** Java, Python, JavaScript, SQL, JSON, XML
+- **AI/GenAI:** AI-driven test optimization, ChatGPT, Claude AI, Gemini, Microsoft Copilot
+- **Healthcare Domain:** EHR/EMR Platforms, Telehealth Solutions, HL7/FHIR/DICOM Standards, HIPAA, FDA 21 CFR Part 11, ISO 13485, ADA/WCAG Accessibility
 
 ---
 
@@ -147,6 +132,16 @@ Minimalist React journaling app demonstrating practical AI integration with Anth
 ### **Responsible AI & Governance**
 - **Introduction to Responsible AI** | Amazon Web Services (AWS) | Jun 2025
 - **GitHub Responsible AI** | Microsoft | May 2025
+
+---
+
+## 🏆 Honors & Recognition
+
+- **3 Years of Services Award and Recognition** from Accenture
+- **Client Recognition** for exceptional technology leadership
+- **Praiseworthy Accolades** from the Client teams on exceptional product delivery
+- **100% Product Quality Achievement** across multiple healthcare projects
+- **Academic Accreditation** from Databricks Foundation on completing the Databricks Products Training (March 2025)
 
 ---
 
@@ -177,10 +172,7 @@ I'm actively researching how AI can transform healthcare quality assurance throu
 
 <div align="center">
   <h3>🤝 Let's Connect</h3>
-  <p>Building healthcare products with AI? I'd love to discuss quality engineering strategies for regulated environments.</p>
-
+  <p>I am actively seeking full-time or long-term contract QA leadership roles. If you need a results-driven QA leader who combines technical excellence, strategic insight, and healthcare expertise, let's discuss how I can help your team succeed.</p>
+  
   <a href="https://www.linkedin.com/in/darshil-qa-lead/">LinkedIn</a> • <a href="mailto:darshils99@gmail.com">Email</a>
-
-  <br /><br />
-  <i>Building safer healthcare through intelligent quality assurance</i>
 </div>

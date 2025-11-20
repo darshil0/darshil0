@@ -39,7 +39,7 @@
 
 <br />
 
-I'm a QA Leader with 9+ years driving digital transformation in healthcare technology. I lead global teams to accelerate release cycles, optimize test coverage, and ensure regulatory compliance in highly regulated environments. With certifications in AI/ML, Prompt Engineering, Responsible AI, and Project Management—plus advanced credentials from AWS, Google Cloud, and PMI—I combine technical excellence with strategic vision to deliver user-centric, compliant products. I'm currently seeking full-time or contract QA leadership roles where I can leverage emerging technologies to elevate software quality and drive meaningful business impact. Let's connect if you're looking for a results-driven leader who can bridge the gap between quality, innovation, and healthcare expertise.
+I'm a QA Leader with 9+ years driving digital transformation in healthcare technology. I lead global teams to accelerate release cycles, optimize test coverage, and ensure regulatory compliance in highly regulated environments. With certifications in AI/ML, Prompt Engineering, Responsible AI, and Project Management and advanced credentials from AWS, Google Cloud, and PMI—I combine technical excellence with strategic vision to deliver user-centric, compliant products. I'm currently seeking full-time or contract QA leadership roles where I can leverage emerging technologies to elevate software quality and drive meaningful business impact. Let's connect if you're looking for a results-driven leader who can bridge the gap between quality, innovation, and healthcare expertise.
 
 </div>
 

@@ -17,19 +17,19 @@
 </p>
 
 <p>
-  <a href="https://www.coursera.org/learner/darshil-shah-1990"><img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white" alt="Coursera"/></a>
-  <a href="https://www.credly.com/users/darshil-shah.qa/badges#credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white" alt="Credly"/></a>
-  <a href="https://www.skills.google/public_profiles/b4c10d9b-a4e0-4fe6-ba1b-7ac3d2b15158"><img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google"/></a>
-  <a href="https://docs.google.com/spreadsheets/d/1hf4n6WS9du7Iljhnz-i56xMhFYlOjcVn/edit"><img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM"/></a>
-  <a href="https://learn.microsoft.com/en-us/users/darshilshah-7981/"><img src="https://img.shields.io/badge/Microsoft-232323?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft"/></a>
-  <a href="https://docs.google.com/document/d/1w2PM0M6tK6_GAuhEg0YcaoOF8FQtEwxDj_2kOjWPBCs/edit"><img src="https://img.shields.io/badge/PMI-002D62?style=flat-square&logo=pmi&logoColor=white" alt="PMI"/></a>
-  <a href="https://www.salesforce.com/trailblazer/darshilshah30"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce"/></a>
+  <a href="https://www.coursera.org/learner/darshil-shah-1990"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/></a>
+  <a href="https://www.credly.com/users/darshil-shah.qa/badges#credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+  <a href="https://www.skills.google/public_profiles/b4c10d9b-a4e0-4fe6-ba1b-7ac3d2b15158"><img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/></a>
+  <a href="https://docs.google.com/spreadsheets/d/1hf4n6WS9du7Iljhnz-i56xMhFYlOjcVn/edit"><img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/></a>
+  <a href="https://learn.microsoft.com/en-us/users/darshilshah-7981/"><img src="https://img.shields.io/badge/Microsoft-232323?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/></a>
+  <a href="https://docs.google.com/document/d/1w2PM0M6tK6_GAuhEg0YcaoOF8FQtEwxDj_2kOjWPBCs/edit"><img src="https://img.shields.io/badge/PMI-002D62?style=for-the-badge&logo=pmi&logoColor=white" alt="PMI"/></a>
+  <a href="https://www.salesforce.com/trailblazer/darshilshah30"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/></a>
 </p>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=3600" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" height="150" />
 
 </div>
 
@@ -179,6 +179,6 @@ graph LR
     style G fill:#00C853,stroke:#333,stroke-width:2px,color:#fff
 ````
 
-<div align="center"\>
-<p\><i\>"Quality is not an act, it is a habit."</i\></p\>
-</div\>
+<div align="center">
+<p><i>"Quality is not an act, it is a habit."</i></p>
+</div>

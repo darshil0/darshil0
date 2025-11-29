@@ -95,25 +95,35 @@ Feel free to use this as a template for your own profile!
 <!-- FEATURED PROJECTS -->
 ## 📂 Featured Projects
 
-### 🧠 [AI-driven-Test-Data-Generation](https://github.com/darshil0/AI-driven-Test-Data-Generation)
-A tool that uses generative AI to create realistic and diverse test data for healthcare applications, improving test coverage and accuracy.
-<br/>
-`Python` `Generative AI` `FastAPI` `PySpark`
-
 ### 📱 [mobile-testing-framework](https://github.com/darshil0/mobile-testing-framework)
 A production-ready mobile automation framework using Appium and TestNG with Page Object Model design, built for scalability and maintainability.
 <br/>
 `Appium` `TestNG` `Java` `POM` `CI/CD`
 
-### ♿ [Automated-Accessibility-Testing-for-HIPAA](https://github.com/darshil0/Automated-Accessibility-Testing-for-HIPAA)
-A framework for automating accessibility testing to ensure compliance with WCAG and HIPAA standards in healthcare applications.
-<br/>
-`Playwright` `Axe-Core` `JavaScript` `CI/CD`
-
 ### 🌐 [Web-Testing-Framework](https://github.com/darshil0/Web-Testing-Framework)
 A lightweight web automation framework with Java, Selenium, and TestNG, featuring data-driven testing and CI/CD integration.
 <br/>
 `Selenium` `Java` `TestNG` `CI/CD`
+
+### 💼 [My Portfolio](https://github.com/darshil0/darshil-portfolio)
+A modern, responsive portfolio website showcasing professional experience, projects, certifications, and technical expertise in Healthcare QA, AI/ML, and Digital Health.
+<br/>
+`HTML` `CSS` `JavaScript` `Python`
+
+### 🤖 [AI Prompts Library](https://github.com/darshil0/ai-prompts-2025)
+A modern, interactive library for storing, organizing, and accessing advanced AI prompts, designed for efficiency and collaboration. This single-file application serves as a comprehensive management tool for complex system prompts used across coding, design, and reasoning tasks.
+<br/>
+`HTML`
+
+### ✈️ [Flight Tracker App](https://github.com/darshil0/flighttrackerapp)
+A full-stack flight tracking application built with React, TypeScript, Express, and PostgreSQL. Track flights in real-time with a modern, responsive interface.
+<br/>
+`TypeScript` `JavaScript`
+
+### 🎯 [AI Evaluation QA](https://github.com/darshil0/AI-Evaluation-QA)
+A production-grade framework for evaluating AI model responses through structured prompts, rubric-based scoring, and automated reporting. This project brings enterprise quality assurance methodologies to AI system validation, ensuring responses meet accuracy, reasoning, and quality standards.
+<br/>
+`Python`
 
 ---
 

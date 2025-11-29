@@ -78,7 +78,7 @@ Feel free to use this as a template for your own profile!
 - **Healthcare**: HIPAA, FDA 21 CFR, HL7/FHIR, EHR/EMR
 - **AI Tech**: ChatGPT, Claude, Gemini, LLM Eval, MLOps
 - **Languages**: Java, Python, JavaScript, SQL
-- **AI Browsers**: Perplexity
+- **AI Browsers**: Perplexity Comet
 - **AI Coding Assistants**: Google Gemini Jules, Anthropic Claude Sonnet 4.5
 - **AI Desktop Coding Assistants**: Google Antigravity
 - **AI Image/Video Generation Tools**: Google Nano Banana Pro, Google Gemini 3 Pro, Google Veo 3, OpenAI Sora 2

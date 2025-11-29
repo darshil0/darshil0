@@ -152,7 +152,7 @@ graph LR
     F -->|No| H[Deploy]
     style B fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
     style G fill:#00C853,stroke:#333,stroke-width:2px,color:#fff
-````
+```
 
 <!-- FOOTER -->
 <div align="center">

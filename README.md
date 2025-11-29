@@ -1,7 +1,17 @@
+<!--
+Hello! Thanks for checking out the source code of my README.
+You can find the raw markdown file at:
+https://raw.githubusercontent.com/darshil0/darshil0/main/README.md
+
+Feel free to use this as a template for your own profile!
+-->
+
 <div align="center">
 
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=280&section=header&text=Darshil%20Shah&fontSize=70&fontAlignY=35&desc=QA%20Leader%20%7C%20Healthcare%20Quality%20Engineering&descAlignY=65&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%" alt="Darshil Shah Banner" />
 
+<!-- SOCIAL LINKS -->
 ### 🤝 Connect With Me
 
 <p>
@@ -16,6 +26,7 @@
   </a>
 </p>
 
+<!-- CERTIFICATION LINKS -->
 <p>
   <a href="https://www.coursera.org/learner/darshil-shah-1990"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/></a>
   <a href="https://www.credly.com/users/darshil-shah.qa/badges#credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
@@ -28,6 +39,7 @@
 
 <br/>
 
+<!-- GITHUB STATS -->
 <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=3600" alt="GitHub Stats" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=3600" alt="Top Languages" height="150" />
 
@@ -35,132 +47,95 @@
 
 ---
 
+<!-- ABOUT ME -->
 ## 👋 About Me
 
 **QA Leader with 9+ years** driving digital transformation in healthcare technology. I lead global teams to accelerate release cycles, optimize test coverage, and ensure regulatory compliance in highly regulated environments. Certified in **AI/ML, Prompt Engineering, and Project Management**, I combine technical excellence with strategic vision to deliver user-centric products.
 
 > **🟢 Status:** US Citizen • No Sponsorship Required • Immediate Joiner
 
+<!-- OPEN TO WORK -->
 ### 💼 Open to Work
 
-| Category | Details |
-| :--- | :--- |
-| **Target Roles** | QA Lead • Senior QA Lead • QA Manager • Test Manager • Project Manager (QA) |
-| **Industries** | Healthcare Technology • Financial Services • IT Consulting • Tech Firms |
-| **Preferred Orgs** | CVS Health • Cigna • UHG • Accenture • Infosys • TCS • NVIDIA • Bank of America • Verizon • Fidelity |
-| **Location** | **Dallas/Irving, TX** (Hybrid/On-site) or **Remote** |
+- **Target Roles**: QA Lead • Senior QA Lead • QA Manager • Test Manager • Project Manager (QA)
+- **Industries**: Healthcare Technology • Financial Services • IT Consulting • Tech Firms
+- **Preferred Orgs**: CVS Health • Cigna • UHG • Accenture • Infosys • TCS • NVIDIA • Bank of America • Verizon • Fidelity
+- **Location**: **Dallas/Irving, TX** (Hybrid/On-site) or **Remote**
 
 ---
 
+<!-- TECHNICAL EXPERTISE -->
 ## 🧰 Technical Expertise
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">🔍 QA & Automation</h3>
-      <ul>
-        <li><b>Methodologies:</b> API, E2E, Regression, SIT, Smoke, Exploratory</li>
-        <li><b>Automation:</b> Selenium WebDriver, Appium, Playwright</li>
-        <li><b>Frameworks:</b> TestNG, Cucumber, Rest Assured</li>
-        <li><b>Tools:</b> Postman, SoapUI, Perfecto, JIRA, TestRail</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">☁️ Cloud & AI</h3>
-      <ul>
-        <li><b>Cloud:</b> AWS Certified, Azure, GCP, CI/CD (Jenkins/Git)</li>
-        <li><b>Healthcare:</b> HIPAA, FDA 21 CFR, HL7/FHIR, EHR/EMR</li>
-        <li><b>AI Tech:</b> ChatGPT, Claude, Gemini, LLM Eval, MLOps</li>
-        <li><b>Languages:</b> Java, Python, JavaScript, SQL</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🔍 QA & Automation
+- **Methodologies**: API, E2E, Regression, SIT, Smoke, Exploratory
+- **Automation**: Selenium WebDriver, Appium, Playwright
+- **Frameworks**: TestNG, Cucumber, Rest Assured
+- **Tools**: Postman, SoapUI, Perfecto, JIRA, TestRail
+
+### ☁️ Cloud & AI
+- **Cloud**: AWS Certified, Azure, GCP, CI/CD (Jenkins/Git)
+- **Healthcare**: HIPAA, FDA 21 CFR, HL7/FHIR, EHR/EMR
+- **AI Tech**: ChatGPT, Claude, Gemini, LLM Eval, MLOps
+- **Languages**: Java, Python, JavaScript, SQL
 
 ---
 
+<!-- KEY ACHIEVEMENTS -->
 ## 🏆 Key Achievements
 
-| Metric | Impact Description |
-| :--- | :--- |
-| 🩺 **-40% Costs** | **Patient Care Costs** reduced through shift-left strategies |
-| ⏱️ **-30% Time** | **Patient Wait Times** reduced via enhanced QA strategies |
-| 📈 **+25% Coverage** | **Test Coverage** increased across high-profile healthcare apps |
-| ⭐ **100% Quality** | **Defect-free delivery** achieved (Client Recognized) |
-| 👥 **15+ Engineers** | **Global Team Size** led and scaled successfully |
+- 🩺 **-40% Costs**: **Patient Care Costs** reduced through shift-left strategies
+- ⏱️ **-30% Time**: **Patient Wait Times** reduced via enhanced QA strategies
+- 📈 **+25% Coverage**: **Test Coverage** increased across high-profile healthcare apps
+- ⭐ **100% Quality**: **Defect-free delivery** achieved (Client Recognized)
+- 👥 **15+ Engineers**: **Global Team Size** led and scaled successfully
 
 ---
 
+<!-- FEATURED PROJECTS -->
 ## 📂 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🧠 [AI-driven-Test-Data-Generation](https://github.com/darshil0/AI-driven-Test-Data-Generation)
+A tool that uses generative AI to create realistic and diverse test data for healthcare applications, improving test coverage and accuracy.
+<br/>
+`Python` `Generative AI` `FastAPI` `PySpark`
 
 ### 📱 [mobile-testing-framework](https://github.com/darshil0/mobile-testing-framework)
-Production-ready mobile automation framework using Appium and TestNG with Page Object Model design.
-<br/><br/>
+A production-ready mobile automation framework using Appium and TestNG with Page Object Model design, built for scalability and maintainability.
+<br/>
 `Appium` `TestNG` `Java` `POM` `CI/CD`
 
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [AI-Testing](https://github.com/darshil0/AI-Testing)
-Comprehensive evaluation suite for testing AI models in healthcare contexts (Bias, Safety & Accuracy).
-<br/><br/>
-`Python` `LLM Evaluation` `Healthcare AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### ♿ [Automated-Accessibility-Testing-for-HIPAA](https://github.com/darshil0/Automated-Accessibility-Testing-for-HIPAA)
+A framework for automating accessibility testing to ensure compliance with WCAG and HIPAA standards in healthcare applications.
+<br/>
+`Playwright` `Axe-Core` `JavaScript` `CI/CD`
 
 ### 🌐 [Web-Testing-Framework](https://github.com/darshil0/Web-Testing-Framework)
-Lightweight web automation framework with Java, Selenium, and TestNG. Features data-driven testing.
-<br/><br/>
+A lightweight web automation framework with Java, Selenium, and TestNG, featuring data-driven testing and CI/CD integration.
+<br/>
 `Selenium` `Java` `TestNG` `CI/CD`
 
-</td>
-<td width="50%" valign="top">
-
-### 📓 [micro-journal-ai](https://github.com/darshil0/micro-journal-ai)
-Minimalist React journaling app with Anthropic Claude API integration. Privacy-first design.
-<br/><br/>
-`React` `Vite` `Claude API`
-
-</td>
-</tr>
-</table>
-
 ---
 
+<!-- CERTIFICATIONS -->
 ## 📜 Certifications & Continuous Learning
 
-<details>
-<summary><b>🤖 Generative AI & Machine Learning (2025)</b></summary>
-<br/>
+### 🤖 Generative AI & Machine Learning (2025)
+- **ChatGPT Prompt Engineering For Developers** | Coursera
+- **Develop Generative AI Apps in Azure** | Microsoft
+- **From Learner to Builder: AI Agent Architect** | IBM
+- **Gen AI: Beyond the Chatbot** | Google
+- **AI Fluency Framework** | Anthropic
 
-* **ChatGPT Prompt Engineering For Developers** | Coursera
-* **Develop Generative AI Apps in Azure** | Microsoft
-* **From Learner to Builder: AI Agent Architect** | IBM
-* **Gen AI: Beyond the Chatbot** | Google
-* **AI Fluency Framework** | Anthropic
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud, Agile & Compliance (2025)</b></summary>
-<br/>
-
-* **MLOps for Generative AI** | Google
-* **AWS Cloud Practitioner Essentials** | AWS
-* **Registered Scrum Basics™** | Scrum Inc.
-* **GitHub Responsible AI** | Microsoft
-
-</details>
+### ☁️ Cloud, Agile & Compliance (2025)
+- **MLOps for Generative AI** | Google
+- **AWS Cloud Practitioner Essentials** | AWS
+- **Registered Scrum Basics™** | Scrum Inc.
+- **GitHub Responsible AI** | Microsoft
 
 ---
 
+<!-- CURRENT FOCUS -->
 ## 💡 Current Focus: AI-Powered Healthcare QA
 
 I am actively researching and implementing AI agents into the STLC to automate compliance and self-heal regression suites.
@@ -179,6 +154,7 @@ graph LR
     style G fill:#00C853,stroke:#333,stroke-width:2px,color:#fff
 ````
 
+<!-- FOOTER -->
 <div align="center">
 <p><i>"Quality is not an act, it is a habit."</i></p>
 </div>

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vintage Fan SVG</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Courier New', monospace;
+        }
+        svg {
+            filter: drop-shadow(0 10px 20px rgba(0,0,0,0.3));
+        }
+        .fan-blade {
+            animation: spin 3s linear infinite;
+            transform-origin: center;
+            transform-box: fill-box;
+        }
+        @keyframes spin {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
+        .fan-base {
+            animation: subtle-bob 2s ease-in-out infinite;
+        }
+        @keyframes subtle-bob {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-2px); }
+        }
+        .grill-pattern {
+            animation: subtle-glow 4s ease-in-out infinite alternate;
+        }
+        @keyframes subtle-glow {
+            from { filter: brightness(1); }
+            to { filter: brightness(1.1) saturate(1.2); }
+        }
+    </style>
+</head>
+<body>
+    <svg width="400" height="500" viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg">
+        <g id="vintage-fan">
+            <!-- Base -->
+            <g transform="translate(200, 360)">
+                <g class="fan-base">
+                    <rect x="-80" y="0" width="160" height="60" rx="30" fill="#4a4a4a" stroke="#333" stroke-width="4"/>
+                    <circle cx="0" cy="-10" r="25" fill="#666" stroke="#333" stroke-width="3"/>
+                    <rect x="-15" y="-25" width="30" height="15" rx="3" fill="#555" stroke="#333" stroke-width="2"/>
+                    <!-- Power indicator -->
+                    <circle cx="-60" cy="30" r="8" fill="#27ae60">
+                        <animate attributeName="opacity" values="0.3;1;0.3" dur="1.5s" repeatCount="indefinite"/>
+                    </circle>
+                </g>
+            </g>
+
+            <!-- Fan Head Group -->
+            <g class="fan-head" transform="translate(200, 250)">
+                <!-- Fan body / housing -->
+                <g>
+                    <ellipse cx="0" cy="0" rx="90" ry="70" fill="#2c3e50" stroke="#1a252f" stroke-width="6" stroke-linejoin="round"/>
+                    <ellipse cx="0" cy="0" rx="85" ry="65" fill="#34495e" stroke="#1a252f" stroke-width="3"/>
+                    <!-- Control knob -->
+                    <circle cx="-60" cy="-10" r="12" fill="#e74c3c" stroke="#c0392b" stroke-width="2"/>
+                    <circle cx="-60" cy="-10" r="6" fill="#f39c12"/>
+                </g>
+
+                <!-- Fan blades (3 blades vintage style) -->
+                <g class="fan-blade">
+                    <g>
+                        <!-- Blade 1 -->
+                        <path d="M 0 -20 L 65 8 L 55 25 L -10 5 Z" fill="#d35400" stroke="#b33c00" stroke-width="2" stroke-linejoin="round"/>
+                        <!-- Blade 2 (120° offset) -->
+                        <path d="M 0 -20 L 65 8 L 55 25 L -10 5 Z" fill="#e67e22" stroke="#d35400" stroke-width="2" stroke-linejoin="round" transform="rotate(120)"/>
+                        <!-- Blade 3 (240° offset) -->
+                        <path d="M 0 -20 L 65 8 L 55 25 L -10 5 Z" fill="#f39c12" stroke="#e67e22" stroke-width="2" stroke-linejoin="round" transform="rotate(240)"/>
+                    </g>
+                </g>
+
+                <!-- Safety grill (vintage cross pattern) -->
+                <g class="grill-pattern">
+                    <!-- Vertical bars -->
+                    <g fill="none" stroke="#7f8c8d" stroke-width="3" stroke-linecap="round">
+                        <line x1="-75" y1="-55" x2="-75" y2="55"/>
+                        <line x1="-25" y1="-55" x2="-25" y2="55"/>
+                        <line x1="25" y1="-55" x2="25" y2="55"/>
+                        <line x1="75" y1="-55" x2="75" y2="55"/>
+                    </g>
+                    <!-- Horizontal bars -->
+                    <g fill="none" stroke="#95a5a6" stroke-width="3" stroke-linecap="round">
+                        <line x1="-85" y1="-45" x2="85" y2="-45"/>
+                        <line x1="-85" y1="0" x2="85" y2="0"/>
+                        <line x1="-85" y1="45" x2="85" y2="45"/>
+                    </g>
+                    <!-- Center hub -->
+                    <circle cx="0" cy="0" r="18" fill="#34495e" stroke="#2c3e50" stroke-width="4"/>
+                </g>
+
+                <!-- Vintage badge -->
+                <g>
+                    <circle cx="0" cy="0" r="35" fill="none" stroke="#e74c3c" stroke-width="4" stroke-dasharray="5,5"/>
+                    <circle cx="0" cy="0" r="28" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+                    <text x="0" y="8" text-anchor="middle" font-family="'Courier New', monospace" font-size="18" font-weight="bold" fill="#2c3e50">FANCO</text>
+                    <text x="0" y="28" text-anchor="middle" font-family="'Courier New', monospace" font-size="12" fill="#7f8c8d">1930s</text>
+                </g>
+            </g>
+        </g>
+    </svg>
+</body>
+</html>

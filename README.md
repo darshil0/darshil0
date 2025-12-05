@@ -75,9 +75,7 @@ My expertise spans full-stack quality assurance, cloud integration, and cutting-
 |                          | AI/ML for QA: Prompt Engineering, LLM Evaluation Frameworks, MLOps Principles                                                          |
 
 ### 💻 Languages & Key AI Tools
-
 **Languages:** `Java` `Python` `JavaScript` `SQL`
-
 **AI Tools:** Perplexity Comet • Google Gemini Jules • Anthropic Claude Sonnet 4.5 • Google Antigravity • Google Veo 3 • OpenAI Sora 2
 
 ---
@@ -125,17 +123,10 @@ A selection of repositories demonstrating my approach to quality engineering and
 
 ## 🛠️ Technology Stack at a Glance
 
-### Languages & Frameworks
-- Java, Python, JavaScript, SQL, TestNG, Pytest, Selenium, Playwright, Appium
-
-### Testing & Automation
-- Rest Assured, Postman, Cucumber BDD, Perfecto, BrowserStack
-
-### Cloud & DevOps
-- AWS (Certified), Azure, GCP, Jenkins, Git CI/CD, Docker
-
-### AI & ML
-- Prompt Engineering, LLM Evaluation, MLOps
+### Languages & Frameworks: - Java, Python, JavaScript, SQL, TestNG, Pytest, Selenium, Playwright, Appium
+### Testing & Automation: - Rest Assured, Postman, Cucumber BDD, Perfecto, BrowserStack
+### Cloud & DevOps: - AWS (Certified), Azure, GCP, Jenkins, Git CI/CD, Docker
+### AI & ML: - Prompt Engineering, LLM Evaluation, MLOps
 
 ---
 
@@ -153,5 +144,5 @@ I am always open to discussing new opportunities in **Healthcare QA Leadership**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" width="100%" />
 
-> "Quality is not an act, it is a habit." — Aristotle
+ "Quality is not an act, it is a habit." — Aristotle
 

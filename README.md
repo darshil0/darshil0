@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=280&section=header&text=Darshil%20Shah&fontSize=70&fontAlignY=35&desc=Healthcare%20QA%20Leader%20%7C%20AI%20%26%20Automation%20Evangelist&descAlignY=65&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%" alt="Darshil Shah Banner" />
 
 ## 🔗 Connect & Certify
@@ -29,8 +27,6 @@
     <a href="https://www.salesforce.com/trailblazer/darshilshah30"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/></a>
 </p>
 
-</div>
-
 ---
 
 ## 💡 Profile Summary
@@ -43,82 +39,40 @@ My focus is on the future of QA: leveraging advanced certifications in **AI/ML, 
 
 ### 🎯 Actively Seeking
 
-```yaml
-Target Roles: QA Leader • Senior QA Lead • QA Manager • Test Manager • Project Manager (QA)
-Industries: Healthcare Technology • Financial Services • IT Consulting • Tech Firms
-Preferred Orgs: CVS Health • Cigna • UHG • Accenture • Infosys • TCS • NVIDIA • Bank of America • Verizon • Fidelity
+```
+Target Roles: QA Leader -  Senior QA Lead -  QA Manager -  Test Manager -  Project Manager (QA)
+Industries: Healthcare Technology -  Financial Services -  IT Consulting -  Tech Firms
+Preferred Orgs: CVS Health -  Cigna -  UHG -  Accenture -  Infosys -  TCS -  NVIDIA -  Bank of America -  Verizon -  Fidelity
 Location: Dallas/Irving, TX (Hybrid/On-site) or Remote
 ```
 
------
+---
 
 ## 🏆 Key Quality Impact & Achievements
 
-I measure success by the tangible impact on patient care and business efficiency.
+I measure success by the tangible impact on patient care and business efficiency. [web:4]
 
-<div align="center">
+| Metric                    | Impact            | Description                                                                    |
+| ------------------------- | ----------------- | ------------------------------------------------------------------------------ |
+| 💰 **Patient Care Costs** | **-40%**          | Reduced through shift-left testing and early-stage defect prevention.          |
+| ⏱️ **Patient Wait Times** | **-30%**          | Decreased via enhanced end-to-end QA methodologies in critical systems.        |
+| 📈 **Test Coverage**      | **+25%**          | Increased across complex, regulated healthcare applications.                   |
+| ⭐ **Quality Score**      | **100%**          | Achieved defect-free delivery on major client initiatives (Client Recognized). |
+| 👥 **Leadership & Scale** | **15+ Engineers** | Successfully built, led, and mentored global quality engineering teams.        |
 
-| Metric | Impact | Description |
-|--------|--------|-------------|
-| 💰 **Patient Care Costs** | **-40%** | Reduced through shift-left testing and early-stage defect prevention. |
-| ⏱️ **Patient Wait Times** | **-30%** | Decreased via enhanced end-to-end QA methodologies in critical systems. |
-| 📈 **Test Coverage** | **+25%** | Increased across complex, regulated healthcare applications. |
-| ⭐ **Quality Score** | **100%** | Achieved defect-free delivery on major client initiatives (Client Recognized). |
-| 👥 **Leadership & Scale** | **15+ Engineers** | Successfully built, led, and mentored global quality engineering teams. |
-
-</div>
-
------
+---
 
 ## 🧠 Core Technical Expertise
 
 My expertise spans full-stack quality assurance, cloud integration, and cutting-edge AI implementation.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧪 QA & Automation Engineering</h3>
-
-<pre>
-Core Domains
-├── API & E2E Testing
-├── Regression & Performance Testing
-├── Mobile Automation (Appium)
-└── Web Automation (Selenium/Playwright)
-
-Automation Tools
-├── Java (TestNG) & Python (Pytest)
-├── Rest Assured & Postman/SoapUI
-├── Cucumber (BDD)
-└── Perfecto / BrowserStack
-</pre>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>☁️ Cloud, AI & Compliance</h3>
-
-<pre>
-Cloud & DevOps
-├── AWS (Certified) / Azure / GCP
-├── CI/CD Pipelines (Jenkins/Git)
-└── Containerization (Docker)
-
-Healthcare Compliance
-├── HIPAA & PHI Security
-├── FDA 21 CFR Part 11
-└── HL7 / FHIR Standards
-
-AI/ML for QA
-├── Prompt Engineering
-├── LLM Evaluation Frameworks
-└── MLOps Principles
-</pre>
-
-</td>
-</tr>
-</table>
+| Section                  | Details                                                                                                                                |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧪 QA & Automation       | Core Domains: API & E2E Testing, Regression & Performance Testing, Mobile Automation (Appium), Web Automation (Selenium/Playwright)      |
+|                          | Automation Tools: Java (TestNG) & Python (Pytest), Rest Assured & Postman/SoapUI, Cucumber (BDD), Perfecto / BrowserStack                 |
+| ☁️ Cloud, AI & Compliance| Cloud & DevOps: AWS (Certified) / Azure / GCP, CI/CD Pipelines (Jenkins/Git), Containerization (Docker)                                 |
+|                          | Healthcare Compliance: HIPAA & PHI Security, FDA 21 CFR Part 11, HL7 / FHIR Standards                                                   |
+|                          | AI/ML for QA: Prompt Engineering, LLM Evaluation Frameworks, MLOps Principles                                                          |
 
 ### 💻 Languages & Key AI Tools
 
@@ -126,13 +80,13 @@ AI/ML for QA
 
 **AI Tools:** Perplexity Comet • Google Gemini Jules • Anthropic Claude Sonnet 4.5 • Google Antigravity • Google Veo 3 • OpenAI Sora 2
 
------
+---
 
 ## 🚀 Current Focus: AI-Powered Healthcare QA
 
 I am committed to transforming the Software Testing Life Cycle (STLC) by integrating **AI agents** to automate complex compliance checks and enable **self-healing regression test suites**.
 
-```mermaid
+```
 graph LR
     A[🚀 Code Commit] --> B{🤖 AI Analysis Agent}
     B -->|Generates| C[📝 Test Scenarios]
@@ -149,69 +103,55 @@ graph LR
 ```
 
 **Key Research & Implementation Areas:**
+- Automated test case generation using Large Language Models (LLMs).
+- Developing truly self-healing and resilient test automation frameworks.
+- Integrating AI for predictive defect analysis and risk-based testing.
 
-  * Automated test case generation using Large Language Models (LLMs).
-  * Developing truly self-healing and resilient test automation frameworks.
-  * Integrating AI for predictive defect analysis and risk-based testing.
-
------
+---
 
 ## 📂 Featured Projects & Frameworks
 
 A selection of repositories demonstrating my approach to quality engineering and AI integration.
 
-<div align="center">
+| Project                         | Description                                                                                                                          | Tech Stack                        | Link                                                           |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------- | -------------------------------------------------------------- |
+| 🎯 **AI Evaluation QA**         | Production-grade framework for evaluating AI model responses with structured prompts, rubric-based scoring, and automated reporting. | `Python` `LLM Eval`               | [View →](https://github.com/darshil0/AI-Evaluation-QA)         |
+| ✈️ **Flight Tracker App**       | Full-stack flight tracking application built for real-time data integration and a modern responsive interface.                       | `TypeScript` `React` `PostgreSQL` | [View →](https://github.com/darshil0/flighttrackerapp)         |
+| 🤖 **AI Prompts Library**       | Interactive library for storing, organizing, and accessing advanced AI prompts for coding, design, and reasoning tasks.              | `HTML` `CSS` `JavaScript`         | [View →](https://github.com/darshil0/ai-prompts-2025)          |
+| 📱 **Mobile Testing Framework** | Robust mobile automation framework using Appium and TestNG with a scalable Page Object Model design.                                 | `Java` `Appium` `TestNG`          | [View →](https://github.com/darshil0/mobile-testing-framework) |
+| 🌐 **Web Testing Framework**    | Lightweight, data-driven web automation framework optimized for fast execution and CI/CD integration.                                | `Java` `Selenium` `TestNG`        | [View →](https://github.com/darshil0/Web-Testing-Framework)    |
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🎯 **AI Evaluation QA** | Production-grade framework for evaluating AI model responses with structured prompts, rubric-based scoring, and automated reporting. | `Python` `LLM Eval` | [View →](https://github.com/darshil0/AI-Evaluation-QA) |
-| ✈️ **Flight Tracker App** | Full-stack flight tracking application built for real-time data integration and a modern responsive interface. | `TypeScript` `React` `PostgreSQL` | [View →](https://github.com/darshil0/flighttrackerapp) |
-| 🤖 **AI Prompts Library** | Interactive library for storing, organizing, and accessing advanced AI prompts for coding, design, and reasoning tasks. | `HTML` `CSS` `JavaScript` | [View →](https://github.com/darshil0/ai-prompts-2025) |
-| 📱 **Mobile Testing Framework** | Robust mobile automation framework using Appium and TestNG with a scalable Page Object Model design. | `Java` `Appium` `TestNG` | [View →](https://github.com/darshil0/mobile-testing-framework) |
-| 🌐 **Web Testing Framework** | Lightweight, data-driven web automation framework optimized for fast execution and CI/CD integration. | `Java` `Selenium` `TestNG` | [View →](https://github.com/darshil0/Web-Testing-Framework) |
-
-</div>
-
------
+---
 
 ## 🛠️ Technology Stack at a Glance
 
-A visual representation of the tools and technologies I use to build and assure quality.
-
-<div align="center">
-
 ### Languages & Frameworks
+- Java, Python, JavaScript, SQL, TestNG, Pytest, Selenium, Playwright, Appium
 
 ### Testing & Automation
+- Rest Assured, Postman, Cucumber BDD, Perfecto, BrowserStack
 
 ### Cloud & DevOps
+- AWS (Certified), Azure, GCP, Jenkins, Git CI/CD, Docker
 
 ### AI & ML
+- Prompt Engineering, LLM Evaluation, MLOps
 
-</div>
+---
 
------
-
-<div align="center">
-
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
 
------
+---
 
-### 📬 Let's Collaborate!
+## 📬 Let's Collaborate!
 
 I am always open to discussing new opportunities in **Healthcare QA Leadership** and collaborating on **AI-Powered Quality Engineering** projects.
 
-[](https://www.linkedin.com/in/darshil-qa-lead/)
-[](mailto:darshils99@gmail.com)
-[](https://github.com/darshil0/darshil-portfolio)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" width="100%" />
 
-<p><i>"Quality is not an act, it is a habit." — Aristotle</i></p>
+> "Quality is not an act, it is a habit." — Aristotle
 
-</div>

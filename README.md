@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=280&section=header&text=Darshil%20Shah&fontSize=70&fontAlignY=35&desc=Healthcare%20QA%20Leader%20%7C%20AI%20%26%20Automation%20Evangelist&descAlignY=65&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%" alt="Darshil Shah Banner" />
 </div>
@@ -115,6 +114,3 @@ graph LR
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" width="100%" />
-
-```
-```

@@ -1,5 +1,7 @@
 ````markdown
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=280&section=header&text=Darshil%20Shah&fontSize=70&fontAlignY=35&desc=Healthcare%20QA%20Leader%20%7C%20AI%20%26%20Automation%20Evangelist&descAlignY=65&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%" alt="Darshil Shah Banner" />
+</div>
 
 ## Hi, I'm Darshil 👋
 
@@ -107,9 +109,9 @@ graph LR
 ### 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=darshil0&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;cache_seconds=86400" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=8&amp;cache_seconds=86400" alt="Top Languages" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&amp;theme=transparent&amp;hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" width="100%" />

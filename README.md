@@ -48,7 +48,7 @@ Target Roles: QA Leader • Senior QA Lead • QA Manager • Test Manager • P
 Industries: Healthcare Technology • Financial Services • IT Consulting • Tech Firms
 Preferred Orgs: CVS Health • Cigna • UHG • Accenture • Infosys • TCS • NVIDIA • Bank of America • Verizon • Fidelity
 Location: Dallas/Irving, TX (Hybrid/On-site) or Remote
-````
+```
 
 -----
 
@@ -56,7 +56,7 @@ Location: Dallas/Irving, TX (Hybrid/On-site) or Remote
 
 I measure success by the tangible impact on patient care and business efficiency.
 
-\<div align="center"\>
+<div align="center">
 
 | Metric | Impact | Description |
 |--------|--------|-------------|
@@ -66,7 +66,7 @@ I measure success by the tangible impact on patient care and business efficiency
 | ⭐ **Quality Score** | **100%** | Achieved defect-free delivery on major client initiatives (Client Recognized). |
 | 👥 **Leadership & Scale** | **15+ Engineers** | Successfully built, led, and mentored global quality engineering teams. |
 
-\</div\>
+</div>
 
 -----
 
@@ -74,9 +74,9 @@ I measure success by the tangible impact on patient care and business efficiency
 
 My expertise spans full-stack quality assurance, cloud integration, and cutting-edge AI implementation.
 
-\<table\>
-\<tr\>
-\<td width="50%" valign="top"\>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧪 QA & Automation Engineering
 
@@ -94,8 +94,8 @@ Automation Tools
 └── Perfecto / BrowserStack
 ```
 
-\</td\>
-\<td width="50%" valign="top"\>
+</td>
+<td width="50%" valign="top">
 
 ### ☁️ Cloud, AI & Compliance
 
@@ -116,9 +116,9 @@ AI/ML for QA
 └── MLOps Principles
 ```
 
-\</td\>
-\</tr\>
-\</table\>
+</td>
+</tr>
+</table>
 
 ### 💻 Languages & Key AI Tools
 
@@ -134,18 +134,18 @@ I am committed to transforming the Software Testing Life Cycle (STLC) by integra
 
 ```mermaid
 graph LR
-    A[🚀 Code Commit] --> B{🤖 AI Analysis Agent}
-    B -->|Generates| C[📝 Test Scenarios]
-    B -->|Validates| D[✅ Compliance Rules]
-    C --> E[▶️ Execute Tests]
-    E --> F{❌ Failure Detected?}
-    F -->|Yes| G[🔧 AI Self-Heal & Report]
-    G --> E
-    F -->|No| H[🎉 Deploy to Production]
-    
-    style B fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
-    style G fill:#00C853,stroke:#333,stroke-width:2px,color:#fff
-    style H fill:#FFD700,stroke:#333,stroke-width:2px,color:#333
+    A[🚀 Code Commit] --> B{🤖 AI Analysis Agent}
+    B -->|Generates| C[📝 Test Scenarios]
+    B -->|Validates| D[✅ Compliance Rules]
+    C --> E[▶️ Execute Tests]
+    E --> F{❌ Failure Detected?}
+    F -->|Yes| G[🔧 AI Self-Heal & Report]
+    G --> E
+    F -->|No| H[🎉 Deploy to Production]
+    
+    style B fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
+    style G fill:#00C853,stroke:#333,stroke-width:2px,color:#fff
+    style H fill:#FFD700,stroke:#333,stroke-width:2px,color:#333
 ```
 
 **Key Research & Implementation Areas:**
@@ -160,7 +160,7 @@ graph LR
 
 A selection of repositories demonstrating my approach to quality engineering and AI integration.
 
-\<div align="center"\>
+<div align="center">
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
@@ -170,7 +170,7 @@ A selection of repositories demonstrating my approach to quality engineering and
 | 📱 **Mobile Testing Framework** | Robust mobile automation framework using Appium and TestNG with a scalable Page Object Model design. | `Java` `Appium` `TestNG` | [View →](https://github.com/darshil0/mobile-testing-framework) |
 | 🌐 **Web Testing Framework** | Lightweight, data-driven web automation framework optimized for fast execution and CI/CD integration. | `Java` `Selenium` `TestNG` | [View →](https://github.com/darshil0/Web-Testing-Framework) |
 
-\</div\>
+</div>
 
 -----
 
@@ -178,7 +178,7 @@ A selection of repositories demonstrating my approach to quality engineering and
 
 A visual representation of the tools and technologies I use to build and assure quality.
 
-\<div align="center"\>
+<div align="center">
 
 ### Languages & Frameworks
 
@@ -188,21 +188,21 @@ A visual representation of the tools and technologies I use to build and assure 
 
 ### AI & ML
 
-\</div\>
+</div>
 
 -----
 
-\<div align="center"\>
+<div align="center">
 
 ### 📊 GitHub Activity
 
-\<img src="https://github-readme-stats.vercel.app/api?username=darshil0\&show\_icons=true\&theme=transparent\&hide\_border=true\&include\_all\_commits=true\&count\_private=true\&rank\_icon=github" alt="GitHub Stats" height="165" /\>
-\<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0\&layout=compact\&theme=transparent\&hide\_border=true\&langs\_count=8" alt="Top Languages" height="165" /\>
-\<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0\&theme=transparent\&hide\_border=true" alt="GitHub Streak" width="48%" /\>
+<img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
 
 -----
 
-### 📬 Let's Collaborate\!
+### 📬 Let's Collaborate!
 
 I am always open to discussing new opportunities in **Healthcare QA Leadership** and collaborating on **AI-Powered Quality Engineering** projects.
 
@@ -210,8 +210,8 @@ I am always open to discussing new opportunities in **Healthcare QA Leadership**
 [](mailto:darshils99@gmail.com)
 [](https://github.com/darshil0/darshil-portfolio)
 
-\<img src="https://capsule-render.vercel.app/api?type=waving\&color=0077B5\&height=120\&section=footer" width="100%" /\>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" width="100%" />
 
-\<p\>\<i\>"Quality is not an act, it is a habit." — Aristotle\</i\>\</p\>
+<p><i>"Quality is not an act, it is a habit." — Aristotle</i></p>
 
-\</div\>
+</div>

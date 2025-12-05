@@ -78,9 +78,9 @@ My expertise spans full-stack quality assurance, cloud integration, and cutting-
 <tr>
 <td width="50%" valign="top">
 
-### 🧪 QA & Automation Engineering
+<h3>🧪 QA & Automation Engineering</h3>
 
-```
+<pre>
 Core Domains
 ├── API & E2E Testing
 ├── Regression & Performance Testing
@@ -92,14 +92,14 @@ Automation Tools
 ├── Rest Assured & Postman/SoapUI
 ├── Cucumber (BDD)
 └── Perfecto / BrowserStack
-```
+</pre>
 
 </td>
 <td width="50%" valign="top">
 
-### ☁️ Cloud, AI & Compliance
+<h3>☁️ Cloud, AI & Compliance</h3>
 
-```
+<pre>
 Cloud & DevOps
 ├── AWS (Certified) / Azure / GCP
 ├── CI/CD Pipelines (Jenkins/Git)
@@ -114,7 +114,7 @@ AI/ML for QA
 ├── Prompt Engineering
 ├── LLM Evaluation Frameworks
 └── MLOps Principles
-```
+</pre>
 
 </td>
 </tr>

@@ -192,13 +192,13 @@ A visual representation of the tools and technologies I use to build and assure 
 
 -----
 
-\<div align="center"\>
+<div align="center"\>
 
 ### 📊 GitHub Activity
 
-\<img src="https://github-readme-stats.vercel.app/api?username=darshil0\&show\_icons=true\&theme=transparent\&hide\_border=true\&include\_all\_commits=true\&count\_private=true\&rank\_icon=github" alt="GitHub Stats" height="165" /\>
-\<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0\&layout=compact\&theme=transparent\&hide\_border=true\&langs\_count=8" alt="Top Languages" height="165" /\>
-\<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0\&theme=transparent\&hide\_border=true" alt="GitHub Streak" width="48%" /\>
+<img src="https://github-readme-stats.vercel.app/api?username=darshil0\&show\_icons=true\&theme=transparent\&hide\_border=true\&include\_all\_commits=true\&count\_private=true\&rank\_icon=github" alt="GitHub Stats" height="165" /\>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0\&layout=compact\&theme=transparent\&hide\_border=true\&langs\_count=8" alt="Top Languages" height="165" /\>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0\&theme=transparent\&hide\_border=true" alt="GitHub Streak" width="48%" /\>
 
 -----
 
@@ -210,12 +210,8 @@ I am always open to discussing new opportunities in **Healthcare QA Leadership**
 [](mailto:darshils99@gmail.com)
 [](https://github.com/darshil0/darshil-portfolio)
 
-\<img src="https://capsule-render.vercel.app/api?type=waving\&color=0077B5\&height=120\&section=footer" width="100%" /\>
+<img src="https://capsule-render.vercel.app/api?type=waving\&color=0077B5\&height=120\&section=footer" width="100%" /\>
 
-\<p\>\<i\>"Quality is not an act, it is a habit." — Aristotle\</i\>\</p\>
+<p\>\<i\>"Quality is not an act, it is a habit." — Aristotle\</i\>\</p\>
 
-\</div\>
-
-
-Would you like me to make any specific adjustments to the wording, like focusing on a different aspect of your career (e.g., leadership vs. AI innovation)?
-```
+</div\>

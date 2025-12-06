@@ -31,7 +31,7 @@ I deliver next-generation QA systems and lead high-impact teams to ensure flawle
 |---|---|
 | **Quality Engineering** | API & E2E Testing, Performance Testing, Mobile Automation (Appium/Perfecto), Web Automation (Selenium/Playwright), Postman, Cucumber (BDD) |
 | **Cloud & DevOps** | **AWS (Certified)**, Azure, GCP, Jenkins, Git CI/CD, Docker, Kubernetes |
-| **AI & LLMs** | Prompt Engineering, LLM Evaluation Frameworks, MLOps, Google Gemini Jules, Anthropic Claude, Perplexity Comet |
+| **AI & LLMs** | Prompt Engineering, LLM Evaluation Frameworks, MLOps, Google Gemini, Anthropic Claude, Perplexity |
 | **Languages** | `Java` `Python` `JavaScript` `SQL` |
 
 ---
@@ -54,9 +54,9 @@ graph LR
     style B fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
     style G fill:#00C853,stroke:#333,stroke-width:2px,color:#fff
     style H fill:#FFD700,stroke:#333,stroke-width:2px,color:#333
-````
+```
 
------
+---
 
 ## 📂 Featured Projects & Frameworks
 
@@ -66,16 +66,16 @@ graph LR
 | ✈️ **Flight Tracker App** | Full-stack flight tracking application built for real-time data integration and a modern responsive interface. | `TypeScript` `React` `PostgreSQL` | [View →](https://github.com/darshil0/flighttrackerapp) |
 | 🌐 **Web Testing Framework** | Lightweight, data-driven web automation framework optimized for fast execution and CI/CD integration. | `Java` `Selenium` `TestNG` | [View →](https://github.com/darshil0/Web-Testing-Framework) |
 
------
+---
 
 ## 🤝 About Me
 
-  * **🎯 Actively Seeking:** QA Leader, Senior QA Lead, QA Manager, or Test Manager roles in **Healthcare Tech, Finance, or IT Consulting** (Dallas/Irving, TX or Remote).
-  * **📜 Certifications:** Extensive professional certifications in **Generative AI, Cloud (AWS), and Agile/Scrum**.
-  * **Status:** 🇺🇸 US Citizen | ✅ No Sponsorship Required | 🚀 Immediate Joiner
-  * **Connect:** I'd love to chat and share input on next-gen QA strategies, LLM evaluation, and scaling engineering teams.
+* **🎯 Actively Seeking:** QA Leader, Senior QA Lead, QA Manager, or Test Manager roles in **Healthcare Tech, Finance, or IT Consulting** (Dallas/Irving, TX or Remote).
+* **📜 Certifications:** Extensive professional certifications in **Generative AI, Cloud (AWS), and Agile/Scrum**.
+* **Status:** 🇺🇸 US Citizen | ✅ No Sponsorship Required | 🚀 Immediate Joiner
+* **Connect:** I'd love to chat and share input on next-gen QA strategies, LLM evaluation, and scaling engineering teams.
 
------
+---
 
 ### 🔗 Connect & Certify Badges
 
@@ -108,9 +108,9 @@ graph LR
 ### 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=darshil0&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=github&amp;cache_seconds=86400" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;langs_count=8&amp;cache_seconds=86400" alt="Top Languages" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&amp;theme=transparent&amp;hide_border=true" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" width="100%" />

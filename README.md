@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=280&section=header&text=Darshil%20Shah&fontSize=70&fontAlignY=35&desc=Healthcare%20QA%20Leader%20%7C%20AI%20%26%20Automation%20Evangelist&descAlignY=65&descSize=20&fontColor=ffffff&animation=fadeIn" width="100%" alt="Darshil Shah Banner" />
-</div>
-
 ## Hi, I'm Darshil 👋
 
 I **lead Quality Engineering teams** and architect **AI-driven automation frameworks** tailored specifically for the highly-regulated **Healthcare Technology** sector.
@@ -104,13 +100,3 @@ graph LR
 <a href="https://www.salesforce.com/trailblazer/darshilshah30"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/></a>
 </p>
 </div>
-
-### 📊 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=footer" width="100%" />

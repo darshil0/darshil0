@@ -73,7 +73,7 @@ graph LR
 
 ---
 
-### 🔗 Connect & Certify Badges
+### 🔗 Noteworthy Certifications & Badges Earned:
 
 <div align="center">
 <p>

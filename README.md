@@ -25,8 +25,8 @@ I deliver next-generation QA systems and lead high-impact teams to ensure flawle
 
 | Area | Key Expertise & Tools |
 |---|---|
-| **Quality Engineering** | API & E2E Testing, Performance Testing, Mobile Automation (Appium/Perfecto), Web Automation (Selenium/Playwright), Postman, Cucumber (BDD) |
-| **Cloud & DevOps** | **AWS (Certified)**, Azure, GCP, Jenkins, Git CI/CD, Docker, Kubernetes |
+| **Quality Engineering** | API & E2E Testing, Postman, Cucumber (BDD), Scrum & Regression Testing, SIT, Prod and Non-Prod Testing, BVT Testing, Black Box, White Box Testing |
+| **Cloud & DevOps** | **AWS (Certified)**, Azure, GCP, Jenkins|
 | **AI & LLMs** | Prompt Engineering, LLM Evaluation Frameworks, MLOps, Google Gemini, Anthropic Claude, Perplexity |
 | **Languages** | `Java` `Python` `JavaScript` `SQL` |
 

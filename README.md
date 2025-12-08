@@ -89,28 +89,9 @@ A multi-modal AI workspace built with React and Google Gemini 2.5. Features an I
 ---
 
 ### 📄 DocuSearch Agent
-Enterprise-grade PDF document retrieval agent powered by Google Gemini 2.5 Flash. An intelligent document search system that uses Google's Gemini 2.5 Flash AI model to enable natural language querying across multiple PDF documents.
+Enterprise-grade PDF document retrieval agent powered by Google Gemini 2.5 Flash.
 
-**Technology Stack:**
-
-*Frontend:*
-* React 19.2 - Modern UI library with concurrent features
-* TypeScript 5.2 - Type-safe development with strict mode
-* Vite 5.2 - Fast build tool with HMR
-* Tailwind CSS 3.4 - Utility-first CSS framework
-* Lucide React - Beautiful icon library
-
-*AI & Processing:*
-* Google Gemini 2.5 Flash - Advanced AI language model
-* pdfjs-dist 5.4 - PDF parsing and rendering
-* react-pdf 10.2 - React PDF viewer components
-
-*Testing & Quality:*
-* Vitest 4.0 - Fast unit testing framework
-* React Testing Library 16.3 - Component testing utilities
-* ESLint 8.57 - Code linting and style enforcement
-* Prettier 3.7 - Code formatting
-* TypeScript ESLint - TypeScript-specific linting rules
+**Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Google Gemini 2.5 Flash` `pdfjs-dist` `Vitest`
 
 [View on GitHub →](https://github.com/darshil0/gemini-pdf-retrieval-agent)
 

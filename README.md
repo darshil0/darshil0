@@ -56,11 +56,90 @@ graph LR
 
 ## 📂 Featured Projects & Frameworks
 
-| Project | Description | Tech Stack | Link |
-|---|---|---|---|
-| 🎯 **AI Evaluation QA** | Production-grade framework for evaluating AI model responses with structured prompts, rubric-based scoring, and automated reporting. | `Python` `LLM Eval` | [View →](https://github.com/darshil0/AI-Evaluation-QA) |
-| ✈️ **Flight Tracker App** | Full-stack flight tracking application built for real-time data integration and a modern responsive interface. | `TypeScript` `React` `PostgreSQL` | [View →](https://github.com/darshil0/flighttrackerapp) |
-| 🌐 **Web Testing Framework** | Lightweight, data-driven web automation framework optimized for fast execution and CI/CD integration. | `Java` `Selenium` `TestNG` | [View →](https://github.com/darshil0/Web-Testing-Framework) |
+### 🎯 Gemini Omni Suite
+A multi-modal AI workspace built with React and Google Gemini 2.5. Features an Intelligent Email Agent, Generative Image Editor, and Real-time Live Voice Assistant wrapped in a modern glassmorphic UI.
+
+**Core Technologies:**
+* React 18.3 - UI framework with hooks and concurrent features
+* TypeScript 5.2 - Type-safe development
+* Vite 5.3 - Lightning-fast build tool
+* Tailwind CSS 3.4 - Utility-first styling
+
+**AI & APIs:**
+* Google Generative AI SDK 0.21.0 - Gemini integration
+* WebSocket API - Real-time voice communication
+* Web Audio API - Audio processing and visualization
+
+**Development Tools:**
+* Vitest - Unit and integration testing
+* ESLint - Code quality enforcement
+* PostCSS - CSS processing
+* Autoprefixer - Browser compatibility
+
+**🎨 Design Philosophy:**
+
+*Glassmorphism UI* - The interface features a modern glassmorphic design with frosted glass effect, backdrop blur, subtle transparency layers, soft shadows and borders, and smooth color gradients.
+
+*Dark & Light Modes* - Dark Mode features deep gradients with vibrant accents (default), while Light Mode offers a clean, airy palette with soft shadows. Theme preference persists via localStorage.
+
+*Responsive Design* - Mobile-first approach with breakpoints at sm (640px), md (768px), lg (1024px), xl (1280px), touch-optimized interactions, and adaptive layouts for all screen sizes.
+
+[View on GitHub →](https://github.com/darshil0/Gemini-Omni-Suite)
+
+---
+
+### 📄 DocuSearch Agent
+Enterprise-grade PDF document retrieval agent powered by Google Gemini 2.5 Flash. An intelligent document search system that uses Google's Gemini 2.5 Flash AI model to enable natural language querying across multiple PDF documents.
+
+**Technology Stack:**
+
+*Frontend:*
+* React 19.2 - Modern UI library with concurrent features
+* TypeScript 5.2 - Type-safe development with strict mode
+* Vite 5.2 - Fast build tool with HMR
+* Tailwind CSS 3.4 - Utility-first CSS framework
+* Lucide React - Beautiful icon library
+
+*AI & Processing:*
+* Google Gemini 2.5 Flash - Advanced AI language model
+* pdfjs-dist 5.4 - PDF parsing and rendering
+* react-pdf 10.2 - React PDF viewer components
+
+*Testing & Quality:*
+* Vitest 4.0 - Fast unit testing framework
+* React Testing Library 16.3 - Component testing utilities
+* ESLint 8.57 - Code linting and style enforcement
+* Prettier 3.7 - Code formatting
+* TypeScript ESLint - TypeScript-specific linting rules
+
+[View on GitHub →](https://github.com/darshil0/gemini-pdf-retrieval-agent)
+
+---
+
+### 🎯 AI Evaluation QA
+Production-grade framework for evaluating AI model responses with structured prompts, rubric-based scoring, and automated reporting.
+
+**Tech Stack:** `Python` `LLM Eval`
+
+[View on GitHub →](https://github.com/darshil0/AI-Evaluation-QA)
+
+---
+
+### ✈️ Flight Tracker App
+Full-stack flight tracking application built for real-time data integration and a modern responsive interface.
+
+**Tech Stack:** `TypeScript` `React` `PostgreSQL`
+
+[View on GitHub →](https://github.com/darshil0/flighttrackerapp)
+
+---
+
+### 🌐 Web Testing Framework
+Lightweight, data-driven web automation framework optimized for fast execution and CI/CD integration.
+
+**Tech Stack:** `Java` `Selenium` `TestNG`
+
+[View on GitHub →](https://github.com/darshil0/Web-Testing-Framework)
 
 ---
 

@@ -59,30 +59,7 @@ graph LR
 ### 🎯 Gemini Omni Suite
 A multi-modal AI workspace built with React and Google Gemini 2.5. Features an Intelligent Email Agent, Generative Image Editor, and Real-time Live Voice Assistant wrapped in a modern glassmorphic UI.
 
-**Core Technologies:**
-* React 18.3 - UI framework with hooks and concurrent features
-* TypeScript 5.2 - Type-safe development
-* Vite 5.3 - Lightning-fast build tool
-* Tailwind CSS 3.4 - Utility-first styling
-
-**AI & APIs:**
-* Google Generative AI SDK 0.21.0 - Gemini integration
-* WebSocket API - Real-time voice communication
-* Web Audio API - Audio processing and visualization
-
-**Development Tools:**
-* Vitest - Unit and integration testing
-* ESLint - Code quality enforcement
-* PostCSS - CSS processing
-* Autoprefixer - Browser compatibility
-
-**🎨 Design Philosophy:**
-
-*Glassmorphism UI* - The interface features a modern glassmorphic design with frosted glass effect, backdrop blur, subtle transparency layers, soft shadows and borders, and smooth color gradients.
-
-*Dark & Light Modes* - Dark Mode features deep gradients with vibrant accents (default), while Light Mode offers a clean, airy palette with soft shadows. Theme preference persists via localStorage.
-
-*Responsive Design* - Mobile-first approach with breakpoints at sm (640px), md (768px), lg (1024px), xl (1280px), touch-optimized interactions, and adaptive layouts for all screen sizes.
+**Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Google Generative AI SDK` `WebSocket API` `Vitest`
 
 [View on GitHub →](https://github.com/darshil0/Gemini-Omni-Suite)
 
@@ -97,21 +74,21 @@ Enterprise-grade PDF document retrieval agent powered by Google Gemini 2.5 Flash
 
 ---
 
-### 🎯 AI Evaluation QA
-Production-grade framework for evaluating AI model responses with structured prompts, rubric-based scoring, and automated reporting.
-
-**Tech Stack:** `Python` `LLM Eval`
-
-[View on GitHub →](https://github.com/darshil0/AI-Evaluation-QA)
-
----
-
 ### ✈️ Flight Tracker App
 Full-stack flight tracking application built for real-time data integration and a modern responsive interface.
 
 **Tech Stack:** `TypeScript` `React` `PostgreSQL`
 
 [View on GitHub →](https://github.com/darshil0/flighttrackerapp)
+
+---
+
+### 🎯 AI Evaluation QA
+Production-grade framework for evaluating AI model responses with structured prompts, rubric-based scoring, and automated reporting.
+
+**Tech Stack:** `Python` `LLM Eval`
+
+[View on GitHub →](https://github.com/darshil0/AI-Evaluation-QA)
 
 ---
 

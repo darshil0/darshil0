@@ -1,6 +1,6 @@
 ## Hi, I'm Darshil 👋
 
-I **lead Quality Engineering teams** and architect **AI-driven automation frameworks** tailored specifically for the highly-regulated **Healthcare Technology** sector.
+I **lead Quality Engineering teams** and architect **AI-driven automation frameworks** tailored specifically for the highly regulated **Healthcare Technology** sector.
 
 My mission is to **reduce patient care costs (-40%)** and **accelerate release velocity** by building robust, compliance-first QA strategies (HIPAA, FDA 21 CFR Part 11).
 
@@ -26,7 +26,7 @@ I deliver next-generation QA systems and lead high-impact teams to ensure flawle
 | Area | Key Expertise & Tools |
 |---|---|
 | **Quality Engineering** | API & E2E Testing, Postman, Cucumber (BDD), Scrum & Regression Testing, SIT, Prod and Non-Prod Testing, BVT Testing, Black Box, White Box Testing |
-| **Cloud & DevOps** | **AWS (Certified)**, Azure, GCP, Jenkins|
+| **Cloud & DevOps** | **AWS (Certified)**, Azure, GCP, Jenkins |
 | **AI & LLMs** | Prompt Engineering, LLM Evaluation Frameworks, MLOps, Google Gemini, Anthropic Claude, Perplexity |
 | **Languages** | `Java` `Python` `JavaScript` `SQL` |
 
@@ -73,7 +73,7 @@ graph LR
 
 ---
 
-### 🔗 Noteworthy Certifications & Badges Earned:
+## 🔗 Connect With Me
 
 <div align="center">
 <p>
@@ -90,6 +90,13 @@ graph LR
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 </p>
+</div>
+
+---
+
+## 🎓 Certifications & Learning Platforms
+
+<div align="center">
 <p>
 <a href="https://www.credly.com/users/darshil-shah.qa/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
 <a href="https://www.coursera.org/learner/darshil-shah-1990"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/></a>

@@ -1,146 +1,47 @@
-## Hi, I'm Darshil 👋
+Hi there, I'm Jonathan Steele 👋
 
-I **lead Quality Engineering teams** and architect **AI-driven automation frameworks** tailored specifically for the highly regulated **Healthcare Technology** sector.
+🎯 Software Engineer | Building scalable native, full-stack, cross-platform apps with .NET, Flutter, Kotlin, Swift, and Vue
+📍 Based in Melbourne, Florida | 💼 Currently at eLifeguard, Inc.
 
-My mission is to **reduce patient care costs (-40%)** and **accelerate release velocity** by building robust, compliance-first QA strategies (HIPAA, FDA 21 CFR Part 11).
+👨‍💻 About Me
 
-Most of my work is focused on **shifting QA left** by embedding intelligent agents that automatically generate tests, enforce regulatory rules, and enable self-healing regression suites.
+With over 8 years of professional experience (and 7 more as a passionate hobbyist), I specialize in designing, building, and scaling robust, high-performance mobile applications across Android, iOS, and cross-platform technologies. I take pride in delivering clean, maintainable, and production-ready code that drives real business value.
 
----
+🧰 Tech Stack & Specialties
 
-## 🏗️ What I Build & Deliver
+* Mobile: Android (Java, Kotlin, Jetpack Compose), iOS (Objective-C, Swift, SwiftUI)
+* Web: TypeScript, JavaScript, Astro, Vue, ASP.NET Core
+* Cross-Platform: .NET MAUI (C#), Flutter (Dart)
+* Frontend: XAML, SwiftUI, Jetpack Compose
+* Architecture: MVVM, Clean Architecture, Multimodule Design
+* Performance: Async rendering, SQLite caching, RESTful APIs
+* Tooling: Git, Firebase, GitHub Actions, CI/CD, Visual Studio Code, Xcode, Android Studio
 
-I deliver next-generation QA systems and lead high-impact teams to ensure flawless digital patient experiences.
+🚀 Career Highlights
 
-* **🏥 Healthcare Compliance QA:** Automated testing and validation processes adhering strictly to **HIPAA** and **FDA 21 CFR Part 11**.
-* **🤖 AI-Powered Automation:** Designing and implementing intelligent frameworks that use LLMs for **test case generation** and **predictive defect analysis**.
-* **🛠️ Self-Healing Frameworks:** Deploying resilient, data-driven automation using **Java (TestNG)** and **Python (Pytest)** that automatically adapts to UI changes.
-* **☁️ Enterprise Cloud QA:** Quality strategy for applications hosted on **AWS, Azure, and GCP**, integrated directly into CI/CD pipelines (Jenkins, Git).
-* **👥 Global QA Leadership:** Building, mentoring, and scaling distributed QA teams (15+ engineers) to achieve **100% defect-free delivery**.
-* **🎯 Impact-Driven Results:** Tangible outcomes, including **30% reduction in patient wait times** and **25%+ increase in test coverage**.
+* 📱 8+ years of mobile development using native and cross-platform frameworks
+* ⚙️ Published 5+ production apps across Android and iOS for enterprise use
+* 🔧 Modernized legacy codebases to improve scalability, offline reliability, and maintainability
+* ⚡ Delivered performance optimizations that enhanced UX and app responsiveness
 
----
+Notable Apps
 
-## 🧠 Core Technical Stacks
+* [Lifeguard Times – Android](https://play.google.com/store/apps/details?id=com.elifeguard.lifeguardtimes&hl=en_US&pli=1)
+* [Lifeguard Times – iOS](https://apps.apple.com/us/app/lifeguard-times/id1130306650)
 
-| Area | Key Expertise & Tools |
-|---|---|
-| **Quality Engineering** | API & E2E Testing, Postman, Cucumber (BDD), Scrum & Regression Testing, SIT, Prod and Non-Prod Testing, BVT Testing, Black Box, White Box Testing |
-| **Cloud & DevOps** | **AWS (Certified)**, Azure, GCP, Jenkins |
-| **AI & LLMs** | Prompt Engineering, LLM Evaluation Frameworks, MLOps, Google Gemini, Anthropic Claude, Perplexity |
-| **Languages** | `Java` `Python` `JavaScript` `SQL` |
+🤝 Connect with me:
 
----
+💬 I'm always open to connecting with fellow engineers, hiring managers, and mobile tech enthusiasts.
+If you're building something impactful, or looking for someone who can, let's talk!
 
-## 🚀 Current Focus: AI-Powered Healthcare QA
+[Jonathan Steele | LinkedIn](https://www.linkedin.com/in/jonathansoftwaredeveloper)
+[Jonathan Steele | Instagram](https://www.instagram.com/xfsunoles/)
 
-My research and implementation are centered on transforming the Software Testing Life Cycle (STLC) using AI agents.
+📈 GitHub Stats
 
-```mermaid
-graph LR
-    A[🚀 Code Commit] --> B{🤖 AI Analysis Agent}
-    B -->|Generates| C[📝 Test Scenarios]
-    B -->|Validates| D[✅ Compliance Rules]
-    C --> E[▶️ Execute Tests]
-    E --> F{❌ Failure Detected?}
-    F -->|Yes| G[🔧 AI Self-Heal & Report]
-    G --> E
-    F -->|No| H[🎉 Deploy to Production]
-        
-    style B fill:#0077B5,stroke:#333,stroke-width:2px,color:#fff
-    style G fill:#00C853,stroke:#333,stroke-width:2px,color:#fff
-    style H fill:#FFD700,stroke:#333,stroke-width:2px,color:#333
-```
+![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=inoles&theme=dracula&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inoles&size_weight=0.5&count_weight=0.5)
 
----
+🏆 GitHub Trophies
 
-## 📂 Featured Projects & Frameworks
-
-### 🎯 Gemini Omni Suite
-A multi-modal AI workspace built with React and Google Gemini 2.5. Features an Intelligent Email Agent, Generative Image Editor, and Real-time Live Voice Assistant wrapped in a modern glassmorphic UI.
-
-**Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Google Generative AI SDK` `WebSocket API` `Vitest`
-
-[View on GitHub →](https://github.com/darshil0/Gemini-Omni-Suite)
-
----
-
-### 📄 DocuSearch Agent
-Enterprise-grade PDF document retrieval agent powered by Google Gemini 2.5 Flash.
-
-**Tech Stack:** `React` `TypeScript` `Vite` `Tailwind CSS` `Google Gemini 2.5 Flash` `pdfjs-dist` `Vitest`
-
-[View on GitHub →](https://github.com/darshil0/gemini-pdf-retrieval-agent)
-
----
-
-### ✈️ Flight Tracker App
-Full-stack flight tracking application built for real-time data integration and a modern responsive interface.
-
-**Tech Stack:** `TypeScript` `React` `PostgreSQL`
-
-[View on GitHub →](https://github.com/darshil0/flighttrackerapp)
-
----
-
-### 🎯 AI Evaluation QA
-Production-grade framework for evaluating AI model responses with structured prompts, rubric-based scoring, and automated reporting.
-
-**Tech Stack:** `Python` `LLM Eval`
-
-[View on GitHub →](https://github.com/darshil0/AI-Evaluation-QA)
-
----
-
-### 🌐 Web Testing Framework
-Lightweight, data-driven web automation framework optimized for fast execution and CI/CD integration.
-
-**Tech Stack:** `Java` `Selenium` `TestNG`
-
-[View on GitHub →](https://github.com/darshil0/Web-Testing-Framework)
-
----
-
-## 🤝 About Me
-
-* **🎯 Actively Seeking:** QA Leader, Senior QA Lead, QA Manager, or Test Manager roles in **Healthcare Tech, Finance, or IT Consulting** (Dallas/Irving, TX or Remote).
-* **📜 Certifications:** Extensive professional certifications in **Generative AI, Cloud (AWS), and Agile/Scrum**.
-* **Status:** 🇺🇸 US Citizen | ✅ No Sponsorship Required | 🚀 Immediate Joiner
-* **Connect:** I'd love to chat and share input on next-gen QA strategies, LLM evaluation, and scaling engineering teams.
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-<p>
-<a href="https://www.linkedin.com/in/darshil-qa-lead/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:darshils99@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/darshil0">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://x.com/soulsurfer300">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-</p>
-</div>
-
----
-
-## 🎓 Certifications & Learning Platforms
-
-<div align="center">
-<p>
-<a href="https://www.credly.com/users/darshil-shah.qa/badges"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
-<a href="https://www.coursera.org/learner/darshil-shah-1990"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/></a>
-<a href="https://www.skills.google/public_profiles/b4c10d9b-a4e0-4fe6-ba1b-7ac3d2b15158"><img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/></a>
-<a href="https://docs.google.com/spreadsheets/d/1hf4n6WS9du7Iljhnz-i56xMhFYlOjcVn/edit"><img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/></a>
-<a href="https://learn.microsoft.com/en-us/users/darshilshah-7981/"><img src="https://img.shields.io/badge/Microsoft-232323?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/></a>
-<a href="https://docs.google.com/document/d/1w2PM0M6tK6_GAuhEg0YcaoOF8FQtEwxDj_2kOjWPBCs/edit"><img src="https://img.shields.io/badge/PMI-002D62?style=for-the-badge&logo=pmi&logoColor=white" alt="PMI"/></a>
-<a href="https://www.salesforce.com/trailblazer/darshilshah30"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/></a>
-</p>
-</div>
+![Jonathan's github trophy](https://github-profile-trophy.vercel.app/?username=iNoles&theme=default&no-frame=false&no-bg=false&margin-w=4)

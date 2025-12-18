@@ -132,5 +132,3 @@ graph LR
 </p>
 
 ***
-
-**Copy-paste ready** — all badges use `flat-square` style (fixed rendering issues), SEO-optimized headers, and minimalist professional design perfect for recruiters.

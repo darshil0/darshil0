@@ -1,85 +1,126 @@
 # Darshil Shah | QA Engineering Leader & AI Architect
 
-### *Transforming Healthcare Quality through AI-Driven Engineering & Compliance*
+**Transforming Healthcare Quality through AI-Driven Engineering & Regulatory Compliance**
 
 ---
 
 ## 🚀 Executive Summary
 
-Senior QA Leader with a track record of transforming delivery for **Fortune 500 healthcare clients** (Accenture). I architect quality ecosystems where **AI-driven automation** meets **stringent regulatory compliance** (HIPAA, FDA, ISO).
+Senior QA Leader with a proven track record of transforming delivery for Fortune 500 healthcare clients at Accenture. I architect quality ecosystems where AI-driven automation meets stringent regulatory compliance (HIPAA, FDA, ISO), preventing patient safety risks while driving measurable business impact.
 
-* **Scale:** Led & mentored global teams of **15+ engineers** across multiple time zones.
-* **Impact:** Realized a **40% reduction in patient care costs** via Shift-Left and Risk-Based Testing strategies.
-* **Innovation:** 2025 focus on **AI Agent Architecture** and **MCP (Model Context Protocol)** integration to automate the STLC.
+**Impact at Scale:**
+- **40% reduction in patient care costs** through Shift-Left and Risk-Based Testing strategies
+- **30% improvement in patient wait times** by streamlining QA workflows and automation coverage
+- Led and mentored **global teams of 15+ engineers** across multiple time zones
+- **2025 Innovation Focus:** AI Agent Architecture and MCP (Model Context Protocol) integration to automate the STLC
 
 ---
 
-## 🧠 Strategic QE Framework
+## 🧠 Strategic Quality Engineering Framework
 
-I move beyond "testing" to build **Quality Intelligence Systems**. My approach integrates AI agents at every gate to ensure safety-critical healthcare applications are both fast and compliant.
+I move beyond traditional "testing" to build **Quality Intelligence Systems**. My approach integrates AI agents at every quality gate to ensure safety-critical healthcare applications deliver both speed and compliance.
 
-```mermaid
-graph TD
-    A[Product Requirements] -->|AI Analysis| B{Risk-Based Scope}
-    B -->|High Risk| C[Manual Clinical Validation]
-    B -->|Standard| D[AI Agentic Test Gen]
-    D --> E[Parallel Execution: AWS/Azure]
-    E --> F{Self-Healing?}
-    F -->|Yes| G[Auto-Correction & PR]
-    F -->|No| H[Expert Root Cause Analysis]
-    H --> I[Deploy to Production]
-
-```
+**Core Philosophy:** Quality engineering that prevents patient safety risks, enables regulatory confidence, and accelerates innovation in healthcare technology.
 
 ---
 
 ## 🛠️ Technical Ecosystem & Mastery
 
 | Domain | Expert Tech Stack |
-| --- | --- |
-| **Leadership** | Strategic Roadmap, Resource Modeling, Agile/Scrum (Registered Scrum Basics™) |
+|--------|------------------|
+| **Leadership** | Strategic Roadmap Planning, Resource Modeling, Agile/Scrum (Registered Scrum Basics™) |
 | **AI & LLM** | Anthropic MCP, Google Gemini, Prompt Engineering, AI Agent Architecture |
 | **Automation** | Rest Assured, Postman, Selenium, Java, Python, SQL |
 | **Cloud & DevOps** | AWS (Certified), Azure, Microsoft Copilot, MLOps for Gen-AI |
 | **Compliance** | HIPAA, FDA 21 CFR Part 11, ADA Accessibility, EHR/EMR Integration |
+| **Testing Types** | Regression, Scrum, SIT, Exploratory, E2E, API, Database, Web Services |
+| **Tools** | JIRA, Confluence, TestRail, HP ALM, SoapUI |
 
 ---
 
 ## 📂 Featured Impact Projects
 
-### **1. AI-Powered Clinical Validation**
+### 1. AI-Powered Clinical Validation System
+Pioneered the use of LLMs to validate complex medical data sets against HIPAA standards, transforming how healthcare systems ensure compliance at scale.
 
-Pioneered the use of LLMs to validate complex medical data sets against HIPAA standards.
+**Results:**
+- Improved patient wait times by 30% by accelerating SIT and E2E test cycles
+- Enhanced accuracy in detecting compliance violations before production
+- Reduced manual validation effort by 60%
 
-* **Result:** Improved patient wait times by **30%** by accelerating SIT and E2E cycles.
-* **Stack:** Python, LLM Frameworks, SQL, AWS.
-
-### **2. Gemini Omni Suite & DocuSearch**
-
-Developed specialized AI agents for parsing and testing high-stakes medical documentation.
-
-* **Result:** Reduced documentation audit time by **50%** while ensuring 100% compliance accuracy.
-* **Stack:** Google Gemini, TypeScript, RAG Architecture.
+**Technology Stack:** Python, LLM Frameworks, SQL, AWS
 
 ---
 
-## 🎓 2025 Learning Path & Credits
+### 2. Gemini Omni Suite & DocuSearch
+Developed specialized AI agents for parsing and testing high-stakes medical documentation, ensuring 100% compliance accuracy while dramatically reducing audit burden.
 
-* **AI Agentic Systems:** *Becoming an AI Agent Architect (IBM)* | *Intro to MCP (Anthropic)*
-* **Cloud & MLOps:** *AWS Cloud Practitioner Essentials* | *MLOps for Gen-AI (Google)*
-* **Agile Leadership:** *Registered Scrum Basics™ (Scrum Inc.)*
+**Results:**
+- Reduced documentation audit time by 50%
+- Achieved 100% compliance accuracy in FDA-regulated documentation reviews
+- Created reusable AI agent templates for clinical documentation workflows
 
-<p align="left">
-<img src="[https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/AWS-FF9900%3Fstyle%3Dflat-square%26logo%3Damazon-aws%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/Anthropic_AI-75013F?style=flat-square&logo=anthropic&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Anthropic_AI-75013F%3Fstyle%3Dflat-square%26logo%3Danthropic%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dflat-square%26logo%3Dgoogle-cloud%26logoColor%3Dwhite)" />
-<img src="[https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Microsoft_Copilot-0078D4%3Fstyle%3Dflat-square%26logo%3Dmicrosoft%26logoColor%3Dwhite)" />
-</p>
+**Technology Stack:** Google Gemini, TypeScript, RAG Architecture
+
+---
+
+## 🎓 2025 Learning Path & Advanced Certifications
+
+**AI & Agentic Systems:**
+- Introduction to MCP (Anthropic) | Oct 2025
+- AI Fluency Framework & Foundations (Anthropic) | Aug 2025
+- Becoming an AI Agent Architect (IBM) | Jul 2025
+- ChatGPT Prompt Engineering for Developers (Coursera) | Jul 2025
+- Generative AI in Action (IBM) | Jun 2025
+
+**Cloud & MLOps:**
+- AWS Cloud Practitioner Essentials (AWS) | May 2025
+- MLOps for Generative AI (Google) | Jun 2025
+- Microsoft Copilot Foundations (Microsoft) | Jun 2025
+
+**Agile Leadership:**
+- Registered Scrum Basics™ (Scrum Inc.) | Aug 2025
+- Generative AI for Project Managers (PMI) | Mar 2025
+
+---
+
+## 💡 Leadership Philosophy
+
+**Empathy, Integrity, and Transparent Communication** define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for both leadership excellence and technical innovation.
+
+**Core Beliefs:**
+- Quality engineering is a strategic business enabler, not a cost center
+- Teams perform best when mentored with empathy and equipped with cutting-edge tools
+- Healthcare technology requires zero-compromise approaches to patient safety
+- AI augments human expertise but never replaces human judgment in safety-critical systems
+
+---
+
+## 🏆 Key Achievements
+
+- Delivered **40% reduction in patient care costs** through shift-left and risk-based testing methodologies
+- Led **Fortune 500 healthcare transformations** at Accenture with measurable clinical and operational impact
+- Pioneered **AI-powered testing frameworks** using LLMs and generative AI to enhance accuracy and scalability
+- Built and scaled **global QA teams** of 15+ professionals across multiple time zones
+- Achieved **100% compliance rates** across HIPAA, FDA, and ISO audits for safety-critical healthcare systems
 
 ---
 
 ## 🤝 Connect & Collaborate
 
-* **Location:** Dallas / Irving, TX (Open to Remote)
-* **Status:** 🇺🇸 **U.S. Citizen** · 🚀 **Immediate Joiner**
-* **Philosophy:** Leadership through empathy, integrity, and technical excellence.
+- **Location:** Dallas / Irving, TX (Open to Remote)
+- **Status:** 🇺🇸 U.S. Citizen | 🚀 Immediate Joiner
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/darshilshah)
+- **Email:** [Your email here]
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm seeking leadership opportunities where I can drive quality transformation at scale in healthcare technology. Whether you're building compliant-by-design systems, modernizing legacy healthcare infrastructure, or pioneering AI-driven clinical solutions, let's collaborate to create safer, smarter healthcare innovation.
+
+**Ideal Roles:** VP of Quality Engineering, Head of QA & Compliance, Chief Quality Officer, AI + QA Architecture Leader
+
+---
+
+*"I lead QA teams that do far more than find bugs—we prevent patient safety risks, drive measurable business impact, and enable safer, smarter healthcare innovation."*

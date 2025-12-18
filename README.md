@@ -1,95 +1,87 @@
 # Darshil Shah | QA Engineering Leader & AI Architect
 
-### *Architecting the Future of Quality: AI-Driven, Compliant, and Scalable*
+### *Transforming Healthcare Quality through AI-Driven Engineering & Compliance*
 
 ---
 
 ## 🚀 Executive Summary
 
-Senior Quality Engineering Leader with over a decade of experience in **Digital Healthcare Automation** and **AI-Powered Quality Systems**. I specialize in building high-performance QA organizations that bridge the gap between rapid deployment and stringent regulatory compliance (**HIPAA, FDA 21 CFR Part 11**).
+Senior QA Leader with a track record of transforming delivery for **Fortune 500 healthcare clients** (Accenture). I architect quality ecosystems where **AI-driven automation** meets **stringent regulatory compliance** (HIPAA, FDA, ISO).
 
-* **Impact:** Managed teams of **15+ engineers**; increased automation ROI by **25%** while reducing TTM (Time-to-Market) for critical healthcare features.
-* **Innovation:** Architecting **Self-Healing Automation Frameworks** and **Autonomous AI Agents** for the STLC.
-
----
-
-## 🛠️ Technical Ecosystem
-
-| Domain | Proficiency |
-| --- | --- |
-| **QA Strategy** | Shift-Left/Right Testing, TDD/BDD, Risk-Based Testing, Chaos Engineering |
-| **Automation** | Selenium, TestNG, Pytest, Playwright, Appium, RestAssured |
-| **AI/ML Ops** | LLM Evaluation, RAG Testing, Prompt Engineering, Model Performance Metrics |
-| **Cloud & DevOps** | AWS (Solutions Architect), Azure, Jenkins (Groovy Pipelines), Docker, Kubernetes |
-| **Data & Compliance** | SQL, HIPAA Data Masking, FDA Validation, Security (OWASP Top 10) |
+* **Scale:** Led & mentored global teams of **15+ engineers** across multiple time zones.
+* **Impact:** Realized a **40% reduction in patient care costs** via Shift-Left and Risk-Based Testing strategies.
+* **Innovation:** 2025 focus on **AI Agent Architecture** and **MCP (Model Context Protocol)** integration to automate the STLC.
 
 ---
 
-## 🧠 System Architecture: AI-Powered STLC
+## 🧠 Strategic QE Framework
 
-I am currently leading the development of a **Closed-Loop AI Testing Agent** that automates the lifecycle of a defect from detection to self-correction.
+I move beyond "testing" to build **Quality Intelligence Systems**. My approach integrates AI agents at every gate to ensure safety-critical healthcare applications are both fast and compliant.
 
 ```mermaid
-graph LR
-    A[Source Code] --> B{AI Quality Gate}
-    B -->|Predictive Analysis| C[Targeted Regression]
-    B -->|Compliance| D[HIPAA/FDA Audit]
-    C --> E[Test Execution]
-    E --> F{Failure?}
-    F -->|Yes| G[AI Root Cause Analysis]
-    G -->|Update| H[Self-Healing Script]
-    H --> E
-    F -->|No| I[Blue-Green Deployment]
+graph TD
+    A[Product Requirements] -->|AI Analysis| B{Risk-Based Scope}
+    B -->|High Risk| C[Manual Clinical Validation]
+    B -->|Standard| D[AI Agentic Test Gen]
+    D --> E[Parallel Execution: AWS/Azure]
+    E --> F{Self-Healing?}
+    F -->|Yes| G[Auto-Correction & PR]
+    F -->|No| H[Expert Root Cause Analysis]
+    H --> I[Deploy to Production]
 
 ```
 
 ---
 
-## 📂 Key Contributions & Projects
+## 🛠️ Technical Ecosystem & Mastery
 
-### **1. Healthcare Automation Framework (Compliance-First)**
-
-Developed a custom framework using **Java & TestNG** tailored for FDA-regulated environments.
-
-* **Result:** Automated **85%** of manual compliance checks, saving **400+ hours** per release cycle.
-* **Stack:** Java, Selenium, AWS S3, Jenkins.
-
-### **2. Gemini Omni Suite (Gen-AI)**
-
-A multi-modal workspace designed to evaluate and leverage Google Gemini for automated test case generation.
-
-* **Result:** Reduced the time to create complex end-to-end test scenarios by **60%**.
-* **Stack:** TypeScript, Google Generative AI SDK, React.
-
-### **3. DocuSearch Agent**
-
-High-precision RAG (Retrieval-Augmented Generation) agent for parsing medical documentation.
-
-* **Focus:** Ensuring data accuracy and privacy in high-stakes healthcare environments.
+| Domain | Expert Tech Stack |
+| --- | --- |
+| **Leadership** | Strategic Roadmap, Resource Modeling, Agile/Scrum (Registered Scrum Basics™) |
+| **AI & LLM** | Anthropic MCP, Google Gemini, Prompt Engineering, AI Agent Architecture |
+| **Automation** | Rest Assured, Postman, Selenium, Java, Python, SQL |
+| **Cloud & DevOps** | AWS (Certified), Azure, Microsoft Copilot, MLOps for Gen-AI |
+| **Compliance** | HIPAA, FDA 21 CFR Part 11, ADA Accessibility, EHR/EMR Integration |
 
 ---
 
-## 🏆 Certifications & Professional Credits
+## 📂 Featured Impact Projects
+
+### **1. AI-Powered Clinical Validation**
+
+Pioneered the use of LLMs to validate complex medical data sets against HIPAA standards.
+
+* **Result:** Improved patient wait times by **30%** by accelerating SIT and E2E cycles.
+* **Stack:** Python, LLM Frameworks, SQL, AWS.
+
+### **2. Gemini Omni Suite & DocuSearch**
+
+Developed specialized AI agents for parsing and testing high-stakes medical documentation.
+
+* **Result:** Reduced documentation audit time by **50%** while ensuring 100% compliance accuracy.
+* **Stack:** Google Gemini, TypeScript, RAG Architecture.
+
+---
+
+## 🎓 2025 Learning Path & Credits
+
+* **AI Agentic Systems:** *Becoming an AI Agent Architect (IBM)* | *Intro to MCP (Anthropic)*
+* **Cloud & MLOps:** *AWS Cloud Practitioner Essentials* | *MLOps for Gen-AI (Google)*
+* **Agile Leadership:** *Registered Scrum Basics™ (Scrum Inc.)*
 
 <p align="left">
-<a href="[https://www.credly.com/users/darshil-shah.qa/badges](https://www.credly.com/users/darshil-shah.qa/badges)"><img src="[https://img.shields.io/badge/AWS_Certified-FF9900?style=flat-square&logo=amazon-aws&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/AWS_Certified-FF9900%3Fstyle%3Dflat-square%26logo%3Damazon-aws%26logoColor%3Dwhite)" /></a>
-<a href="#"><img src="[https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Google_AI-4285F4%3Fstyle%3Dflat-square%26logo%3Dgoogle%26logoColor%3Dwhite)" /></a>
-<a href="#"><img src="[https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Microsoft-0078D4%3Fstyle%3Dflat-square%26logo%3Dmicrosoft%26logoColor%3Dwhite)" /></a>
-<a href="#"><img src="[https://img.shields.io/badge/Scrum_Master-009ADA?style=flat-square&logo=scrum-alliance&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Scrum_Master-009ADA%3Fstyle%3Dflat-square%26logo%3Dscrum-alliance%26logoColor%3Dwhite)" /></a>
+<img src="[https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/AWS-FF9900%3Fstyle%3Dflat-square%26logo%3Damazon-aws%26logoColor%3Dwhite)" />
+<img src="[https://img.shields.io/badge/Anthropic_AI-75013F?style=flat-square&logo=anthropic&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Anthropic_AI-75013F%3Fstyle%3Dflat-square%26logo%3Danthropic%26logoColor%3Dwhite)" />
+<img src="[https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Google_Cloud-4285F4%3Fstyle%3Dflat-square%26logo%3Dgoogle-cloud%26logoColor%3Dwhite)" />
+<img src="[https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/Microsoft_Copilot-0078D4%3Fstyle%3Dflat-square%26logo%3Dmicrosoft%26logoColor%3Dwhite)" />
 </p>
 
 ---
 
-## 🤝 Current Status
+## 🤝 Connect & Collaborate
 
 * **Location:** Dallas / Irving, TX (Open to Remote)
-* **Authorization:** 🇺🇸 **U.S. Citizen** (No sponsorship required)
-* **Availability:** **Immediate Joiner**
+* **Status:** 🇺🇸 **U.S. Citizen** · 🚀 **Immediate Joiner**
+* **Philosophy:** Leadership through empathy, integrity, and technical excellence.
 
----
-
-### **How I can help your team:**
-
-1. **Transform** legacy manual QA into high-speed automation.
-2. **Architect** AI-driven testing strategies to future-proof your product.
-3. **Lead** and mentor engineers to build a "Quality-First" culture.
+**Would you like me to generate a specific "Technical Case Study" based on your Accenture work to add as a separate repository link?**

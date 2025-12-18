@@ -111,7 +111,7 @@ Developed specialized AI agents for parsing and testing high-stakes medical docu
 - **Location:** Dallas / Irving, TX (Open to Remote)
 - **Status:** 🇺🇸 U.S. Citizen | 🚀 Immediate Joiner
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/darshilshah)
-- **Email:** [Your email here]
+- **Email:** [darshils99@gmail.com](url)
 
 ---
 
@@ -119,7 +119,7 @@ Developed specialized AI agents for parsing and testing high-stakes medical docu
 
 I'm seeking leadership opportunities where I can drive quality transformation at scale in healthcare technology. Whether you're building compliant-by-design systems, modernizing legacy healthcare infrastructure, or pioneering AI-driven clinical solutions, let's collaborate to create safer, smarter healthcare innovation.
 
-**Ideal Roles:** VP of Quality Engineering, Head of QA & Compliance, Chief Quality Officer, AI + QA Architecture Leader
+**Ideal Roles:** QA Lead, Functional QA Engineer, UAT Tester, UAT Test Lead, E2E Test Lead, Project Management Entry level with QA experience, AI Consultant, Prompt Engineer
 
 ---
 

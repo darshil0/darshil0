@@ -83,5 +83,3 @@ Developed specialized AI agents for parsing and testing high-stakes medical docu
 * **Location:** Dallas / Irving, TX (Open to Remote)
 * **Status:** 🇺🇸 **U.S. Citizen** · 🚀 **Immediate Joiner**
 * **Philosophy:** Leadership through empathy, integrity, and technical excellence.
-
-**Would you like me to generate a specific "Technical Case Study" based on your Accenture work to add as a separate repository link?**

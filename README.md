@@ -63,11 +63,6 @@ A multi-modal AI workspace built with React and Google Gemini 2.5. Features an I
 - Real-time Live Voice Assistant for interactive conversations
 - Modern glassmorphic UI design
 
-**Results:**
-- Reduced documentation audit time by 50%
-- Achieved 100% compliance accuracy in FDA-regulated documentation reviews
-- Created reusable AI agent templates for clinical documentation workflows
-
 **Technology Stack:** TypeScript, React, Google Gemini 2.5, RAG Architecture
 
 ---
@@ -95,11 +90,6 @@ A production-grade framework for evaluating AI model responses through structure
 - Rubric-based scoring for objective assessment
 - Automated reporting and analytics
 - Quality metrics for AI/LLM responses
-
-**Results:**
-- Improved patient wait times by 30% by accelerating SIT and E2E test cycles
-- Enhanced accuracy in detecting compliance violations before production
-- Reduced manual validation effort by 60%
 
 **Technology Stack:** Python, LLM Frameworks, SQL, AWS
 

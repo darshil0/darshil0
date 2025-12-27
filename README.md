@@ -95,7 +95,23 @@ A production-grade framework for evaluating AI model responses through structure
 
 ---
 
-### 5. [Flight Tracker App](https://github.com/darshil0/flighttrackerapp)
+### 5. [AI Financial Auditor (FinAnalyzer Pro)](https://github.com/darshil0/ai-financial-auditor)
+
+An institutional-grade financial intelligence platform that transforms complex corporate earnings PDFs into structured, actionable insights using Gemini 3 Pro. Features advanced multimodal reasoning for extracting key financial metrics, sentiment analysis, and comparative benchmarking capabilities.
+
+**Key Features:**
+- Gemini 3 Pro extraction engine for Revenue, Net Income, EPS, and Margins with forensic precision
+- Narrative sentiment analysis with 0-100 Bullishness scoring and interactive gauges
+- Market grounding integration with real-time Google Search tools
+- Side-by-side comparative hub with baseline and benchmark indicators
+- Universal ticker intelligence with keyboard-first navigation
+- Built-in UI diagnostics suite for responsive layout verification
+
+**Technology Stack:** TypeScript, React 19, Google Gemini 3 Pro, Recharts, Tailwind CSS
+
+---
+
+### 6. [Flight Tracker App](https://github.com/darshil0/flighttrackerapp)
 
 A minimalistic flight tracking application demonstrating clean UI/UX principles and real-time data integration.
 
@@ -108,7 +124,7 @@ A minimalistic flight tracking application demonstrating clean UI/UX principles 
 
 ---
 
-### 6. [AI Prompts 2025 Collection](https://github.com/darshil0/ai-prompts-2025)
+### 7. [AI Prompts 2025 Collection](https://github.com/darshil0/ai-prompts-2025)
 
 A curated collection of production-ready AI prompts for various use cases, including quality assurance, testing, and healthcare compliance workflows.
 

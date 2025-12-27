@@ -1,4 +1,4 @@
-# Darshil Shah | QA Engineering Leader & AI Architect
+# Darshil Shah | QA Engineering Leader
 
 **Transforming Healthcare Quality through AI-Driven Engineering & Regulatory Compliance**
 

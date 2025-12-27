@@ -40,8 +40,61 @@ I move beyond traditional "testing" to build **Quality Intelligence Systems**. M
 
 ## 📂 Featured Impact Projects
 
-### 1. AI-Powered Clinical Validation System
-Pioneered the use of LLMs to validate complex medical data sets against HIPAA standards, transforming how healthcare systems ensure compliance at scale.
+### 1. [Customer Support Agent](https://github.com/darshil0/customer-support-agent)
+
+A production-ready, intelligent customer support solution built with Google Agent Development Kit (ADK) for Java, showcasing enterprise-grade multi-agent orchestration and robust tooling.
+
+**Key Features:**
+- Multi-agent orchestration for complex customer inquiries
+- Enterprise-grade reliability and scalability
+- Integrated tooling for seamless support workflows
+
+**Technology Stack:** TypeScript, Google Agent Development Kit (ADK), Java
+
+---
+
+### 2. [Gemini Omni Suite](https://github.com/darshil0/Gemini-Omni-Suite)
+
+A multi-modal AI workspace built with React and Google Gemini 2.5. Features an Intelligent Email Agent, Generative Image Editor, and Real-time Live Voice Assistant wrapped in a modern glassmorphic UI.
+
+**Key Features:**
+- Intelligent Email Agent for automated correspondence
+- Generative Image Editor with AI-powered editing capabilities
+- Real-time Live Voice Assistant for interactive conversations
+- Modern glassmorphic UI design
+
+**Results:**
+- Reduced documentation audit time by 50%
+- Achieved 100% compliance accuracy in FDA-regulated documentation reviews
+- Created reusable AI agent templates for clinical documentation workflows
+
+**Technology Stack:** TypeScript, React, Google Gemini 2.5, RAG Architecture
+
+---
+
+### 3. [Gemini PDF Retrieval Agent (DocuSearch)](https://github.com/darshil0/gemini-pdf-retrieval-agent)
+
+An intelligent document search engine powered by Google Gemini 2.5. Upload multiple PDFs, perform context-aware keyword searches, and jump to exact page citations with a built-in viewer.
+
+**Key Features:**
+- Multi-PDF upload and processing
+- Context-aware keyword search across documents
+- Exact page citation with integrated PDF viewer
+- Optimized for medical and regulatory documentation
+
+**Technology Stack:** TypeScript, Google Gemini 2.5, PDF Processing, RAG
+
+---
+
+### 4. [AI Evaluation QA Framework](https://github.com/darshil0/AI-Evaluation-QA)
+
+A production-grade framework for evaluating AI model responses through structured prompts, rubric-based scoring, and automated reporting. This project applies enterprise quality assurance methodologies to large language model outputs.
+
+**Key Features:**
+- Structured prompt evaluation system
+- Rubric-based scoring for objective assessment
+- Automated reporting and analytics
+- Quality metrics for AI/LLM responses
 
 **Results:**
 - Improved patient wait times by 30% by accelerating SIT and E2E test cycles
@@ -52,15 +105,35 @@ Pioneered the use of LLMs to validate complex medical data sets against HIPAA st
 
 ---
 
-### 2. Gemini Omni Suite & DocuSearch
-Developed specialized AI agents for parsing and testing high-stakes medical documentation, ensuring 100% compliance accuracy while dramatically reducing audit burden.
+### 5. [Flight Tracker App](https://github.com/darshil0/flighttrackerapp)
 
-**Results:**
-- Reduced documentation audit time by 50%
-- Achieved 100% compliance accuracy in FDA-regulated documentation reviews
-- Created reusable AI agent templates for clinical documentation workflows
+A minimalistic flight tracking application demonstrating clean UI/UX principles and real-time data integration.
 
-**Technology Stack:** Google Gemini, TypeScript, RAG Architecture
+**Key Features:**
+- Real-time flight status tracking
+- Minimalistic and intuitive interface
+- Responsive design for mobile and desktop
+
+**Technology Stack:** TypeScript, React
+
+---
+
+### 6. [AI Prompts 2025 Collection](https://github.com/darshil0/ai-prompts-2025)
+
+A curated collection of production-ready AI prompts for various use cases, including quality assurance, testing, and healthcare compliance workflows.
+
+**Key Features:**
+- Production-tested prompt templates
+- Healthcare and compliance-focused examples
+- Prompt engineering best practices
+
+**Technology Stack:** HTML, Markdown
+
+---
+
+### 🔗 Additional Projects
+
+Explore my complete portfolio of 20+ repositories on [GitHub](https://github.com/darshil0?tab=repositories), including automation frameworks, testing tools, and AI experimentation projects.
 
 ---
 
@@ -111,7 +184,7 @@ Developed specialized AI agents for parsing and testing high-stakes medical docu
 - **Location:** Dallas / Irving, TX (Open to Remote)
 - **Status:** 🇺🇸 U.S. Citizen | 🚀 Immediate Joiner
 - **LinkedIn:** [Connect with me](https://linkedin.com/in/darshilshah)
-- **Email:** [darshils99@gmail.com](url)
+- **Email:** [darshils99@gmail.com](mailto:darshils99@gmail.com)
 
 ---
 

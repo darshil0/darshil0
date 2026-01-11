@@ -1,4 +1,4 @@
-# Darshil Shah | QA Engineering Leader
+# Darshil Shah | QA Engineering Leader & AI Architect
 
 **Transforming Healthcare Quality through AI-Driven Engineering & Regulatory Compliance**
 
@@ -9,10 +9,10 @@
 Senior QA Leader with a proven track record of transforming delivery for Fortune 500 healthcare clients at Accenture. I architect quality ecosystems where AI-driven automation meets stringent regulatory compliance (HIPAA, FDA, ISO), preventing patient safety risks while driving measurable business impact.
 
 **Impact at Scale:**
-- **40% reduction in patient care costs** through Shift-Left and Risk-Based Testing strategies
-- **30% improvement in patient wait times** by streamlining QA workflows and automation coverage
-- Led and mentored **global teams of 15+ engineers** across multiple time zones
-- **2025 Innovation Focus:** AI Agent Architecture and MCP (Model Context Protocol) integration to automate the STLC
+* **40% reduction in patient care costs** through Shift-Left and Risk-Based Testing strategies
+* **30% improvement in patient wait times** by streamlining QA workflows and automation coverage
+* Led and mentored **global teams of 15+ engineers** across multiple time zones
+* **2025 Innovation Focus:** AI Agent Architecture and MCP (Model Context Protocol) integration to automate the STLC
 
 ---
 
@@ -27,7 +27,7 @@ I move beyond traditional "testing" to build **Quality Intelligence Systems**. M
 ## 🛠️ Technical Ecosystem & Mastery
 
 | Domain | Expert Tech Stack |
-|--------|------------------|
+|--------|-------------------|
 | **Leadership** | Strategic Roadmap Planning, Resource Modeling, Agile/Scrum (Registered Scrum Basics™) |
 | **AI & LLM** | Anthropic MCP, Google Gemini, Prompt Engineering, AI Agent Architecture |
 | **Automation** | Rest Assured, Postman, Selenium, Java, Python, SQL |
@@ -38,128 +38,120 @@ I move beyond traditional "testing" to build **Quality Intelligence Systems**. M
 
 ---
 
-## 📂 Featured Impact Projects
+## 📂 Latest Projects & Innovation Portfolio
 
-### 1. [Customer Support Agent](https://github.com/darshil0/customer-support-agent)
+### 🤖 AI Agent & Automation Systems
 
+#### 1. [Customer Support Agent](https://github.com/darshil0/customer-support-agent)
 A production-ready, intelligent customer support solution built with Google Agent Development Kit (ADK) for Java, showcasing enterprise-grade multi-agent orchestration and robust tooling.
 
 **Key Features:**
-- Multi-agent orchestration for complex customer inquiries
-- Enterprise-grade reliability and scalability
-- Integrated tooling for seamless support workflows
+* Multi-agent orchestration for complex customer queries
+* Enterprise-grade architecture with production-ready patterns
+* Robust tooling and monitoring capabilities
 
-**Technology Stack:** TypeScript, Google Agent Development Kit (ADK), Java
+**Tech Stack:** TypeScript, Google ADK, Java
 
 ---
 
-### 2. [Gemini Omni Suite](https://github.com/darshil0/Gemini-Omni-Suite)
-
-A multi-modal AI workspace built with React and Google Gemini 2.5. Features an Intelligent Email Agent, Generative Image Editor, and Real-time Live Voice Assistant wrapped in a modern glassmorphic UI.
+#### 2. [Gemini Omni Suite](https://github.com/darshil0/Gemini-Omni-Suite)
+A multi-modal AI workspace built with React and Google Gemini 2.5, featuring an Intelligent Email Agent, Generative Image Editor, and Real-time Live Voice Assistant wrapped in a modern glassmorphic UI.
 
 **Key Features:**
-- Intelligent Email Agent for automated correspondence
-- Generative Image Editor with AI-powered editing capabilities
-- Real-time Live Voice Assistant for interactive conversations
-- Modern glassmorphic UI design
+* Intelligent Email Agent with context-aware responses
+* Generative Image Editor powered by Gemini Vision
+* Real-time Live Voice Assistant
+* Modern glassmorphic UI design
 
-**Technology Stack:** TypeScript, React, Google Gemini 2.5, RAG Architecture
+**Tech Stack:** TypeScript, React, Google Gemini 2.5
 
 ---
 
-### 3. [Gemini PDF Retrieval Agent (DocuSearch)](https://github.com/darshil0/gemini-pdf-retrieval-agent)
-
+#### 3. [Gemini PDF Retrieval Agent](https://github.com/darshil0/gemini-pdf-retrieval-agent)
 An intelligent document search engine powered by Google Gemini 2.5. Upload multiple PDFs, perform context-aware keyword searches, and jump to exact page citations with a built-in viewer.
 
 **Key Features:**
-- Multi-PDF upload and processing
-- Context-aware keyword search across documents
-- Exact page citation with integrated PDF viewer
-- Optimized for medical and regulatory documentation
+* Context-aware semantic search across multiple documents
+* Exact page citation with built-in PDF viewer
+* Real-time document processing and indexing
+* Advanced retrieval and ranking algorithms
 
-**Technology Stack:** TypeScript, Google Gemini 2.5, PDF Processing, RAG
+**Tech Stack:** TypeScript, Google Gemini 2.5, RAG Architecture
 
 ---
 
-### 4. [AI Evaluation QA Framework](https://github.com/darshil0/AI-Evaluation-QA)
+### 🔬 Quality Engineering & Testing Frameworks
 
-A production-grade framework for evaluating AI model responses through structured prompts, rubric-based scoring, and automated reporting. This project applies enterprise quality assurance methodologies to large language model outputs.
+#### 4. [AI Evaluation QA Framework](https://github.com/darshil0/AI-Evaluation-QA)
+A production-grade framework for evaluating AI model responses through structured prompts, rubric-based scoring, and automated reporting. This project applies enterprise quality assurance methodologies to AI systems.
 
 **Key Features:**
-- Structured prompt evaluation system
-- Rubric-based scoring for objective assessment
-- Automated reporting and analytics
-- Quality metrics for AI/LLM responses
+* Structured evaluation prompts with rubric-based scoring
+* Automated report generation and analytics
+* Extensible framework for multiple AI models
+* Enterprise QA methodologies applied to AI
+
+**Tech Stack:** Python, AI Evaluation Frameworks
+
+---
+
+### 🚀 Full-Stack Applications
+
+#### 5. [Flight Tracker App](https://github.com/darshil0/flighttrackerapp)
+A minimalistic and elegant flight tracking application demonstrating clean architecture and user-centered design principles.
+
+**Key Features:**
+* Real-time flight status tracking
+* Clean, intuitive user interface
+* Responsive design for mobile and desktop
+
+**Tech Stack:** TypeScript
+
+---
+
+#### 6. [AI Prompts 2025](https://github.com/darshil0/ai-prompts-2025)
+A curated collection of production-ready AI prompts and prompt engineering patterns for healthcare and enterprise applications.
+
+**Key Features:**
+* Healthcare-specific prompt templates
+* Compliance-aware prompt engineering patterns
+* Tested and validated prompts for enterprise use
+
+**Tech Stack:** HTML, Markdown
+
+---
+
+## 💡 Featured Impact Projects
+
+### AI-Powered Clinical Validation System
+Pioneered the use of LLMs to validate complex medical data sets against HIPAA standards, transforming how healthcare systems ensure compliance at scale.
+
+**Results:**
+* Improved patient wait times by 30% by accelerating SIT and E2E test cycles
+* Enhanced accuracy in detecting compliance violations before production
+* Reduced manual validation effort by 60%
 
 **Technology Stack:** Python, LLM Frameworks, SQL, AWS
-
----
-
-### 5. [AI Financial Auditor (FinAnalyzer Pro)](https://github.com/darshil0/ai-financial-auditor)
-
-An institutional-grade financial intelligence platform that transforms complex corporate earnings PDFs into structured, actionable insights using Gemini 3 Pro. Features advanced multimodal reasoning for extracting key financial metrics, sentiment analysis, and comparative benchmarking capabilities.
-
-**Key Features:**
-- Gemini 3 Pro extraction engine for Revenue, Net Income, EPS, and Margins with forensic precision
-- Narrative sentiment analysis with 0-100 Bullishness scoring and interactive gauges
-- Market grounding integration with real-time Google Search tools
-- Side-by-side comparative hub with baseline and benchmark indicators
-- Universal ticker intelligence with keyboard-first navigation
-- Built-in UI diagnostics suite for responsive layout verification
-
-**Technology Stack:** TypeScript, React 19, Google Gemini 3 Pro, Recharts, Tailwind CSS
-
----
-
-### 6. [Flight Tracker App](https://github.com/darshil0/flighttrackerapp)
-
-A minimalistic flight tracking application demonstrating clean UI/UX principles and real-time data integration.
-
-**Key Features:**
-- Real-time flight status tracking
-- Minimalistic and intuitive interface
-- Responsive design for mobile and desktop
-
-**Technology Stack:** TypeScript, React
-
----
-
-### 7. [AI Prompts 2025 Collection](https://github.com/darshil0/ai-prompts-2025)
-
-A curated collection of production-ready AI prompts for various use cases, including quality assurance, testing, and healthcare compliance workflows.
-
-**Key Features:**
-- Production-tested prompt templates
-- Healthcare and compliance-focused examples
-- Prompt engineering best practices
-
-**Technology Stack:** HTML, Markdown
-
----
-
-### 🔗 Additional Projects
-
-Explore my complete portfolio of 20+ repositories on [GitHub](https://github.com/darshil0?tab=repositories), including automation frameworks, testing tools, and AI experimentation projects.
 
 ---
 
 ## 🎓 2025 Learning Path & Advanced Certifications
 
 **AI & Agentic Systems:**
-- Introduction to MCP (Anthropic) | Oct 2025
-- AI Fluency Framework & Foundations (Anthropic) | Aug 2025
-- Becoming an AI Agent Architect (IBM) | Jul 2025
-- ChatGPT Prompt Engineering for Developers (Coursera) | Jul 2025
-- Generative AI in Action (IBM) | Jun 2025
+* Introduction to MCP (Anthropic) | Oct 2025
+* AI Fluency Framework & Foundations (Anthropic) | Aug 2025
+* Becoming an AI Agent Architect (IBM) | Jul 2025
+* ChatGPT Prompt Engineering for Developers (Coursera) | Jul 2025
+* Generative AI in Action (IBM) | Jun 2025
 
 **Cloud & MLOps:**
-- AWS Cloud Practitioner Essentials (AWS) | May 2025
-- MLOps for Generative AI (Google) | Jun 2025
-- Microsoft Copilot Foundations (Microsoft) | Jun 2025
+* AWS Cloud Practitioner Essentials (AWS) | May 2025
+* MLOps for Generative AI (Google) | Jun 2025
+* Microsoft Copilot Foundations (Microsoft) | Jun 2025
 
 **Agile Leadership:**
-- Registered Scrum Basics™ (Scrum Inc.) | Aug 2025
-- Generative AI for Project Managers (PMI) | Mar 2025
+* Registered Scrum Basics™ (Scrum Inc.) | Aug 2025
+* Generative AI for Project Managers (PMI) | Mar 2025
 
 ---
 
@@ -168,29 +160,30 @@ Explore my complete portfolio of 20+ repositories on [GitHub](https://github.com
 **Empathy, Integrity, and Transparent Communication** define my leadership approach. At Accenture, I transformed QA delivery for Fortune 500 healthcare clients, earning awards for both leadership excellence and technical innovation.
 
 **Core Beliefs:**
-- Quality engineering is a strategic business enabler, not a cost center
-- Teams perform best when mentored with empathy and equipped with cutting-edge tools
-- Healthcare technology requires zero-compromise approaches to patient safety
-- AI augments human expertise but never replaces human judgment in safety-critical systems
+* Quality engineering is a strategic business enabler, not a cost center
+* Teams perform best when mentored with empathy and equipped with cutting-edge tools
+* Healthcare technology requires zero-compromise approaches to patient safety
+* AI augments human expertise but never replaces human judgment in safety-critical systems
 
 ---
 
 ## 🏆 Key Achievements
 
-- Delivered **40% reduction in patient care costs** through shift-left and risk-based testing methodologies
-- Led **Fortune 500 healthcare transformations** at Accenture with measurable clinical and operational impact
-- Pioneered **AI-powered testing frameworks** using LLMs and generative AI to enhance accuracy and scalability
-- Built and scaled **global QA teams** of 15+ professionals across multiple time zones
-- Achieved **100% compliance rates** across HIPAA, FDA, and ISO audits for safety-critical healthcare systems
+* Delivered **40% reduction in patient care costs** through shift-left and risk-based testing methodologies
+* Led **Fortune 500 healthcare transformations** at Accenture with measurable clinical and operational impact
+* Pioneered **AI-powered testing frameworks** using LLMs and generative AI to enhance accuracy and scalability
+* Built and scaled **global QA teams** of 15+ professionals across multiple time zones
+* Achieved **100% compliance rates** across HIPAA, FDA, and ISO audits for safety-critical healthcare systems
 
 ---
 
 ## 🤝 Connect & Collaborate
 
-- **Location:** Dallas / Irving, TX (Open to Remote)
-- **Status:** 🇺🇸 U.S. Citizen | 🚀 Immediate Joiner
-- **LinkedIn:** [Connect with me](https://linkedin.com/in/darshilshah)
-- **Email:** [darshils99@gmail.com](mailto:darshils99@gmail.com)
+* **Location:** Dallas / Irving, TX (Open to Remote)
+* **Status:** 🇺🇸 U.S. Citizen | 🚀 Immediate Joiner
+* **LinkedIn:** [Connect with me](https://linkedin.com/in/darshil-qa-lead)
+* **X (Twitter):** [@soulsurfer300](https://x.com/soulsurfer300)
+* **Email:** darshils99@gmail.com
 
 ---
 
@@ -199,6 +192,14 @@ Explore my complete portfolio of 20+ repositories on [GitHub](https://github.com
 I'm seeking leadership opportunities where I can drive quality transformation at scale in healthcare technology. Whether you're building compliant-by-design systems, modernizing legacy healthcare infrastructure, or pioneering AI-driven clinical solutions, let's collaborate to create safer, smarter healthcare innovation.
 
 **Ideal Roles:** QA Lead, Functional QA Engineer, UAT Tester, UAT Test Lead, E2E Test Lead, Project Management Entry level with QA experience, AI Consultant, Prompt Engineer
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical)
 
 ---
 

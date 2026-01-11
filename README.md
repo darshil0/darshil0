@@ -92,12 +92,9 @@ A curated collection of production-ready AI prompts and prompt engineering patte
 ---
 
 ## 🎓 Certifications & Continuous Learning (2025-2026)
-
-**AI Architect:** Anthropic MCP Foundations | IBM AI Agent Architect | MLOps for Gen-AI (Google)
-
-**Cloud/Tools:** AWS Cloud Practitioner | Microsoft Copilot Foundations
-
-**Leadership:** Registered Scrum Basics™ (Scrum Inc.) | Gen-AI for Project Managers (PMI)
+AI Architect:** Anthropic MCP Foundations | IBM AI Agent Architect | MLOps for Gen-AI (Google)
+Cloud/Tools:** AWS Cloud Practitioner | Microsoft Copilot Foundations
+Leadership:** Registered Scrum Basics™ (Scrum Inc.) | Gen-AI for Project Managers (PMI)
 
 ---
 

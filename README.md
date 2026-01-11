@@ -13,7 +13,7 @@
 
 Senior QA Leader with a proven track record of transforming delivery for **Fortune 500 healthcare clients** at Accenture. I architect quality ecosystems where AI-driven automation meets stringent regulatory compliance (**HIPAA, FDA, ISO**), preventing patient safety risks while driving measurable business impact.
 
-**2026 Focus:** Scaling AI Agent Architecture and MCP (Model Context Protocol) integration to automate the full Software Testing Life Cycle (STLC).
+**2026 Focus:** Advancing AI testing methodologies including model evaluation, prompt engineering, AI agent optimization, and agent-assisted coding to push the boundaries of healthcare QA. Focusing on creating both single model and multi model agents.
 
 ---
 
@@ -116,14 +116,6 @@ I believe QA is a strategic business enabler, not a cost center. In healthcare, 
 * 💼 **LinkedIn:** [linkedin.com/in/darshil-qa-lead](https://linkedin.com/in/darshil-qa-lead)
 * 📧 **Email:** darshils99@gmail.com
 * 🐦 **X/Twitter:** [@soulsurfer300](https://x.com/soulsurfer300)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical)
 
 ---
 

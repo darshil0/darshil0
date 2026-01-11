@@ -5,7 +5,7 @@
 ---
 
 ## 📍 Quick Links
-[Experience](#-executive-summary) • [Tech Stack](#-technical-ecosystem--mastery) • [AI Portfolio](#-latest-projects--innovation-portfolio) • [Leadership](#-leadership-philosophy) • [Connect](#-connect--collaborate)
+[Experience](#-executive-summary) • [Tech Stack](#️-technical-ecosystem--mastery) • [AI Portfolio](#-latest-projects--innovation-portfolio) • [Leadership](#-leadership-philosophy) • [Connect](#-connect--collaborate)
 
 ---
 
@@ -37,21 +37,47 @@ Senior QA Leader with a proven track record of transforming delivery for **Fortu
 
 #### [1. Customer Support Agent](https://github.com/darshil0/customer-support-agent)
 **Tech:** TypeScript, Google ADK, Java
+
 Production-ready multi-agent orchestration solution built with Google ADK. Features complex query handling and enterprise-grade monitoring.
+
+---
 
 #### [2. Gemini Omni Suite](https://github.com/darshil0/Gemini-Omni-Suite)
 **Tech:** TypeScript, React, Google Gemini 2.5
+
 Multi-modal AI workspace featuring an Intelligent Email Agent, Generative Image Editor, and Live Voice Assistant with a glassmorphic UI.
+
+---
 
 #### [3. Gemini PDF Retrieval Agent](https://github.com/darshil0/gemini-pdf-retrieval-agent)
 **Tech:** TypeScript, RAG Architecture, Google Gemini 2.5
+
 Semantic search engine for PDFs. Allows users to jump to exact page citations using advanced retrieval and ranking algorithms.
+
+---
 
 ### 🔬 Quality Engineering & Testing Frameworks
 
 #### [4. AI Evaluation QA Framework](https://github.com/darshil0/AI-Evaluation-QA)
 **Tech:** Python, AI Eval Frameworks
+
 A production-grade system for evaluating LLM responses via rubric-based scoring and automated reporting. *Applying enterprise QA to the AI frontier.*
+
+---
+
+### 🚀 Full-Stack Applications
+
+#### [5. Flight Tracker App](https://github.com/darshil0/flighttrackerapp)
+**Tech:** TypeScript
+
+A minimalistic and elegant flight tracking application demonstrating clean architecture and user-centered design principles.
+
+---
+
+#### [6. AI Prompts 2025](https://github.com/darshil0/ai-prompts-2025)
+**Tech:** HTML, Markdown
+
+A curated collection of production-ready AI prompts and prompt engineering patterns for healthcare and enterprise applications.
 
 ---
 
@@ -67,15 +93,18 @@ A production-grade system for evaluating LLM responses via rubric-based scoring 
 
 ## 🎓 Certifications & Continuous Learning (2025-2026)
 
-* **AI Architect:** Anthropic MCP Foundations | IBM AI Agent Architect | MLOps for Gen-AI (Google)
-* **Cloud/Tools:** AWS Cloud Practitioner | Microsoft Copilot Foundations
-* **Leadership:** Registered Scrum Basics™ (Scrum Inc.) | Gen-AI for Project Managers (PMI)
+**AI Architect:** Anthropic MCP Foundations | IBM AI Agent Architect | MLOps for Gen-AI (Google)
+
+**Cloud/Tools:** AWS Cloud Practitioner | Microsoft Copilot Foundations
+
+**Leadership:** Registered Scrum Basics™ (Scrum Inc.) | Gen-AI for Project Managers (PMI)
 
 ---
 
 ## 💡 Leadership Philosophy
 
 **Empathy, Integrity, and Transparent Communication.**
+
 I believe QA is a strategic business enabler, not a cost center. In healthcare, "quality" isn't just a metric—it's patient safety. I build teams that leverage AI to handle the mundane, allowing human expertise to focus on critical safety judgment.
 
 ---
@@ -90,10 +119,12 @@ I believe QA is a strategic business enabler, not a cost center. In healthcare, 
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical)
 
 ---
+
 *"I lead QA teams that do far more than find bugs—we prevent patient safety risks and drive measurable business impact."*

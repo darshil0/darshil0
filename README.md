@@ -11,9 +11,14 @@
 
 ## 🚀 Executive Summary
 
+**Test Lead | Healthcare QA Specialist | AI Tester | AWS Certified | MBA | 9+ Years Experience**  
+**Ex: Accenture, Infosys, Prime Therapeutics, Kaiser Permanente**
+
 Senior QA Leader with a proven track record of transforming delivery for **Fortune 500 healthcare clients** at Accenture. I architect quality ecosystems where AI-driven automation meets stringent regulatory compliance (**HIPAA, FDA, ISO**), preventing patient safety risks while driving measurable business impact.
 
 **2026 Focus:** Advancing AI testing methodologies including model evaluation, prompt engineering, AI agent optimization, and agent-assisted coding to push the boundaries of healthcare QA. Focusing on creating both single model and multi-model agent architectures.
+
+**Current Status:** 🇺🇸 U.S. Citizen | 🚀 Immediate Joiner | 📍 Dallas/Irving, TX (Open to Remote)
 
 ### 🎯 GitHub Stats & Activity
 ![Profile Views](https://komarev.com/ghpvc/?username=darshil0&color=blue)
@@ -23,6 +28,41 @@ Senior QA Leader with a proven track record of transforming delivery for **Fortu
 ---
 
 ## 🛠️ Technical Ecosystem & Mastery
+
+### 💻 Technology Stack
+
+<div align="center">
+
+#### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### AI & Machine Learning
+![Anthropic](https://img.shields.io/badge/Anthropic_MCP-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+#### Web Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+### 📋 Detailed Skill Matrix
 
 | Category | Skills & Technologies |
 | :--- | :--- |
@@ -39,6 +79,8 @@ Senior QA Leader with a proven track record of transforming delivery for **Fortu
 - 🦈 **Pull Shark** - Active contributor with quality pull requests
 - 🌟 **45 Followers** - Growing professional network
 - 📊 **20 Public Repositories** - Active open-source contributor
+- 🎓 **MBA** - Business & Healthcare Technology Leadership
+- ⏰ **9+ Years Experience** - Ex: Accenture, Infosys, Prime Therapeutics, Kaiser Permanente
 
 ---
 
@@ -125,6 +167,27 @@ A curated collection of production-ready AI prompts and prompt engineering patte
 - Enterprise compliance considerations
 - Prompt optimization patterns
 - Real-world use case examples
+
+---
+
+## 💼 Professional Journey & Impact
+
+### 🏥 Healthcare QA Leadership
+**Test Lead | Healthcare QA Specialist | AI Tester**
+*9+ Years Experience*
+
+Led quality transformation initiatives across multiple Fortune 500 healthcare organizations, with specialized focus on EHR/EMR systems, clinical validation, and regulatory compliance.
+
+**Key Organizations:**
+- **Accenture** - Led global QA teams for Fortune 500 healthcare clients
+- **Infosys** - Healthcare systems integration and testing
+- **Prime Therapeutics** - Pharmacy benefits management systems
+- **Kaiser Permanente** - Integrated healthcare delivery systems
+
+### 🎓 Education & Credentials
+- **MBA** - Business & Healthcare Technology Leadership
+- **AWS Certified** - Cloud Practitioner
+- **Scrum Basics™ Registered** - Agile Leadership
 
 ---
 
@@ -222,13 +285,18 @@ I believe QA is a strategic business enabler, not a cost center. In healthcare, 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Contributions
 
 <div align="center">
 
-![Darshil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+
+### 📊 Contribution Activity
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshil0&theme=github-dark&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
 
 </div>
 

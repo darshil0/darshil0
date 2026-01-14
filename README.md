@@ -77,8 +77,8 @@ Senior QA Leader with a proven track record of transforming delivery for **Fortu
 ### 🏅 Badges & Achievements
 - 🎖️ **YOLO Badge** - Merged code on first day
 - 🦈 **Pull Shark** - Active contributor with quality pull requests
-- 🌟 **45 Followers** - Growing professional network
-- 📊 **20 Public Repositories** - Active open-source contributor
+- 🌟 **79 Followers** - Growing professional network
+- 📊 **25 Public Repositories** - Active open-source contributor
 - 🎓 **MBA** - Business & Healthcare Technology Leadership
 - ⏰ **9+ Years Experience** - Ex: Accenture, Infosys, Prime Therapeutics, Kaiser Permanente
 

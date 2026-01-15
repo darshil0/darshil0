@@ -98,13 +98,3 @@ Senior QA Leader specializing in quality ecosystems for **Fortune 500 healthcare
 </div>
 
 ---
-
-## 📊 GitHub Performance
-
-<div align="center">
-
-**Last Updated:** January 2026
-
-</div>
-
----

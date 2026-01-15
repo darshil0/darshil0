@@ -86,15 +86,3 @@ Senior QA Leader specializing in quality ecosystems for **Fortune 500 healthcare
 * **MLOps for Generative AI** – Google Cloud
 * **AWS Certified Cloud Practitioner** – Amazon Web Services
 * **Registered Scrum Basics™** – Scrum Inc.
-
----
-
-## 🤝 Connect & Collaborate
-
-<div align="center">
-
-**📍 Dallas / Irving, TX** | **CST Time Zone** | **U.S. Citizen**
-
-</div>
-
----

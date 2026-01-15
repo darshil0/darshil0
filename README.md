@@ -6,21 +6,19 @@
 
 ## 📍 Quick Links
 
-[Executive Summary](https://www.google.com/search?q=%23-executive-summary) • [Technical Ecosystem](https://www.google.com/search?q=%23-technical-ecosystem--mastery) • [Innovation Portfolio](https://www.google.com/search?q=%23-latest-projects--innovation-portfolio) • [Key Achievements](https://www.google.com/search?q=%23-key-achievements--impact) • [Connect](https://www.google.com/search?q=%23-connect--collaborate)
+[Summary](https://www.google.com/search?q=%23-executive-summary) • [Tech Stack](https://www.google.com/search?q=%23-technical-ecosystem--mastery) • [AI Portfolio](https://www.google.com/search?q=%23-latest-projects--innovation-portfolio) • [Achievements](https://www.google.com/search?q=%23-key-achievements--impact) • [Leadership](https://www.google.com/search?q=%23-leadership-philosophy) • [Connect](https://www.google.com/search?q=%23-connect--collaborate)
 
 ---
 
 ## 🚀 Executive Summary
 
-**Test Lead | Healthcare QA Specialist | AI Architect | AWS Certified | MBA** **9+ Years Experience | Ex: Accenture, Infosys, Prime Therapeutics, Kaiser Permanente**
+**QA Lead | Healthcare Specialist | AI Architect | AWS Certified | MBA | 9+ Years Experience** **Ex: Accenture, Infosys, Prime Therapeutics, Kaiser Permanente**
 
-Senior QA Leader with a proven track record of transforming delivery for **Fortune 500 healthcare clients**. I architect quality ecosystems where AI-driven automation meets stringent regulatory compliance (**HIPAA, FDA, ISO**), mitigating patient safety risks while driving measurable business impact.
+Senior QA Leader specializing in quality ecosystems for **Fortune 500 healthcare clients**. I bridge the gap between AI-driven automation and stringent regulatory compliance (**HIPAA, FDA, ISO**), ensuring patient safety while accelerating delivery velocity.
 
-**2026 Vision:** Advancing "Quality Assistance" via multi-model agent architectures, Model Context Protocol (MCP) integrations, and automated clinical validation frameworks.
+**2026 Focus:** Advancing AI testing methodologies including model evaluation (LLM-as-a-judge), Anthropic Model Context Protocol (MCP) integrations, and multi-modal agent architectures for clinical environments.
 
-**Current Status:** 🇺🇸 U.S. Citizen | 🚀 Immediate Joiner | 📍 Dallas/Irving, TX (Open to Remote)
-
-### 🎯 GitHub Impact
+**Status:** 🇺🇸 U.S. Citizen | 🚀 Immediate Joiner | 📍 Dallas/Irving, TX (Open to Remote)
 
 ---
 
@@ -28,23 +26,14 @@ Senior QA Leader with a proven track record of transforming delivery for **Fortu
 
 ### 💻 Technology Stack
 
-<div align="center">
-
-| **Domain** | **Technologies & Tools** |
+| Category | Tools & Technologies |
 | --- | --- |
-| **Languages** |  |
-| **AI & LLM** |  |
-| **Cloud/DevOps** |  |
-| **Testing** |  |
-
-</div>
-
-### 📋 Detailed Skill Matrix
-
-* **Leadership:** Strategic Roadmap Planning, Resource Modeling, Agile/Scrum, Mentorship.
-* **AI/ML:** Anthropic MCP, Google Gemini 2.0/Flash, RAG Systems, AI Agent Orchestration.
-* **Compliance:** HIPAA, FDA 21 CFR Part 11, ADA Accessibility, EHR/EMR Integration.
-* **Automation:** Rest Assured, Selenium, PyTest, CI/CD Pipeline Integration.
+| **Languages** | Python, Java, TypeScript, SQL, Node.js, HTML5/CSS3 |
+| **AI & LLM** | Anthropic MCP, Google Gemini 2.0 (Flash/Pro), RAG, Prompt Engineering, OpenAI API |
+| **Automation** | Selenium, Rest Assured, Postman, PyTest, Playwright |
+| **Cloud & DevOps** | AWS (Certified), Azure, Docker, Git, CI/CD Pipelines, MLOps |
+| **Healthcare Tech** | EHR/EMR Integration, HIPAA Compliance, FDA 21 CFR Part 11, ISO Standards |
+| **Management** | JIRA, Confluence, TestRail, Agile/Scrum, Resource Modeling |
 
 ---
 
@@ -52,56 +41,51 @@ Senior QA Leader with a proven track record of transforming delivery for **Fortu
 
 ### 🤖 AI Agent & Automation Systems
 
-1. **[Customer Support Agent](https://github.com/darshil0/customer-support-agent)**
-* **Tech:** TypeScript, Google ADK, Java.
-* Multi-agent orchestration solution built with Google Agent Development Kit featuring intelligent routing and enterprise-grade monitoring.
+#### 1. [Customer Support Agent](https://github.com/darshil0/customer-support-agent)
 
+* **Tech:** TypeScript, Google ADK, Java
+* Multi-agent orchestration solution featuring complex query handling and enterprise-grade monitoring. Demonstrates scalable agent architecture for high-stakes support environments.
 
-2. **[Gemini Omni Suite](https://github.com/darshil0/Gemini-Omni-Suite)**
-* **Tech:** TypeScript, React, Google Gemini.
-* A glassmorphic UI workspace featuring an Intelligent Email Agent, Image Editor, and Live Voice Assistant.
+#### 2. [Gemini Omni Suite](https://github.com/darshil0/Gemini-Omni-Suite)
 
+* **Tech:** TypeScript, React, Google Gemini 2.0
+* Multi-modal AI workspace with an Intelligent Email Agent, Image Editor, and Live Voice Assistant. Focuses on production-ready AI integration and accessible UI/UX.
 
-3. **[Gemini PDF Retrieval Agent](https://github.com/darshil0/gemini-pdf-retrieval-agent)**
-* **Tech:** RAG Architecture, TypeScript.
-* Semantic search engine for healthcare/legal PDFs with exact page-citation capabilities.
+#### 3. [Gemini PDF Retrieval Agent](https://github.com/darshil0/gemini-pdf-retrieval-agent)
 
+* **Tech:** RAG Architecture, TypeScript, Gemini 2.0
+* Semantic search engine for document-heavy industries. Features exact page-citation algorithms, crucial for medical and legal compliance audits.
 
-4. **[AI Evaluation QA Framework](https://github.com/darshil0/AI-Evaluation-QA)**
-* **Tech:** Python, LLM APIs.
-* Systematic rubric-based scoring for LLM responses, ensuring output reliability in safety-critical sectors.
+#### 4. [AI Evaluation QA Framework](https://github.com/darshil0/AI-Evaluation-QA)
 
-
+* **Tech:** Python, LLM-as-a-judge patterns
+* Systematic rubric-based scoring for LLM outputs. This framework enables deterministic testing of non-deterministic AI models.
 
 ---
 
 ## 🏆 Key Achievements & Impact
 
-### 📈 Business & Financial Impact
+### 💰 Cost & Efficiency
 
-* **40% reduction in patient care costs** by implementing Shift-Left and Risk-Based Testing.
-* **60% reduction in manual validation effort** through AI-augmented automation frameworks.
-* **30% improvement in patient wait times** via streamlined E2E QA workflows.
+* **40% reduction in care costs** via Shift-Left and Risk-Based Testing (RBT).
+* **60% reduction in manual effort** through custom AI-powered validation frameworks.
+* **30% improvement in wait times** by optimizing E2E clinical workflows.
 
-### 🛡️ Compliance & Safety
+### 👥 Leadership & Compliance
 
-* **100% Audit Success:** Maintained flawless compliance records for HIPAA and FDA audits.
-* **Pre-Production Guardrails:** Developed LLM-based clinical validation to catch data violations before they reach production.
-
-### 👥 Leadership Excellence
-
-* **Global Scale:** Managed and mentored diverse teams of **15+ engineers** across multiple time zones.
-* **Innovation Champion:** Established the internal "AI in QA" center of excellence at Accenture.
+* **Global Leadership:** Managed teams of **15+ engineers** at Accenture.
+* **Regulatory Excellence:** Maintained **100% compliance** across HIPAA/FDA audits for safety-critical systems.
+* **Innovation:** Developed proprietary AI architectures for clinical documentation validation.
 
 ---
 
-## 🎓 Certifications & Professional Journey
+## 🎓 Certifications (2025-2026)
 
-* **MBA** - Business & Healthcare Technology Leadership
-* **AWS Certified** Cloud Practitioner
-* **Registered Scrum Basics™** - Agile Leadership
-* **Anthropic** - Introduction to MCP (2025)
-* **IBM** - AI Agent Architect (2025)
+* **AI Agent Architect** – IBM
+* **Anthropic MCP Foundations** – Anthropic
+* **MLOps for Generative AI** – Google Cloud
+* **AWS Certified Cloud Practitioner** – Amazon Web Services
+* **Registered Scrum Basics™** – Scrum Inc.
 
 ---
 
@@ -109,16 +93,18 @@ Senior QA Leader with a proven track record of transforming delivery for **Fortu
 
 <div align="center">
 
-**Dallas / Irving, TX (CST) | Open to Remote Opportunities**
+**📍 Dallas / Irving, TX** | **CST Time Zone** | **U.S. Citizen**
 
 </div>
 
 ---
 
-## 📊 Activity & Statistics
+## 📊 GitHub Performance
 
 <div align="center">
 
-*"I lead QA teams that do more than find bugs—we enable innovation and ensure patient safety."*
+**Last Updated:** January 2026
 
 </div>
+
+---

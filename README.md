@@ -80,7 +80,7 @@ Senior QA Leader with a proven track record of transforming delivery for **Fortu
 - 🌟 **79 Followers** - Growing professional network
 - 📊 **25 Public Repositories** - Active open-source contributor
 - 🎓 **MBA** - Business & Healthcare Technology Leadership
-- ⏰ **9+ Years Experience** - Ex: Accenture, Infosys, Prime Therapeutics, Kaiser Permanente
+- ⏰ **9+ Years Experience** - Ex: Accenture, Infosys, Kaiser Permanente, Prime Therapeutics 
 
 ---
 

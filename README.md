@@ -2,13 +2,7 @@
 
 **Transforming Healthcare Quality through AI-Driven Engineering & Regulatory Compliance**
 
----
 
-## 📍 Quick Links
-
-[Summary](https://www.google.com/search?q=%23-executive-summary) • [Tech Stack](https://www.google.com/search?q=%23-technical-ecosystem--mastery) • [AI Portfolio](https://www.google.com/search?q=%23-latest-projects--innovation-portfolio) • [Achievements](https://www.google.com/search?q=%23-key-achievements--impact) • [Leadership](https://www.google.com/search?q=%23-leadership-philosophy) • [Connect](https://www.google.com/search?q=%23-connect--collaborate)
-
----
 
 ## 🚀 Executive Summary
 

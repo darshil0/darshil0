@@ -77,56 +77,6 @@ Comprehensive testing architecture built for enterprise healthcare applications.
 
 ---
 
-## 🚀 Featured Testing Projects & Frameworks
-
-### 🧪 [Healthcare Test Automation Framework](https://github.com/darshil0/test-automation-framework)
-**The Challenge:** Manual regression testing consuming 40% of release cycle time in HIPAA-compliant environments.
-
-**The Solution:** Enterprise-grade test automation framework with parallel execution, data-driven testing, and compliance reporting.
-
-- ✨ **Features:** 
-  - Page Object Model (POM) architecture
-  - Parallel test execution across browsers and environments
-  - HIPAA-compliant test data management
-  - Integrated CI/CD pipeline with Jenkins
-  - Comprehensive Allure reporting with compliance metrics
-- 🛠️ **Tech Stack:** `Selenium` • `Java` • `TestNG` • `Maven` • `Jenkins` • `Docker`
-- 📈 **Impact:** 60% reduction in regression testing time, 100% audit compliance
-
----
-
-### 📊 [API Testing Suite for Healthcare Systems](https://github.com/darshil0/api-testing-suite)
-**The Challenge:** Complex microservices architecture requiring comprehensive API validation and contract testing.
-
-**The Solution:** Scalable API testing framework with contract testing, performance validation, and automated security checks.
-
-- ✨ **Features:**
-  - RESTful and SOAP API testing
-  - Contract testing with Pact
-  - Performance benchmarking integration
-  - OAuth 2.0 and JWT token handling
-  - Automated security vulnerability scanning
-- 🛠️ **Tech Stack:** `REST Assured` • `Java` • `Karate` • `JMeter` • `Newman`
-- 📈 **Impact:** 95% API test coverage, early defect detection saving 200+ hours/month
-
----
-
-### 🔄 [CI/CD Quality Gates Framework](https://github.com/darshil0/cicd-quality-gates)
-**The Challenge:** Inconsistent quality checks across multiple deployment pipelines.
-
-**The Solution:** Standardized quality gates with automated testing, code coverage, and compliance validation.
-
-- ✨ **Features:**
-  - Multi-stage quality gates (unit, integration, E2E)
-  - Code coverage enforcement (80%+ threshold)
-  - Automated accessibility testing (WCAG 2.1)
-  - Security scanning integration
-  - Compliance checkpoint automation
-- 🛠️ **Tech Stack:** `GitLab CI/CD` • `SonarQube` • `OWASP ZAP` • `Cypress` • `Docker`
-- 📈 **Impact:** Zero production defects for 6 consecutive releases
-
----
-
 ## 📊 Professional Impact by the Numbers
 
 <div align="center">

@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🤖 Darshil Shah
+# 🎯 Darshil Shah
 
-### **AI Agent Architect | QA Engineering Leader | Healthcare Technologist**
+### **QA Engineering Leader | Test Automation Architect | Healthcare Quality Specialist**
 
-*"Engineering the intersection of Autonomous Agents and Enterprise-grade Healthcare Compliance."*
+*"Building scalable quality ecosystems where testing excellence meets healthcare compliance."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/soulsurfer300)
@@ -17,7 +17,7 @@
 
 #### ⚡ Quick Pulse
 
-**📍 Location:** Dallas, TX 🇺🇸 | **🎯 Current Focus:** MCP Integration & Agentic Workflows | **💡 Impact:** 40% Patient Care Cost Reduction
+**📍 Location:** Dallas, TX 🇺🇸 | **🎯 Current Focus:** Test Automation & Quality Engineering at Scale | **💡 Impact:** 60% Reduction in Manual Testing Effort
 
 </div>
 
@@ -25,71 +25,105 @@
 
 ## 🧬 Biography
 
-I am a **Senior AI Architect and QA Leader** with 9+ years of experience scaling quality ecosystems for Fortune 500 healthcare giants including Kaiser Permanente, Prime Therapeutics, Accenture, and Infosys.
+I am a **Senior QA Engineering Leader** with 9+ years of experience transforming quality assurance for Fortune 500 healthcare organizations including Kaiser Permanente, Prime Therapeutics, Accenture, and Infosys.
 
-My work focuses on **bridging the gap between non-deterministic AI and rigid regulatory frameworks.** I don't just build agents; I architect the validation layers that make them safe for clinical and enterprise environments.
+My expertise lies in **building enterprise-grade test automation frameworks, implementing shift-left testing strategies, and ensuring regulatory compliance** across complex healthcare systems. I architect quality ecosystems that balance speed, reliability, and compliance in mission-critical environments.
 
-**Core Expertise:** AI Agent Architecture • Healthcare Compliance Engineering • Functional Testing at Scale • MLOps & LLMOps
+**Core Expertise:** Test Automation Architecture • Functional Testing at Scale • Healthcare Compliance (HIPAA, FDA, ISO) • Shift-Left Quality Engineering • CI/CD Integration
 
 ---
 
-## 🏗️ The Agentic Stack (Current)
+## 🏗️ The QA Engineering Stack
 
-Following the evolution of LLMs, my current architecture focuses on **Model Context Protocol (MCP)** and multi-agent orchestration.
+Comprehensive testing architecture built for enterprise healthcare applications.
 
 | Layer | Technologies |
 |:---|:---|
-| **🎭 Orchestration** | Google ADK • LangChain • Anthropic MCP • AutoGen • LangGraph |
-| **🧠 Reasoning** | Gemini 2.5 Flash/Pro • Claude 3.5 Sonnet • GPT-4o • Claude Opus |
-| **✅ Validation** | RAGAS • DeepEval • Pytest • AI-Assisted Functional Testing |
-| **🏥 Compliance** | HIPAA • FDA 21 CFR Part 11 • ISO 13485 • GDPR |
-| **☁️ Infrastructure** | Vertex AI • AWS Bedrock • Docker • Kubernetes • Terraform |
-| **📊 Monitoring** | Langfuse • LangSmith • Prometheus • Grafana |
+| **🎯 Test Automation** | Selenium • Cypress • Playwright • Appium • Robot Framework |
+| **🧪 Testing Frameworks** | JUnit • TestNG • PyTest • Cucumber • REST Assured |
+| **🔄 API Testing** | Postman • SoapUI • REST Assured • Katalon • Insomnia |
+| **⚡ Performance Testing** | JMeter • LoadRunner • Gatling • K6 • BlazeMeter |
+| **🏥 Compliance Testing** | HIPAA Validation • FDA 21 CFR Part 11 • ISO 13485 • GDPR |
+| **☁️ CI/CD Integration** | Jenkins • GitLab CI/CD • GitHub Actions • Azure DevOps • CircleCI |
+| **📊 Test Management** | TestRail • Zephyr • JIRA • qTest • HP ALM |
+| **🤖 AI-Assisted Testing** | Test Case Generation • Self-Healing Tests • Visual Regression AI |
 
 <details>
 <summary>💻 <b>Full Technical Stack (Click to expand)</b></summary>
 
-### Programming & Frameworks
-`Python` • `TypeScript` • `JavaScript` • `Java` • `React` • `Node.js` • `FastAPI` • `Express.js`
+### Test Automation & Frameworks
+`Selenium WebDriver` • `Cypress` • `Playwright` • `Cucumber/BDD`
 
-### AI/ML Platforms
-`TensorFlow` • `PyTorch` • `Hugging Face` • `OpenAI API` • `Anthropic API` • `Google Gemini API` • `Vertex AI` • `Azure OpenAI`
+### API & Service Testing
+`REST Assured` • `Postman/Newman` • `SoapUI` • `Karate DSL` • `Pact (Contract Testing)` • `WireMock` • `MockServer`
 
-### Testing & QA
-`Selenium` • `Cypress` • `Playwright` • `Appium` • `JUnit` • `TestNG` • `Cucumber` • `REST Assured` • `Postman` • `JMeter` • `TestRail` • `JIRA` • `Zephyr`
+### Programming & Scripting
+`Java` • `Python` • `JavaScript/TypeScript` • `Groovy` • `SQL` • `Bash/Shell` • `PowerShell`
 
-### DevOps & Cloud
-`AWS` • `Google Cloud Platform` • `Azure` • `Jenkins` • `GitLab CI/CD` • `GitHub Actions` • `CircleCI` • `Terraform` • `Ansible`
 
-### Data & Databases
-`PostgreSQL` • `MongoDB` • `Redis` • `Pinecone` • `Weaviate` • `ChromaDB` • `SQL`
+### Test Management & Reporting
+`TestRail` • `Zephyr` • `qTest` • `HP ALM/Quality Center` • `JIRA` • `Allure Reports` • `ExtentReports`
+
+### Databases & Data Testing
+`SQL Server` • `PostgreSQL` • `MySQL` • `MongoDB` • `Oracle` • `Database Testing` • `Data Validation`
+
+### Mobile Testing
+`Appium` • `Espresso` • `XCUITest` • `Detox` • `Mobile Emulators/Simulators`
+
+### Emerging Technologies
+`AI-Powered Test Generation` • `Self-Healing Test Automation` • `Visual AI Testing` • `Test Data Management`
 
 </details>
 
 ---
 
-## 🚀 Featured AI Open-Source Projects
+## 🚀 Featured Testing Projects & Frameworks
 
-### 🤖 [Customer Support Agent](https://github.com/darshil0/customer-support-agent)
-**The Problem:** High-latency, disconnected support bots in enterprise settings.
+### 🧪 [Healthcare Test Automation Framework](https://github.com/darshil0/test-automation-framework)
+**The Challenge:** Manual regression testing consuming 40% of release cycle time in HIPAA-compliant environments.
 
-**The Solution:** A production-ready intelligent agent built with **Google ADK** showcasing multi-agent orchestration and real-time tool use.
+**The Solution:** Enterprise-grade test automation framework with parallel execution, data-driven testing, and compliance reporting.
 
-- ✨ **Features:** Multi-turn conversations, function calling, context management, enterprise-ready architecture
-- 🛠️ **Tech Stack:** `TypeScript` • `Google ADK` • `Vertex AI` • `Multi-Agent Systems`
-- 📈 **Impact:** Demonstrates production patterns for reliable AI agents
+- ✨ **Features:** 
+  - Page Object Model (POM) architecture
+  - Parallel test execution across browsers and environments
+  - HIPAA-compliant test data management
+  - Integrated CI/CD pipeline with Jenkins
+  - Comprehensive Allure reporting with compliance metrics
+- 🛠️ **Tech Stack:** `Selenium` • `Java` • `TestNG` • `Maven` • `Jenkins` • `Docker`
+- 📈 **Impact:** 60% reduction in regression testing time, 100% audit compliance
 
 ---
 
-### 🌌 [Gemini Omni Suite](https://github.com/darshil0/Gemini-Omni-Suite)
-**The Focus:** Multi-modal workflow automation across text, image, and voice.
+### 📊 [API Testing Suite for Healthcare Systems](https://github.com/darshil0/api-testing-suite)
+**The Challenge:** Complex microservices architecture requiring comprehensive API validation and contract testing.
 
-- ✨ **Features:** 
-  - Intelligent Email Agent with context-aware responses
-  - Generative Image Editor with natural language controls
-  - Real-time Voice Assistant with streaming capabilities
-- 🛠️ **Tech Stack:** `React` • `TypeScript` • `Gemini 2.5 API` • `Node.js` • `WebRTC`
-- 📈 **Impact:** Showcases multi-modal AI integration in production web apps
+**The Solution:** Scalable API testing framework with contract testing, performance validation, and automated security checks.
+
+- ✨ **Features:**
+  - RESTful and SOAP API testing
+  - Contract testing with Pact
+  - Performance benchmarking integration
+  - OAuth 2.0 and JWT token handling
+  - Automated security vulnerability scanning
+- 🛠️ **Tech Stack:** `REST Assured` • `Java` • `Karate` • `JMeter` • `Newman`
+- 📈 **Impact:** 95% API test coverage, early defect detection saving 200+ hours/month
+
+---
+
+### 🔄 [CI/CD Quality Gates Framework](https://github.com/darshil0/cicd-quality-gates)
+**The Challenge:** Inconsistent quality checks across multiple deployment pipelines.
+
+**The Solution:** Standardized quality gates with automated testing, code coverage, and compliance validation.
+
+- ✨ **Features:**
+  - Multi-stage quality gates (unit, integration, E2E)
+  - Code coverage enforcement (80%+ threshold)
+  - Automated accessibility testing (WCAG 2.1)
+  - Security scanning integration
+  - Compliance checkpoint automation
+- 🛠️ **Tech Stack:** `GitLab CI/CD` • `SonarQube` • `OWASP ZAP` • `Cypress` • `Docker`
+- 📈 **Impact:** Zero production defects for 6 consecutive releases
 
 ---
 
@@ -100,58 +134,55 @@ Following the evolution of LLMs, my current architecture focuses on **Model Cont
 | 🎯 Metric | 📈 Impact | 🔍 Context |
 |:---|:---|:---|
 | **Cost Reduction** | 40% reduction | Patient care costs through Shift-Left & Risk-Based Testing |
-| **Efficiency Gain** | 30% improvement | Patient wait times via streamlined functional workflows |
-| **Team Leadership** | 15+ engineers | Led global, high-performing QA teams across time zones |
+| **Testing Efficiency** | 60% reduction | Manual testing effort through comprehensive test automation |
+| **Defect Detection** | 85% reduction | Production defects via early-stage testing strategies |
+| **Test Coverage** | 95%+ coverage | Across critical healthcare workflows and APIs |
+| **Team Leadership** | 15+ engineers | Led global QA teams across multiple time zones |
 | **Compliance Rate** | 100% success | Audit pass rate across HIPAA, FDA, and ISO regulatory checks |
-| **Automation** | 60% reduction | Manual validation effort through AI-powered testing |
+| **Release Velocity** | 30% improvement | Time-to-market through optimized testing workflows |
 
 </div>
 
 ---
 
-## 📜 Continuous Innovation (Recent Certifications)
+## 📜 Professional Certifications
 
 | 📜 Certification | 🏢 Provider | 📅 Completed |
 |:---|:---|:---|
-| **Introduction to MCP** | Anthropic | October 2025 |
-| **AI Fluency Framework & Foundations** | Anthropic | August 2025 |
-| **Becoming an AI Agent Architect** | IBM | July 2025 |
-| **MLOps for Generative AI** | Google Cloud | June 2025 |
+| **ISTQB Advanced Test Automation Engineer** | ISTQB | *In Progress* |
+| **Certified Scrum Master (CSM)** | Scrum Alliance | *Planned Q2 2026* |
 | **Registered Scrum Basics™** | Scrum Inc. | August 2025 |
+| **AWS Certified Solutions Architect** | Amazon Web Services | *Planned Q3 2026* |
+| **AI Fluency Framework & Foundations** | Anthropic | August 2025 |
 
 ---
 
 ## 🧠 Leadership Philosophy
 
-> "Quality is no longer a gatekeeper; it is an accelerator. In the age of AI, the winner isn't the one who builds the fastest agent—it's the one who builds the most reliable one."
+> "Quality engineering is not a phase—it's a culture. The best QA leaders don't just find bugs; they build systems that prevent them from happening in the first place."
 
-**My Approach:**
-- **Empathy-Driven Leadership:** Teams perform best when mentored with understanding and equipped with cutting-edge tools
-- **Shift-Left Quality:** Integrate quality from design through deployment, not as an afterthought
-- **AI-Augmented Testing:** Leverage AI to amplify human expertise, not replace it
-- **Regulatory First:** Build compliance into the architecture, not bolt it on later
+**My Testing Approach:**
 
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshil0&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshil0&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=darshil0&theme=radical&hide_border=true)
-
-</div>
+- **Shift-Left Quality:** Integrate testing from requirements gathering through deployment, not as a bottleneck
+- **Risk-Based Testing:** Prioritize testing efforts based on business impact and regulatory requirements
+- **Test Automation Strategy:** Automate repetitive tasks, empower testers for exploratory and complex scenarios
+- **Compliance by Design:** Build regulatory validation into test frameworks, not as an afterthought
+- **Empathy-Driven Leadership:** Mentor QA engineers with understanding, foster innovation and continuous learning
+- **Data-Driven Decisions:** Use metrics and analytics to continuously improve quality processes
 
 ---
 
+## 🎓 Testing Expertise Areas
+**Functional Testing:** End-to-End Testing • Integration Testing • System Testing • User Acceptance Testing (UAT) • Smoke & Sanity Testing • Regression Testing
+**Non-Functional Testing:** Performance Testing • Load Testing • Stress Testing • Security Testing • Accessibility Testing (WCAG) • Usability Testing
+**Specialized Testing:** Healthcare Compliance Testing • Medical Device Software Testing • EHR/EMR Systems Testing • Pharmacy Management Systems • Claims Processing Validation
+**Methodologies:** Agile/Scrum Testing • BDD/TDD • Exploratory Testing • Risk-Based Testing • Continuous Testing • DevOps Quality Engineering
+
 <div align="center">
 
-## 🤝 Let's Architect the Future
+## 🤝 Let's Build Quality Excellence Together
 
-*Actively seeking **QA Leadership** & **AI Consulting** roles in Healthcare/Tech.*
+*Actively seeking **QA Leadership** & **Test Automation Architecture** roles in Healthcare/Tech.*
 
 **🇺🇸 U.S. Citizen** | **🚀 Immediate Availability** | **📍 Dallas/Irving, TX**
 

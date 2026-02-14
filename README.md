@@ -138,5 +138,3 @@ I'm actively seeking **QA Leadership** and **AI Consulting** opportunities in he
 **⭐ Star my repositories if you find them useful!**
 
 </div>
-
-```

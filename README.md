@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🎯 Darshil Shah
+# Darshil Shah
 
-### **QA Engineering Leader | Test Automation Architect | Healthcare Quality Specialist**
+### QA Engineering Leader · Test Automation Architect · Healthcare Quality Specialist
 
-*"Building scalable quality ecosystems where testing excellence meets healthcare compliance."*
+*Building scalable quality ecosystems where testing excellence meets healthcare compliance.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/soulsurfer300)
@@ -15,134 +15,174 @@
 
 ---
 
-#### ⚡ Quick Pulse
-
-**📍 Location:** Dallas, TX 🇺🇸 | **🎯 Current Focus:** Test Automation & Quality Engineering at Scale | **💡 Impact:** 60% Reduction in Manual Testing Effort
+📍 Dallas, TX &nbsp;|&nbsp; 🇺🇸 U.S. Citizen &nbsp;|&nbsp; 🚀 Immediately Available
 
 </div>
 
 ---
 
-## 🧬 Biography
+## About Me
 
-I am a **Senior QA Engineering Leader** with 9+ years of experience transforming quality assurance for Fortune 500 healthcare organizations including Kaiser Permanente, Prime Therapeutics, Accenture, and Infosys.
+I am a **Senior QA Engineering Leader** with 9+ years of experience building and scaling quality assurance functions for Fortune 500 healthcare organizations including Kaiser Permanente, Prime Therapeutics, Accenture, and Infosys.
 
-My expertise lies in **building enterprise-grade test automation frameworks, implementing shift-left testing strategies, and ensuring regulatory compliance** across complex healthcare systems. I architect quality ecosystems that balance speed, reliability, and compliance in mission-critical environments.
+I specialize in **architecting enterprise-grade test automation frameworks, embedding shift-left quality strategies, and ensuring regulatory compliance** across complex, mission-critical healthcare systems. My work sits at the intersection of engineering rigor and regulatory accountability — translating compliance requirements into testable, repeatable, and auditable quality processes.
 
-**Core Expertise:** Test Automation Architecture • Functional Testing at Scale • Healthcare Compliance (HIPAA, FDA, ISO) • Shift-Left Quality Engineering • CI/CD Integration
+Beyond the technical work, I lead high-performing QA teams — mentoring engineers, shaping quality culture, and partnering with product, engineering, and compliance stakeholders to build organizations where quality is a shared responsibility, not a handoff.
+
+**Core Focus Areas:** Test Automation Architecture · Functional & Non-Functional Testing · Healthcare Compliance (HIPAA, FDA, ISO) · Shift-Left Quality Engineering · QA Team Leadership · CI/CD Quality Integration
 
 ---
 
-## 🏗️ The QA Engineering Stack
+## Professional Impact
 
-Comprehensive testing architecture built for enterprise healthcare applications.
+<div align="center">
 
-| Layer | Technologies |
-|:---|:---|
-| **🎯 Test Automation** | Selenium • Cypress • Playwright • Appium • Robot Framework |
-| **🧪 Testing Frameworks** | JUnit • TestNG • PyTest • Cucumber • REST Assured |
-| **🔄 API Testing** | Postman • SoapUI • REST Assured • Katalon • Insomnia |
-| **⚡ Performance Testing** | JMeter • LoadRunner • Gatling • K6 • BlazeMeter |
-| **🏥 Compliance Testing** | HIPAA Validation • FDA 21 CFR Part 11 • ISO 13485 • GDPR |
-| **☁️ CI/CD Integration** | Jenkins • GitLab CI/CD • GitHub Actions • Azure DevOps • CircleCI |
-| **📊 Test Management** | TestRail • Zephyr • JIRA • qTest • HP ALM |
-| **🤖 AI-Assisted Testing** | Test Case Generation • Self-Healing Tests • Visual Regression AI |
+| Metric | Impact | Context |
+|:---|:---|:---|
+| **Cost Reduction** | 40% | Reduced patient care system costs via Shift-Left and Risk-Based Testing strategies |
+| **Manual Testing Effort** | 60% reduction | Eliminated repetitive test cycles through comprehensive automation coverage |
+| **Production Defects** | 85% reduction | Achieved through early-stage defect detection and continuous integration testing |
+| **Test Coverage** | 95%+ | Maintained across critical healthcare workflows, APIs, and integration points |
+| **Team Leadership** | 15+ engineers | Led and mentored global QA teams across distributed time zones |
+| **Regulatory Audit Pass Rate** | 100% | Across HIPAA, FDA 21 CFR Part 11, and ISO compliance audits |
+| **Release Velocity** | 30% improvement | Accelerated time-to-market through streamlined testing pipelines and automation |
+
+</div>
+
+---
+
+## QA Engineering Expertise
+
+### Functional Testing
+
+My functional testing practice spans the full testing pyramid — from unit-level contract validation to system-wide end-to-end scenarios — ensuring every layer of an application behaves as specified.
+
+**Test Types Covered:**
+- **Unit & Component Testing** — Validating individual functions and modules in isolation using JUnit, TestNG, and PyTest
+- **Integration Testing** — Verifying data flow and behavior across service boundaries, APIs, and third-party integrations
+- **System Testing** — End-to-end validation of complete workflows against functional specifications
+- **User Acceptance Testing (UAT)** — Coordinating stakeholder-driven acceptance scenarios for business-critical healthcare features
+- **Regression Testing** — Automated regression suites that protect application stability across every release cycle
+- **Smoke & Sanity Testing** — Build verification and post-deployment health checks for rapid release confidence
+- **Boundary Value Analysis & Equivalence Partitioning** — Systematic input validation to surface edge-case defects efficiently
+- **Exploratory Testing** — Structured, charter-based sessions to uncover defects that scripted testing misses
+- **Gray-Box & White-Box Testing** — Code-aware testing strategies in collaboration with development teams
+- **Contract Testing** — Consumer-driven contract validation using Pact to ensure API compatibility across microservices
+- **Data Validation & ETL Testing** — End-to-end data integrity verification across healthcare data pipelines and reporting systems
+
+### Non-Functional Testing
+
+- **Performance & Load Testing** — Baseline, soak, stress, and spike testing using JMeter, Gatling, K6, and LoadRunner
+- **Security Testing** — OWASP-aligned vulnerability assessments and HIPAA-compliant data security validation
+- **Accessibility Testing** — WCAG 2.1 AA compliance testing for patient-facing digital interfaces
+- **Usability Testing** — Structured sessions aligned with clinical workflow requirements
+
+### Healthcare & Compliance Testing
+
+- **HIPAA Compliance Validation** — PHI data handling, access control, and audit logging verification
+- **FDA 21 CFR Part 11** — Electronic records and electronic signatures compliance for regulated systems
+- **ISO 13485** — Quality management system testing for medical device software
+- **EHR/EMR Systems Testing** — HL7, FHIR-based integration testing and clinical workflow validation
+- **Pharmacy Management & Claims Processing** — End-to-end transaction and adjudication validation
+
+---
+
+## Test Automation Architecture
 
 <details>
-<summary>💻 <b>Full Technical Stack (Click to expand)</b></summary>
+<summary><b>Full Technology Stack (click to expand)</b></summary>
 
-### Test Automation & Frameworks
-`Selenium WebDriver` • `Cypress` • `Playwright` • `Cucumber/BDD`
+### UI & End-to-End Automation
+`Selenium WebDriver` · `Cypress` · `Playwright` · `Appium` · `Robot Framework` · `Katalon Studio`
 
 ### API & Service Testing
-`REST Assured` • `Postman/Newman` • `SoapUI` • `Karate DSL` • `Pact (Contract Testing)` • `WireMock` • `MockServer`
+`REST Assured` · `Postman / Newman` · `SoapUI` · `Karate DSL` · `Pact (Contract Testing)` · `WireMock` · `Insomnia`
+
+### Performance Testing
+`Apache JMeter` · `Gatling` · `K6` · `LoadRunner` · `BlazeMeter`
+
+### Test Frameworks
+`JUnit` · `TestNG` · `PyTest` · `Cucumber / BDD` · `SpecFlow`
 
 ### Programming & Scripting
-`Java` • `Python` • `JavaScript/TypeScript` • `Groovy` • `SQL` • `Bash/Shell` • `PowerShell`
+`Java` · `Python` · `JavaScript / TypeScript` · `Groovy` · `SQL` · `Bash / Shell`
 
+### CI/CD & DevOps Integration
+`Jenkins` · `GitLab CI/CD` · `GitHub Actions` · `Azure DevOps` · `CircleCI`
 
 ### Test Management & Reporting
-`TestRail` • `Zephyr` • `qTest` • `HP ALM/Quality Center` • `JIRA` • `Allure Reports` • `ExtentReports`
+`TestRail` · `Zephyr` · `qTest` · `HP ALM / Quality Center` · `JIRA` · `Allure Reports` · `ExtentReports`
+
+### Cloud & Infrastructure
+`AWS` · `Azure` · `Docker` · `Kubernetes` · `Selenium Grid` · `BrowserStack` · `Sauce Labs`
 
 ### Databases & Data Testing
-`SQL Server` • `PostgreSQL` • `MySQL` • `MongoDB` • `Oracle` • `Database Testing` • `Data Validation`
+`SQL Server` · `PostgreSQL` · `MySQL` · `Oracle` · `MongoDB` · `Data Validation Frameworks`
 
-### Mobile Testing
-`Appium` • `Espresso` • `XCUITest` • `Detox` • `Mobile Emulators/Simulators`
-
-### Emerging Technologies
-`AI-Powered Test Generation` • `Self-Healing Test Automation` • `Visual AI Testing` • `Test Data Management`
+### AI-Assisted Testing
+`AI-Powered Test Case Generation` · `Self-Healing Test Automation` · `Visual Regression AI`
 
 </details>
 
 ---
 
-## 📊 Professional Impact by the Numbers
+## QA Leadership Philosophy
+
+> *"Quality engineering is not a phase — it is a culture. The best QA leaders don't just find bugs; they build systems that prevent them from happening in the first place."*
+
+### How I Lead Quality Organizations
+
+**Shift-Left Quality** — I embed testing into requirements and design phases, making quality a continuous concern rather than a release-gate activity. This means participating in story refinement, threat modeling, and architecture reviews alongside engineering and product teams.
+
+**Risk-Based Testing Strategy** — I prioritize testing investment based on business impact, regulatory exposure, and failure probability. In healthcare, where errors carry patient safety implications, this is not optional — it is a clinical responsibility.
+
+**Automation That Serves People** — I automate repetitive, high-volume, and regression-prone scenarios so that engineers can focus on exploratory, complex, and domain-specific testing. Automation is a force multiplier, not a replacement for human judgment.
+
+**Compliance by Design** — Regulatory requirements are built into test frameworks from day one, not retrofitted before an audit. This makes compliance evidence a natural byproduct of every release cycle.
+
+**Data-Driven Quality Governance** — I establish quality KPIs (defect escape rate, test coverage, mean time to detection) and use them to drive continuous improvement conversations with engineering leadership and product owners.
+
+**Engineering Culture & Mentorship** — I invest in growing QA engineers into automation-first, quality advocates who can influence upstream processes. Strong QA cultures are built by people, not just tooling.
+
+---
+
+## Testing Methodologies
+
+- **Agile / Scrum Quality Engineering** — Sprint-integrated testing, three-amigos refinement, and definition-of-done quality gates
+- **Behavior-Driven Development (BDD)** — Gherkin-based specifications that align QA, development, and business stakeholders
+- **Test-Driven Development (TDD)** — Collaborating with development teams on test-first engineering practices
+- **Continuous Testing in CI/CD** — Automated test gates at every pipeline stage, from commit through production deployment
+- **DevOps Quality Engineering** — Shift-right monitoring, canary testing, and production observability as extensions of the QA function
+- **Risk-Based Testing** — IEEE 829-aligned test planning with explicit risk registers and coverage traceability matrices
+
+---
+
+## Certifications
+
+**Completed**
+
+| Certification | Provider | Date |
+|:---|:---|:---|
+| Registered Scrum Basics™ | Scrum Inc. | August 2025 |
+| AI Fluency Framework & Foundations | Anthropic | August 2025 |
+
+**In Progress / Planned**
+
+| Certification | Provider | Target |
+|:---|:---|:---|
+| ISTQB Advanced Level – Test Automation Engineer | ISTQB | In Progress |
+| Certified Scrum Master (CSM) | Scrum Alliance | Q2 2026 |
+| AWS Certified Solutions Architect – Associate | Amazon Web Services | Q3 2026 |
+
+---
+
+## Let's Connect
+
+I am actively seeking **QA Leadership** and **Test Automation Architecture** roles in healthcare technology and enterprise software.
 
 <div align="center">
 
-| 🎯 Metric | 📈 Impact | 🔍 Context |
-|:---|:---|:---|
-| **Cost Reduction** | 40% reduction | Patient care costs through Shift-Left & Risk-Based Testing |
-| **Testing Efficiency** | 60% reduction | Manual testing effort through comprehensive test automation |
-| **Defect Detection** | 85% reduction | Production defects via early-stage testing strategies |
-| **Test Coverage** | 95%+ coverage | Across critical healthcare workflows and APIs |
-| **Team Leadership** | 15+ engineers | Led global QA teams across multiple time zones |
-| **Compliance Rate** | 100% success | Audit pass rate across HIPAA, FDA, and ISO regulatory checks |
-| **Release Velocity** | 30% improvement | Time-to-market through optimized testing workflows |
-
-</div>
-
----
-
-## 📜 Professional Certifications
-
-| 📜 Certification | 🏢 Provider | 📅 Completed |
-|:---|:---|:---|
-| **ISTQB Advanced Test Automation Engineer** | ISTQB | *In Progress* |
-| **Certified Scrum Master (CSM)** | Scrum Alliance | *Planned Q2 2026* |
-| **Registered Scrum Basics™** | Scrum Inc. | August 2025 |
-| **AWS Certified Solutions Architect** | Amazon Web Services | *Planned Q3 2026* |
-| **AI Fluency Framework & Foundations** | Anthropic | August 2025 |
-
----
-
-## 🧠 Leadership Philosophy
-
-> "Quality engineering is not a phase—it's a culture. The best QA leaders don't just find bugs; they build systems that prevent them from happening in the first place."
-
-**My Testing Approach:**
-
-- **Shift-Left Quality:** Integrate testing from requirements gathering through deployment, not as a bottleneck
-- **Risk-Based Testing:** Prioritize testing efforts based on business impact and regulatory requirements
-- **Test Automation Strategy:** Automate repetitive tasks, empower testers for exploratory and complex scenarios
-- **Compliance by Design:** Build regulatory validation into test frameworks, not as an afterthought
-- **Empathy-Driven Leadership:** Mentor QA engineers with understanding, foster innovation and continuous learning
-- **Data-Driven Decisions:** Use metrics and analytics to continuously improve quality processes
-
----
-
-## 🎓 Testing Expertise Areas
-**Functional Testing:** End-to-End Testing • Integration Testing • System Testing • User Acceptance Testing (UAT) • Smoke & Sanity Testing • Regression Testing
-**Non-Functional Testing:** Performance Testing • Load Testing • Stress Testing • Security Testing • Accessibility Testing (WCAG) • Usability Testing
-**Specialized Testing:** Healthcare Compliance Testing • Medical Device Software Testing • EHR/EMR Systems Testing • Pharmacy Management Systems • Claims Processing Validation
-**Methodologies:** Agile/Scrum Testing • BDD/TDD • Exploratory Testing • Risk-Based Testing • Continuous Testing • DevOps Quality Engineering
-
-<div align="center">
-
-## 🤝 Let's Build Quality Excellence Together
-
-*Actively seeking **QA Leadership** & **Test Automation Architecture** roles in Healthcare/Tech.*
-
-**🇺🇸 U.S. Citizen** | **🚀 Immediate Availability** | **📍 Dallas/Irving, TX**
-
-[![Book Consultation](https://img.shields.io/badge/📅_Book_Consultation-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
+[![Book a Consultation](https://img.shields.io/badge/📅_Book_a_Consultation-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
-
----
-
-**⭐ Star my repositories if you find them valuable!**
-
-![Made with ❤️ by Darshil Shah](https://img.shields.io/badge/Made_with_❤️_by-Darshil_Shah-blueviolet?style=for-the-badge)
 
 </div>

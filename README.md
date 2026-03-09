@@ -71,7 +71,6 @@ My functional testing practice spans the full testing pyramid — from unit-leve
 - **Data Validation & ETL Testing** — End-to-end data integrity verification across healthcare data pipelines and reporting systems
 
 ### Non-Functional Testing
-- **Security Testing** — OWASP-aligned vulnerability assessments and HIPAA-compliant data security validation
 - **Accessibility Testing** — WCAG 2.1 AA compliance testing for patient-facing digital interfaces
 - **Usability Testing** — Structured sessions aligned with clinical workflow requirements
 

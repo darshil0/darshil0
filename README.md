@@ -2,9 +2,9 @@
 
 # Darshil Shah
 
-### QA Engineering Leader · Test Automation Architect · Healthcare Quality Specialist
+### Senior Functional QA Engineer · Healthcare Testing Specialist · Test Design & Defect Advocacy
 
-*Building scalable quality ecosystems where testing excellence meets healthcare compliance.*
+*Delivering verified, compliant, and production-ready software through rigorous functional testing across complex healthcare systems.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/soulsurfer300)
@@ -23,13 +23,13 @@
 
 ## About Me
 
-I am a **Senior QA Engineering Leader** with 9+ years of experience building and scaling quality assurance functions for Fortune 500 healthcare organizations including Kaiser Permanente, Prime Therapeutics, Accenture, and Infosys.
+I am a **Senior Functional QA Engineer** with 9+ years of experience delivering quality assurance across mission-critical healthcare systems at organizations including Kaiser Permanente, Prime Therapeutics, Accenture, and Infosys.
 
-I specialize in **architecting enterprise-grade test automation frameworks, embedding shift-left quality strategies, and ensuring regulatory compliance** across complex, mission-critical healthcare systems. My work sits at the intersection of engineering rigor and regulatory accountability — translating compliance requirements into testable, repeatable, and auditable quality processes.
+My core strength is **functional testing** — translating business requirements, clinical workflows, and compliance mandates into thorough, traceable test coverage. I specialize in test case design, defect lifecycle management, requirements analysis, and structured exploratory testing across EHR/EMR platforms, pharmacy systems, and health data integrations.
 
-Beyond the technical work, I lead high-performing QA teams — mentoring engineers, shaping quality culture, and partnering with product, engineering, and compliance stakeholders to build organizations where quality is a shared responsibility, not a handoff.
+I work closely with developers, product owners, and compliance stakeholders to close the gap between what software is supposed to do and what it actually does — with clear, reproducible evidence at every step.
 
-**Core Focus Areas:** Test Automation Architecture · Functional & Non-Functional Testing · Healthcare Compliance (HIPAA, FDA, ISO) · Shift-Left Quality Engineering · QA Team Leadership · CI/CD Quality Integration
+**Core Focus Areas:** Functional Test Design · Requirements-Based Testing · Healthcare Compliance Validation (HIPAA, FDA, ISO) · Defect Management · API & Integration Testing · Test Planning & Execution · CI/CD Test Integration
 
 ---
 
@@ -39,139 +39,132 @@ Beyond the technical work, I lead high-performing QA teams — mentoring enginee
 
 | Metric | Impact | Context |
 |:---|:---|:---|
-| **Cost Reduction** | 40% | Reduced patient care system costs via Shift-Left and Risk-Based Testing strategies |
-| **Manual Testing Effort** | 60% reduction | Eliminated repetitive test cycles through comprehensive automation coverage |
-| **Production Defects** | 85% reduction | Achieved through early-stage defect detection and continuous integration testing |
-| **Test Coverage** | 95%+ | Maintained across critical healthcare workflows, APIs, and integration points |
-| **Team Leadership** | 15+ engineers | Led and mentored global QA teams across distributed time zones |
-| **Regulatory Audit Pass Rate** | 100% | Across HIPAA, FDA 21 CFR Part 11, and ISO compliance audits |
-| **Release Velocity** | 30% improvement | Accelerated time-to-market through streamlined testing pipelines and automation |
+| **Production Defects** | 85% reduction | Achieved through early defect detection and structured test coverage across integration points |
+| **Manual Test Effort** | 60% reduction | Reduced repetitive regression cycles through targeted test automation for stable workflows |
+| **Release Confidence** | Measurably improved | Established smoke, regression, and exploratory test suites across critical healthcare workflows |
+| **Team Mentorship** | 10+ engineers | Guided QA engineers in functional test design, defect writing, and coverage analysis |
+| **Regulatory Audits** | Zero findings | Supported HIPAA, FDA 21 CFR Part 11, and ISO audit readiness through traceability and documentation |
+| **Defect Escape Rate** | Consistently low | Maintained through systematic boundary value analysis and equivalence partitioning |
 
 </div>
 
 ---
 
-## QA Engineering Expertise
+## Functional Testing Expertise
 
-### Functional Testing
+### Test Design & Coverage
 
-My functional testing practice spans the full testing pyramid — from unit-level contract validation to system-wide end-to-end scenarios — ensuring every layer of an application behaves as specified.
+Effective functional testing begins with rigorous test design. I derive test cases directly from requirements, user stories, acceptance criteria, and clinical workflow specifications — ensuring coverage is intentional and traceable, not incidental.
 
-**Test Types Covered:**
-- **Unit & Component Testing** — Validating individual functions and modules in isolation using JUnit, TestNG, and PyTest
-- **Integration Testing** — Verifying data flow and behavior across service boundaries, APIs, and third-party integrations
-- **System Testing** — End-to-end validation of complete workflows against functional specifications
-- **User Acceptance Testing (UAT)** — Coordinating stakeholder-driven acceptance scenarios for business-critical healthcare features
-- **Regression Testing** — Automated regression suites that protect application stability across every release cycle
-- **Smoke & Sanity Testing** — Build verification and post-deployment health checks for rapid release confidence
-- **Boundary Value Analysis & Equivalence Partitioning** — Systematic input validation to surface edge-case defects efficiently
-- **Exploratory Testing** — Structured, charter-based sessions to uncover defects that scripted testing misses
-- **Gray-Box & White-Box Testing** — Code-aware testing strategies in collaboration with development teams
-- **Contract Testing** — Consumer-driven contract validation using Pact to ensure API compatibility across microservices
-- **Data Validation & ETL Testing** — End-to-end data integrity verification across healthcare data pipelines and reporting systems
+**Test Design Techniques:**
+- **Equivalence Partitioning & Boundary Value Analysis** — Systematic input domain decomposition to surface defects at class boundaries with minimal test redundancy
+- **Decision Table Testing** — Logic-driven coverage for rules-heavy workflows such as pharmacy adjudication, eligibility checks, and prior authorization flows
+- **State Transition Testing** — Modeling clinical workflows and order states to validate correct transitions, guards, and error paths
+- **Use Case & Scenario Testing** — End-to-end scenario coverage derived from clinical workflows, user journeys, and business process maps
+- **Error Guessing & Negative Testing** — Structured negative scenarios targeting invalid inputs, missing fields, timeout conditions, and concurrent access patterns
+- **Exploratory Testing (Charter-Based)** — Time-boxed, risk-guided sessions to surface defects that scripted tests miss, documented through session notes and debrief
 
-### Non-Functional Testing
-- **Accessibility Testing** — WCAG 2.1 AA compliance testing for patient-facing digital interfaces
-- **Usability Testing** — Structured sessions aligned with clinical workflow requirements
+### Functional Test Types
+
+- **System Testing** — End-to-end validation of complete application workflows against functional specifications and acceptance criteria
+- **Integration Testing** — Verifying data correctness and behavior across service boundaries, APIs, and third-party integrations including HL7 and FHIR interfaces
+- **User Acceptance Testing (UAT)** — Facilitating and coordinating stakeholder-driven acceptance scenarios for business-critical and patient-facing healthcare features
+- **Regression Testing** — Maintaining regression suites that protect application stability and detect unintended side effects across every release
+- **Smoke & Sanity Testing** — Build verification and post-deployment health checks that establish release confidence before full test execution
+- **Data Validation & ETL Testing** — End-to-end data integrity verification across healthcare data pipelines, reports, and claim transaction flows
+- **API Functional Testing** — Request/response validation, contract verification, authentication flows, and error handling using REST Assured and Postman
+- **Contract Testing** — Consumer-driven contract validation using Pact to confirm API compatibility across microservices boundaries
+
+### Non-Functional Validation
+- **Accessibility Testing** — WCAG 2.1 AA compliance validation for patient-facing digital interfaces in coordination with UX teams
+- **Usability Review** — Structured review sessions aligned with clinical workflow requirements and end-user personas
 
 ### Healthcare & Compliance Testing
 
-- **HIPAA Compliance Validation** — PHI data handling, access control, and audit logging verification
-- **FDA 21 CFR Part 11** — Electronic records and electronic signatures compliance for regulated systems
-- **ISO 13485** — Quality management system testing for medical device software
-- **EHR/EMR Systems Testing** — HL7, FHIR-based integration testing and clinical workflow validation
-- **Pharmacy Management & Claims Processing** — End-to-end transaction and adjudication validation
+Functional testing in healthcare carries patient safety implications. I bring specialized experience validating regulated systems against the following standards:
+
+- **HIPAA Compliance Validation** — PHI data handling, access control, audit logging, and consent management verification
+- **FDA 21 CFR Part 11** — Electronic records and electronic signatures compliance for regulated clinical systems
+- **ISO 13485** — Quality management validation for medical device software
+- **EHR/EMR Systems Testing** — HL7 and FHIR-based integration validation and clinical workflow end-to-end coverage
+- **Pharmacy Management & Claims Processing** — Transaction validation, adjudication logic, formulary rules, and eligibility flow testing
 
 ---
 
-## Test Automation Architecture
+## Test Planning & Defect Management
+
+Strong functional testing requires more than writing test cases — it requires structured planning, clear defect communication, and disciplined triage.
+
+**Test Planning:** I author test plans aligned with IEEE 829 principles, defining scope, risk-based coverage priorities, entry/exit criteria, and explicit traceability to requirements. In Agile environments, I participate in three-amigos sessions and sprint planning to identify testability gaps before development begins.
+
+**Defect Lifecycle:** I write precise, reproducible defect reports with clear steps to reproduce, expected vs. actual behavior, severity/priority rationale, and environment details. I track defect aging, escalate stale blockers, and analyze defect patterns to surface root causes rather than just symptoms.
+
+**Coverage Traceability:** I maintain requirements traceability matrices (RTMs) that map test cases to requirements, ensuring no acceptance criterion is left untested and audit evidence is always available.
+
+---
+
+## Tools & Technology
 
 <details>
 <summary><b>Full Technology Stack (click to expand)</b></summary>
 
-### UI & End-to-End Automation
+### Functional & UI Testing
 `Selenium WebDriver` · `Cypress` · `Playwright` · `Appium` · `Robot Framework` · `Katalon Studio`
 
-### API & Service Testing
-`REST Assured` · `Postman` · `SoapUI`
+### API Testing
+`REST Assured` · `Postman` · `SoapUI` · `Pact (Contract Testing)`
 
 ### Test Frameworks
-`JUnit` · `TestNG` · `PyTest` · `Cucumber / BDD` · `SpecFlow`
+`JUnit` · `TestNG` · `PyTest` · `Cucumber / BDD (Gherkin)` · `SpecFlow`
 
-
-### Test Management & Reporting
+### Test Management & Defect Tracking
 `TestRail` · `Zephyr` · `qTest` · `HP ALM / Quality Center` · `JIRA` · `Allure Reports` · `ExtentReports`
 
-### Cloud & Infrastructure
-`AWS` · `Azure` · `Docker` · `Kubernetes` · `Selenium Grid` · `BrowserStack` · `Sauce Labs`
+### Cloud & Execution Infrastructure
+`AWS` · `Azure` · `Docker` · `Selenium Grid` · `BrowserStack` · `Sauce Labs`
 
-### Databases & Data Testing
-`SQL Server` · `PostgreSQL` · `MySQL` · `Oracle` · `MongoDB` · `Data Validation Frameworks`
+### Databases & Data Validation
+`SQL Server` · `PostgreSQL` · `MySQL` · `Oracle` · `MongoDB`
 
-### AI-Assisted Testing
-`AI-Powered Test Case Generation` · `Self-Healing Test Automation` · `Visual Regression AI`
+### Healthcare Standards
+`HL7` · `FHIR` · `ICD-10` · `HIPAA` · `FDA 21 CFR Part 11` · `ISO 13485`
 
 </details>
 
 ---
 
-## QA Leadership Philosophy
+## Testing Approach & Methodology
 
-> *"Quality engineering is not a phase — it is a culture. The best QA leaders don't just find bugs; they build systems that prevent them from happening in the first place."*
+**Requirements Analysis First** — I analyze requirements before writing a single test case. Ambiguous, missing, or conflicting requirements are the leading cause of test gaps and late defects. I raise these upstream during refinement, not after development is complete.
 
-### How I Lead Quality Organizations
+**Risk-Based Prioritization** — Not all features carry equal risk. In healthcare, I weight test depth against patient safety impact, regulatory exposure, and integration complexity. This ensures critical paths receive the coverage they deserve and release decisions are grounded in evidence.
 
-**Shift-Left Quality** — I embed testing into requirements and design phases, making quality a continuous concern rather than a release-gate activity. This means participating in story refinement, threat modeling, and architecture reviews alongside engineering and product teams.
+**Agile Quality Integration** — I integrate functional testing throughout the sprint cycle: contributing to story refinement, defining acceptance criteria with product owners, executing tests during development, and verifying done means working, not just merged.
 
-**Risk-Based Testing Strategy** — I prioritize testing investment based on business impact, regulatory exposure, and failure probability. In healthcare, where errors carry patient safety implications, this is not optional — it is a clinical responsibility.
+**Behavior-Driven Development (BDD)** — I author Gherkin-based feature specifications that bridge the language gap between QA, development, and business stakeholders — making acceptance criteria executable and visible.
 
-**Automation That Serves People** — I automate repetitive, high-volume, and regression-prone scenarios so that engineers can focus on exploratory, complex, and domain-specific testing. Automation is a force multiplier, not a replacement for human judgment.
+**Defect Advocacy** — I treat defects as signals, not just tickets. I advocate for root cause analysis, track escape patterns, and use defect data to improve upstream processes rather than just close out backlog items.
 
-**Compliance by Design** — Regulatory requirements are built into test frameworks from day one, not retrofitted before an audit. This makes compliance evidence a natural byproduct of every release cycle.
-
-**Data-Driven Quality Governance** — I establish quality KPIs (defect escape rate, test coverage, mean time to detection) and use them to drive continuous improvement conversations with engineering leadership and product owners.
-
-**Engineering Culture & Mentorship** — I invest in growing QA engineers into automation-first, quality advocates who can influence upstream processes. Strong QA cultures are built by people, not just tooling.
-
----
-
-## Testing Methodologies
-
-- **Agile / Scrum Quality Engineering** — Sprint-integrated testing, three-amigos refinement, and definition-of-done quality gates
-- **Behavior-Driven Development (BDD)** — Gherkin-based specifications that align QA, development, and business stakeholders
-- **Test-Driven Development (TDD)** — Collaborating with development teams on test-first engineering practices
-- **Continuous Testing in CI/CD** — Automated test gates at every pipeline stage, from commit through production deployment
-- **DevOps Quality Engineering** — Shift-right monitoring, canary testing, and production observability as extensions of the QA function
-- **Risk-Based Testing** — IEEE 829-aligned test planning with explicit risk registers and coverage traceability matrices
+**Continuous Testing in CI/CD** — Functional regression suites are wired into CI pipelines so that every commit receives automated verification, and human testing effort is focused on exploratory, domain-specific, and high-risk scenarios.
 
 ---
 
 ## Certifications
-
-**Completed**
 
 | Certification | Provider | Date |
 |:---|:---|:---|
 | Registered Scrum Basics™ | Scrum Inc. | August 2025 |
 | AI Fluency Framework & Foundations | Anthropic | August 2025 |
 
-**In Progress / Planned**
-
-| Certification | Provider | Target |
-|:---|:---|:---|
-| ISTQB Advanced Level – Test Automation Engineer | ISTQB | In Progress |
-| Certified Scrum Master (CSM) | Scrum Alliance | Q2 2026 |
-| AWS Certified Solutions Architect – Associate | Amazon Web Services | Q3 2026 |
-
 ---
 
 ## Let's Connect
 
-I am actively seeking **QA Leadership** and **Test Automation Architecture** roles in healthcare technology and enterprise software.
+I am actively seeking **Senior Functional QA** and **QA Lead** roles in healthcare technology and enterprise software.
 
 <div align="center">
 
-[![Book a Consultation](https://img.shields.io/badge/📅_Book_a_Consultation-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
+[![Book a Consultation](https://img.shields.io/badge/📅_Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
 
 </div>

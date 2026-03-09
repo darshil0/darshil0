@@ -71,8 +71,6 @@ My functional testing practice spans the full testing pyramid — from unit-leve
 - **Data Validation & ETL Testing** — End-to-end data integrity verification across healthcare data pipelines and reporting systems
 
 ### Non-Functional Testing
-
-- **Performance & Load Testing** — Baseline, soak, stress, and spike testing using JMeter, Gatling, K6, and LoadRunner
 - **Security Testing** — OWASP-aligned vulnerability assessments and HIPAA-compliant data security validation
 - **Accessibility Testing** — WCAG 2.1 AA compliance testing for patient-facing digital interfaces
 - **Usability Testing** — Structured sessions aligned with clinical workflow requirements
@@ -96,19 +94,11 @@ My functional testing practice spans the full testing pyramid — from unit-leve
 `Selenium WebDriver` · `Cypress` · `Playwright` · `Appium` · `Robot Framework` · `Katalon Studio`
 
 ### API & Service Testing
-`REST Assured` · `Postman / Newman` · `SoapUI` · `Karate DSL` · `Pact (Contract Testing)` · `WireMock` · `Insomnia`
-
-### Performance Testing
-`Apache JMeter` · `Gatling` · `K6` · `LoadRunner` · `BlazeMeter`
+`REST Assured` · `Postman` · `SoapUI`
 
 ### Test Frameworks
 `JUnit` · `TestNG` · `PyTest` · `Cucumber / BDD` · `SpecFlow`
 
-### Programming & Scripting
-`Java` · `Python` · `JavaScript / TypeScript` · `Groovy` · `SQL` · `Bash / Shell`
-
-### CI/CD & DevOps Integration
-`Jenkins` · `GitLab CI/CD` · `GitHub Actions` · `Azure DevOps` · `CircleCI`
 
 ### Test Management & Reporting
 `TestRail` · `Zephyr` · `qTest` · `HP ALM / Quality Center` · `JIRA` · `Allure Reports` · `ExtentReports`

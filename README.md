@@ -1,23 +1,3 @@
-Before I dive into fixes, let me identify the issues clearly. The document has several problems:
-
-**Content/Accuracy issues:**
-- The title says "Senior Functional QA Engineer" and "9+ years" but your actual background is 10+ years and your positioning is QA Lead/AI-ML QA specialist — this readme undersells you
-- The certifications section is severely truncated — you have an extensive cert portfolio (Anthropic, AWS, Google, etc.) but only two certs are listed
-- The About Me section strips out all AI/ML QA specialization, which is your differentiator
-- "Core Focus Areas" doesn't mention AI/ML evaluation, RAG pipeline testing, or LLM quality — your actual edge
-- The portfolio link points to `github.com/darshil0` (your GitHub profile) rather than your actual portfolio site
-
-**Tone/Writing issues:**
-- Heavy AI-slop throughout: "Effective functional testing begins with," "Strong functional testing requires," "I bring specialized experience"
-- Tripling: "clear, reproducible evidence at every step" — padding
-- Hollow openers like "My core strength is"
-- The "Testing Approach & Methodology" section is over-explained and preachy
-- "patient safety implications" paragraph reads as throat-clearing
-
-Here's the corrected and tightened version:
-
----
-
 <div align="center">
 
 # Darshil Shah

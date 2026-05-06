@@ -151,7 +151,7 @@ I'm actively pursuing **Senior QA Engineer**, **QA Lead**, **Principal QA Analys
 - **Enterprise software** with compliance-heavy environments (HIPAA, FDA, SOC 2, ISO)
 - **Leadership opportunities** to build QA culture and mentor engineers
 
-I'm open to **US-based and India-based roles** and can start immediately.
+I'm open to **US-based roles** and can start immediately.
 
 ---
 

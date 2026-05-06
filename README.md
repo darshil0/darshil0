@@ -127,7 +127,7 @@ Defect reports are structured for reproducibility: clear steps, expected vs. act
 - Designed test strategies for pharmacy adjudication and prior authorization workflows
 - Achieved HIPAA and FDA compliance audit readiness across three separate audits
 
-**Prime Therapeutics** — QA Lead, Claims Processing & Pharmacy Management
+**Prime Therapeutics** — SDET, Claims Processing & Pharmacy Management
 - Directed QA for pharmacy claims adjudication and benefit design engines
 - Built test frameworks for complex formulary rule validation
 - Mentored team of 5 QA engineers on functional design and defect triage

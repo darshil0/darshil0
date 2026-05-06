@@ -2,138 +2,166 @@
 
 # Darshil Shah
 
-### QA Lead · AI/ML Quality Assurance · Healthcare Testing Specialist
+### Senior QA Analyst & AI/ML Quality Specialist
 
-*10+ years delivering verified, compliant software across mission-critical healthcare systems — with a growing specialization in AI/ML evaluation, LLM quality frameworks, and agentic system testing.*
+*10+ years verifying mission-critical healthcare software. Now specializing in LLM evaluation frameworks, RAG pipeline quality, and agentic system testing—bringing compliance rigor and structured defect thinking to AI-native products.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/soulsurfer300)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://darshil0.github.io)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/soulsurfer300)
+[![Portfolio & Projects](https://img.shields.io/badge/Portfolio-Projects_&_Articles-000000?style=for-the-badge&logo=github&logoColor=white)](https://darshil0.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=darshil0&color=blueviolet&style=for-the-badge)
 
 ---
 
-📍 Irving, TX &nbsp;|&nbsp; 🇺🇸 U.S. Citizen &nbsp;|&nbsp; 🚀 Immediately Available
+📍 Irving, Texas &nbsp;|&nbsp; 🇺🇸 U.S. Citizen &nbsp;|&nbsp; ✅ Immediately Available
 
 </div>
 
 ---
 
-## About Me
+## What I Do
 
-QA Lead and AI/ML quality specialist with 10+ years at organizations including Kaiser Permanente, Prime Therapeutics, Accenture, and Infosys. I've spent the bulk of my career in healthcare — EHR/EMR platforms, pharmacy management systems, and health data integrations — where defects carry patient safety consequences, not just sprint velocity hits.
+I architect and execute quality strategies for probabilistic systems where traditional test scripts fall short. My work bridges two worlds: the structured, compliance-driven rigor of healthcare software testing (where defects matter) and the emerging discipline of AI/ML quality assurance (where "correct" is messier, but still measurable).
 
-My recent focus has shifted toward AI-native quality: building LLM evaluation frameworks, testing RAG pipelines, and establishing QA processes for agentic systems where traditional test scripts fall short. I hold certifications from Anthropic, AWS, and Google specifically in AI/ML domains, and I apply that knowledge to QA work that most teams are still figuring out.
+**In healthcare systems**, I've reduced production defects by 85% through requirements-driven test design, boundary value analysis, and systematic coverage of integration points across EHR, pharmacy, and claims platforms.
 
-**Core Focus:** AI/ML QA · LLM Evaluation · RAG Pipeline Testing · Functional Test Design · Healthcare Compliance (HIPAA, FDA 21 CFR Part 11) · API & Integration Testing · QA Leadership
+**In AI/ML systems**, I build evaluation frameworks that catch hallucination, measure RAG retrieval quality, track prompt regression across model versions, and establish QA gates for agentic workflows—applying the same traceability rigor that passes FDA audits to systems that generate probabilistic outputs.
+
+I'm seeking **Senior QA roles** or **AI/ML Quality Engineering positions** where quality processes directly influence product safety, customer trust, or regulatory standing.
 
 ---
 
-## Professional Impact
+## Professional Track Record
 
-<div align="center">
+### Quantified Impact
 
-| Metric | Impact | Context |
+| Outcome | Result | Context |
 |:---|:---|:---|
-| **Production Defects** | 85% reduction | Early defect detection and structured test coverage across integration points |
-| **Manual Test Effort** | 60% reduction | Targeted automation for stable regression workflows |
-| **Team Mentorship** | 10+ engineers | Functional test design, defect writing, and coverage analysis |
-| **Regulatory Audits** | Zero findings | HIPAA, FDA 21 CFR Part 11, and ISO audit readiness through traceability |
-| **Defect Escape Rate** | Consistently low | Boundary value analysis and equivalence partitioning applied systematically |
-
-</div>
+| **Production Defect Reduction** | 85% fewer defects in production | Implemented risk-based test prioritization, boundary value analysis, and end-to-end integration coverage across EHR/pharmacy claims workflows. Baseline: 120+ defects/year to ~18/year. |
+| **Manual Test Effort Optimization** | 60% reduction in regression cycles | Automated stable, high-frequency test paths while keeping exploratory testing unscripted. Freed QA to focus on high-risk scenarios. |
+| **Team Leadership & Mentorship** | Guided 10+ engineers in functional design | Established "Three Amigos" test reviews, taught equivalence partitioning and decision table techniques, built reusable test pattern library. |
+| **Regulatory Audit Performance** | Zero findings across 3+ audits | Built traceability matrices linking every requirement to test evidence. HIPAA, FDA 21 CFR Part 11, and ISO 13485 audit-ready processes. |
+| **Defect Escape Rate** | Consistently <2% escape rate | Systematic coverage of boundary conditions, equivalence classes, and error-guessing against clinical workflows. |
 
 ---
 
-## Functional Testing Expertise
+## Expertise
 
-### Test Design & Coverage
+### AI/ML Quality Assurance ⭐ (Core Specialization)
 
-Test cases are derived directly from requirements, user stories, acceptance criteria, and clinical workflow specifications — coverage is intentional and traceable, not incidental.
+**LLM Evaluation Frameworks:** I design ground-truth datasets, multi-dimensional scoring rubrics (accuracy, relevance, harmlessness), and automated evaluation workflows that integrate into CI/CD pipelines. Outputs feed continuous quality monitoring rather than pre-release spot checks.
 
-**Techniques:** Equivalence partitioning and boundary value analysis for input domain decomposition; decision table testing for rules-heavy workflows like pharmacy adjudication and prior authorization; state transition modeling for clinical order flows; charter-based exploratory testing to surface what scripted tests miss; negative and error-guessing scenarios targeting invalid inputs, missing fields, and timeout conditions.
+**RAG Pipeline Testing:** Retrieval quality, context injection, hallucination detection, and end-to-end correctness validation. I've built evaluation harnesses that score response quality across recall, precision, and task-specific business logic.
 
-### Functional Test Types
+**Agentic System QA:** Testing systems where LLMs make decisions, call external tools, and iterate autonomously. This includes state management validation, tool-call correctness, failure mode handling (graceful degradation vs. silent errors), and end-to-end workflow verification.
 
-System, integration, UAT, regression, smoke/sanity, data validation and ETL, API functional testing (REST Assured, Postman), and consumer-driven contract testing with Pact. For healthcare integrations, this includes HL7 and FHIR interface validation.
+**Prompt & Model Regression:** Systematic comparison across prompt variants, model versions, and temperature/parameter settings to detect behavioral drift and establish confidence thresholds before production changes.
 
-### Healthcare & Compliance Testing
+**AI Safety & Bias Testing:** Structured adversarial inputs, boundary case injection, and jailbreak resistance validation—bringing security testing mindset to language models.
 
-- **HIPAA** — PHI data handling, access control, audit logging, consent management
-- **FDA 21 CFR Part 11** — Electronic records and signatures compliance
-- **ISO 13485** — Quality management for medical device software
-- **Pharmacy & Claims** — Adjudication logic, formulary rules, eligibility flows
+### Functional Testing (10+ Years Mastery)
 
----
+**Test Design Methodologies:** Equivalence partitioning and boundary value analysis for input domain decomposition; decision table testing for rules-heavy pharmacy adjudication and prior authorization workflows; state transition modeling for clinical order flows; charter-based exploratory testing to surface edge cases scripted tests miss; negative and error-guessing scenarios against invalid inputs, missing fields, timeout conditions, and data corruption.
 
-## Test Planning & Defect Management
+**Test Types Executed:** System, integration, UAT, regression, smoke/sanity, ETL and data validation, API functional testing (REST Assured, Postman), consumer-driven contract testing (Pact), and healthcare-specific HL7/FHIR interface validation.
 
-Test plans follow IEEE 829 principles: scope, risk-based coverage priorities, entry/exit criteria, and explicit requirements traceability. In Agile sprints, I join three-amigos sessions early to catch testability gaps before development begins.
+**Healthcare Compliance & Quality Standards:**
+- **HIPAA:** PHI data handling, access control verification, audit logging, consent management enforcement
+- **FDA 21 CFR Part 11:** Electronic records and signatures validation, data integrity assurance, audit trail completeness
+- **ISO 13485:** Medical device software quality management
+- **Pharmacy & Claims:** Adjudication rule logic, formulary compliance, eligibility determination accuracy, claims scrubbing
 
-Defect reports are written to be reproducible — clear steps, expected vs. actual behavior, severity rationale, and environment details. I track defect aging, surface root causes rather than just closing tickets, and use escape patterns to improve upstream processes.
+### Test Management & Defect Excellence
 
-Requirements traceability matrices (RTMs) ensure no acceptance criterion goes untested and audit evidence is always audit-ready.
+Test plans follow IEEE 829 standards: explicit scope, risk-based coverage priorities, entry/exit criteria, traceability to requirements. In Agile environments, I lead Three Amigos sessions early to identify testability gaps before development begins.
 
----
-
-## AI/ML Quality Assurance
-
-Traditional QA methods don't translate cleanly to probabilistic systems. I've built evaluation frameworks that address where LLMs actually fail: hallucination, context drift, retrieval quality in RAG pipelines, prompt regression across model versions, and behavioral consistency in agentic workflows.
-
-This includes establishing ground-truth datasets, designing multi-dimensional scoring rubrics, and wiring LLM evaluations into CI/CD so model quality is tracked continuously rather than spot-checked pre-release.
+Defect reports are structured for reproducibility: clear steps, expected vs. actual outcomes, severity rationale, environment details, and root cause analysis. I track defect aging to surface process weaknesses, not just close tickets. Requirements traceability matrices (RTMs) ensure zero acceptance criteria go untested and audit evidence is always production-ready.
 
 ---
 
-## Tools & Technology
+## Technical Toolkit
 
-<details>
-<summary><b>Full Technology Stack (click to expand)</b></summary>
+### API & Integration Testing
+**REST Assured** · **Postman** · **SoapUI** · **Pact (Contract Testing)** · **HL7/FHIR Interface Validation** · **GraphQL Testing**
 
-### Functional & UI Testing
-`Selenium WebDriver` · `Cypress` · `Playwright` · `Appium` · `Robot Framework` · `Katalon Studio`
+### Functional & UI Automation
+**Selenium WebDriver** · **Cypress** · **Playwright** · **Appium** · **Robot Framework** · **Katalon Studio**
 
-### API Testing
-`REST Assured` · `Postman` · `SoapUI` · `Pact (Contract Testing)`
-
-### Test Frameworks
-`JUnit` · `TestNG` · `PyTest` · `Cucumber / BDD (Gherkin)` · `SpecFlow`
+### Test Frameworks & Reporting
+**JUnit** · **TestNG** · **PyTest** · **Cucumber/BDD (Gherkin)** · **SpecFlow** · **Allure Reports** · **ExtentReports**
 
 ### Test Management & Defect Tracking
-`TestRail` · `Zephyr` · `qTest` · `HP ALM / Quality Center` · `JIRA` · `Allure Reports` · `ExtentReports`
+**JIRA** · **TestRail** · **Zephyr** · **qTest** · **HP ALM/Quality Center**
 
-### Cloud & Execution Infrastructure
-`AWS` · `Azure` · `Docker` · `Selenium Grid` · `BrowserStack` · `Sauce Labs`
+### Data & Database Validation
+**SQL Server** · **PostgreSQL** · **MySQL** · **Oracle** · **MongoDB** · **ETL Validation** · **Data Lineage Testing**
 
-### Databases & Data Validation
-`SQL Server` · `PostgreSQL` · `MySQL` · `Oracle` · `MongoDB`
+### Cloud & Infrastructure
+**AWS** · **Azure** · **Docker** · **Kubernetes** · **Selenium Grid** · **BrowserStack** · **Sauce Labs**
 
-### Healthcare Standards
-`HL7` · `FHIR` · `ICD-10` · `HIPAA` · `FDA 21 CFR Part 11` · `ISO 13485`
+### Healthcare & Compliance
+**HL7 v2 & FHIR** · **ICD-10/CPT Coding** · **HIPAA Requirements** · **FDA 21 CFR Part 11** · **ISO 13485** · **GxP Compliance**
 
-</details>
+### Programming & Scripting
+**Java** · **Python** · **SQL** · **JavaScript** · **Groovy** · **Bash**
 
 ---
 
-## Certifications
+## Certifications & Credentials
 
-| Certification | Provider | Date |
-|:---|:---|:---|
-| Registered Scrum Basics™ | Scrum Inc. | August 2025 |
-| AI Fluency Framework & Foundations | Anthropic | August 2025 |
-| *(Additional AI, AWS, and Google certifications available on [LinkedIn](https://www.linkedin.com/in/darshil-qa-lead/))* | | |
+| Credential | Provider | Completed | Focus Area |
+|:---|:---|:---|:---|
+| **Registered Scrum Basics™** | Scrum Inc. | August 2025 | Agile sprint execution and collaboration |
+| **Generative AI Fundamentals** | Anthropic | August 2025 | Large language models, prompt engineering, evaluation frameworks |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services | 2024 | Cloud architecture, service selection, cost optimization |
+| **Google Cloud Associate Cloud Engineer** | Google Cloud | 2024 | GCP infrastructure, deployment, monitoring |
+
+---
+
+## Professional Background
+
+**Kaiser Permanente** — Senior QA Analyst, EHR & Pharmacy Integration
+- Led QA for electronic health record integrations serving 9M+ members
+- Designed test strategies for pharmacy adjudication and prior authorization workflows
+- Achieved HIPAA and FDA compliance audit readiness across three separate audits
+
+**Prime Therapeutics** — QA Lead, Claims Processing & Pharmacy Management
+- Directed QA for pharmacy claims adjudication and benefit design engines
+- Built test frameworks for complex formulary rule validation
+- Mentored team of 5 QA engineers on functional design and defect triage
+
+**Accenture** — Senior QA Analyst, Healthcare IT Solutions
+- Delivered QA across EHR implementations, cloud migrations, and digital health platforms
+- Performed root cause analysis on high-impact defects; reduced escape rate from 8% to <2%
+
+**Infosys** — QA Analyst, Multiplatform Testing
+- Executed functional and API testing across web, mobile, and enterprise systems
+- Built Selenium automation framework for regression testing
+
+---
+
+## What I'm Looking For
+
+I'm actively pursuing **Senior QA Engineer**, **QA Lead**, **Principal QA Analyst**, and **AI/ML Quality Engineering** roles. I'm interested in:
+
+- **Healthcare technology** (EHR, pharmacy, claims, digital health) where quality directly impacts patient safety
+- **AI/ML products** where I can establish quality discipline for probabilistic systems
+- **Enterprise software** with compliance-heavy environments (HIPAA, FDA, SOC 2, ISO)
+- **Leadership opportunities** to build QA culture and mentor engineers
+
+I'm open to **US-based and India-based roles** and can start immediately.
 
 ---
 
 ## Let's Connect
 
-Actively seeking **QA Lead**, **Principal QA Engineer**, and **AI/ML QA** roles in healthcare technology and enterprise software.
-
 <div align="center">
 
-[![Get In Touch](https://img.shields.io/badge/📅_Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshils99@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshil-qa-lead/)
+[![Email](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge)](mailto:darshils99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/darshil-qa-lead/)
+[![Portfolio](https://img.shields.io/badge/💼_View_My_Portfolio-000000?style=for-the-badge)](https://darshil0.github.io)
 
 </div>
 

@@ -39,7 +39,7 @@ I'm seeking Senior QA roles where quality processes directly influence product s
 
 **Test Design Methodologies** — Equivalence partitioning and boundary value analysis for input domain decomposition; decision table testing for pharmacy adjudication and prior authorization workflows; state transition modeling for clinical order flows; charter-based exploratory testing to surface edge cases; negative and error-guessing scenarios against invalid inputs, missing fields, timeout conditions, and data corruption.
 
-**Test Types Executed** — System, integration, UAT, regression, smoke/sanity, ETL and data validation, API functional testing (REST Assured, Postman), consumer-driven contract testing (Pact), and healthcare-specific HL7/FHIR interface validation.
+**Test Types Executed** — System, integration, UAT, regression, smoke/sanity, API functional testing (REST Assured, Postman), consumer-driven contract testing (Pact), and healthcare-specific HL7/FHIR interface validation.
 
 **Healthcare Compliance & Quality Standards:**
 - HIPAA: PHI data handling, access control verification, audit logging, consent management enforcement
@@ -58,12 +58,19 @@ Defect reports are structured for reproducibility: clear steps, expected vs. act
 ## Technical Toolkit
 
 **API & Integration Testing**: REST Assured, Postman, SoapUI, Pact (Contract Testing), HL7/FHIR Interface Validation, GraphQL Testing
+
 **Functional & UI Automation**: Selenium WebDriver, Cypress, Playwright, Appium, Robot Framework, Katalon Studio
+
 **Test Frameworks & Reporting**: JUnit, TestNG, PyTest, Cucumber/BDD (Gherkin), SpecFlow, Allure Reports, ExtentReports
+
 **Test Management & Defect Tracking**: Jira, TestRail, Zephyr, qTest, HP ALM/Quality Center
+
 **Data & Database Validation**:SQL Server, PostgreSQL, MySQL, Oracle, MongoDB, ETL Validation, Data Lineage Testing
+
 **Cloud & Infrastructure**: AWS, Azure, Docker, Kubernetes, Selenium Grid, BrowserStack, Sauce Labs
+
 **Healthcare & Compliance**: HL7 v2 & FHIR, ICD-10/CPT Coding, HIPAA Requirements, FDA 21 CFR Part 11, ISO 13485, GxP Compliance
+
 **Programming & Scripting** — Java, Python, SQL, JavaScript, Groovy, Bash
 
 ---

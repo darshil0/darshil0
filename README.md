@@ -1,7 +1,7 @@
 # Darshil Shah
 **Senior QA Analyst & Validation Specialist**
 
-10+ years verifying mission-critical healthcare software with expertise in compliance-driven quality assurance, test automation, and defect lifecycle management.
+10+ years verifying mission-critical healthcare software with expertise in compliance-driven quality assurance, functional testing, and defect lifecycle management.
 
 **LinkedIn | Portfolio & Projects | Email**
 

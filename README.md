@@ -117,9 +117,9 @@ I architect and execute comprehensive quality strategies for complex healthcare 
 - **Microsoft Copilot Foundations**: Microsoft, June 2025
 
 ### Cloud & Professional Development
-- **AWS Cloud Practitioner Essentials** — AWS, May 2025
-- **Generative AI for Project Managers** — PMI, March 2025
-- **Registered Scrum Basics™** — Scrum Inc., August 2025
+- **AWS Cloud Practitioner Essentials** AWS, May 2025
+- **Generative AI for Project Managers** PMI, March 2025
+- **Registered Scrum Basics™** Scrum Inc., August 2025
 
 ---
 

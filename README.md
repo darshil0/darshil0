@@ -106,15 +106,15 @@ I architect and execute comprehensive quality strategies for complex healthcare 
 ## 🏆 Certifications & Credentials
 
 ### AI & Emerging Technologies
-- **Agent Skills with Anthropic** — Anthropic, March 2026
-- **Claude Code in Action** — DeepLearning.AI, March 2026
-- **Introduction to MCP** — Anthropic, October 2025
-- **AI Fluency Framework & Foundations** — Anthropic, August 2025
-- **Becoming an AI Agent Architect** — IBM, July 2025
-- **ChatGPT Prompt Engineering for Developers** — Coursera, July 2025
-- **MLOps for Generative AI** — Google, June 2025
-- **Generative AI in Action** — IBM, June 2025
-- **Microsoft Copilot Foundations** — Microsoft, June 2025
+- **Agent Skills with Anthropic**: Anthropic, March 2026
+- **Claude Code in Action**: DeepLearning.AI, March 2026
+- **Introduction to MCP**: Anthropic, October 2025
+- **AI Fluency Framework & Foundations**: Anthropic, August 2025
+- **Becoming an AI Agent Architect**: IBM, July 2025
+- **ChatGPT Prompt Engineering for Developers**: Coursera, July 2025
+- **MLOps for Generative AI**: Google, June 2025
+- **Generative AI in Action**: IBM, June 2025
+- **Microsoft Copilot Foundations**: Microsoft, June 2025
 
 ### Cloud & Professional Development
 - **AWS Cloud Practitioner Essentials** — AWS, May 2025
@@ -182,14 +182,3 @@ Let's build smarter QA solutions that transform healthcare through quality, comp
 </div>
 
 ---
-
-### 📝 Notes
-
-This portfolio showcases 10+ years of healthcare QA expertise with a focus on:
-- **Compliance-driven quality assurance** (HIPAA, FDA, ISO)
-- **Strategic team leadership** across global organizations
-- **Measurable business impact** (cost reduction, efficiency gains, zero audit findings)
-- **Emerging AI/ML testing** techniques and innovation
-- **Functional testing mastery** with structured methodologies
-
-*Last updated: May 2026 | Available for immediate opportunities*

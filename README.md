@@ -161,10 +161,10 @@ Let's build smarter QA solutions that transform healthcare through quality, comp
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/darshilshah](https://linkedin.com/in/darshilshah) |
-| 🌐 Portfolio | [darshilshah.dev](https://darshilshah.dev) |
-| 📧 Email | [darshil@example.com](mailto:darshil@example.com) |
-| 🐙 GitHub | [@darshilshah](https://github.com/darshilshah) |
+| 💼 LinkedIn | [linkedin.com/in/darshilshah](https://linkedin.com/in/darshil-qa-lead) |
+| 🌐 Portfolio | [darshilshah.dev](https://githubpages.io/darshil-portfolio-2026/) |
+| 📧 Email | [darshil@example.com](mailto:darshils99@gmail.com) |
+| 🐙 GitHub | [@darshilshah](https://github.com/darshil0) |
 
 ---
 

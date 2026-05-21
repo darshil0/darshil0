@@ -170,7 +170,7 @@ Let's build smarter QA solutions that transform healthcare through quality, comp
 
 ## 📈 Key Repositories
 
-*Coming soon: Test automation frameworks, QA strategies, healthcare compliance documentation*
+*Coming soon*
 
 ---
 

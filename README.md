@@ -75,16 +75,6 @@ Defect reports are structured for reproducibility: clear steps, expected vs. act
 
 ---
 
-## Certifications & Credentials
-
-| Credential | Provider | Completed | Focus Area |
-|------------|----------|-----------|-----------|
-| Registered Scrum Basics™ | Scrum Inc. | August 2025 | Agile sprint execution and collaboration |
-| AWS Certified Cloud Practitioner | Amazon Web Services | 2024 | Cloud architecture, service selection, cost optimization |
-| Google Cloud Associate Cloud Engineer | Google Cloud | 2024 | GCP infrastructure, deployment, monitoring |
-
----
-
 ## Professional Background
 
 **Kaiser Permanente — Senior QA Analyst, EHR & Pharmacy Integration**

@@ -57,20 +57,13 @@ Defect reports are structured for reproducibility: clear steps, expected vs. act
 
 ## Technical Toolkit
 
-**API & Integration Testing** — REST Assured, Postman, SoapUI, Pact (Contract Testing), HL7/FHIR Interface Validation, GraphQL Testing
-
-**Functional & UI Automation** — Selenium WebDriver, Cypress, Playwright, Appium, Robot Framework, Katalon Studio
-
-**Test Frameworks & Reporting** — JUnit, TestNG, PyTest, Cucumber/BDD (Gherkin), SpecFlow, Allure Reports, ExtentReports
-
-**Test Management & Defect Tracking** — Jira, TestRail, Zephyr, qTest, HP ALM/Quality Center
-
-**Data & Database Validation** — SQL Server, PostgreSQL, MySQL, Oracle, MongoDB, ETL Validation, Data Lineage Testing
-
-**Cloud & Infrastructure** — AWS, Azure, Docker, Kubernetes, Selenium Grid, BrowserStack, Sauce Labs
-
-**Healthcare & Compliance** — HL7 v2 & FHIR, ICD-10/CPT Coding, HIPAA Requirements, FDA 21 CFR Part 11, ISO 13485, GxP Compliance
-
+**API & Integration Testing**: REST Assured, Postman, SoapUI, Pact (Contract Testing), HL7/FHIR Interface Validation, GraphQL Testing
+**Functional & UI Automation**: Selenium WebDriver, Cypress, Playwright, Appium, Robot Framework, Katalon Studio
+**Test Frameworks & Reporting**: JUnit, TestNG, PyTest, Cucumber/BDD (Gherkin), SpecFlow, Allure Reports, ExtentReports
+**Test Management & Defect Tracking**: Jira, TestRail, Zephyr, qTest, HP ALM/Quality Center
+**Data & Database Validation**:SQL Server, PostgreSQL, MySQL, Oracle, MongoDB, ETL Validation, Data Lineage Testing
+**Cloud & Infrastructure**: AWS, Azure, Docker, Kubernetes, Selenium Grid, BrowserStack, Sauce Labs
+**Healthcare & Compliance**: HL7 v2 & FHIR, ICD-10/CPT Coding, HIPAA Requirements, FDA 21 CFR Part 11, ISO 13485, GxP Compliance
 **Programming & Scripting** — Java, Python, SQL, JavaScript, Groovy, Bash
 
 ---
@@ -78,19 +71,15 @@ Defect reports are structured for reproducibility: clear steps, expected vs. act
 ## Professional Background
 
 **Kaiser Permanente — Senior QA Analyst, EHR & Pharmacy Integration**
-
 Led QA for electronic health record integrations serving 9M+ members. Designed test strategies for pharmacy adjudication and prior authorization workflows. Achieved HIPAA and FDA compliance audit readiness across three separate audits.
 
 **Prime Therapeutics — SDET, Claims Processing & Pharmacy Benefits Management**
-
 Directed QA for pharmacy claims adjudication and benefit design engines. Built test frameworks for complex formulary rule validation. Mentored team of 5 QA engineers on functional design and defect triage.
 
 **Accenture — Senior QA Analyst, Healthcare IT Solutions**
-
 Delivered QA across EHR implementations, cloud migrations, and digital health platforms. Performed root cause analysis on high-impact defects; reduced escape rate from 8% to <2%.
 
 **Infosys — QA Analyst, Multiplatform Testing**
-
 Executed functional and API testing across web, mobile, and enterprise systems. Built Selenium automation framework for regression testing.
 
 ---

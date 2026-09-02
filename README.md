@@ -156,7 +156,7 @@ I'm actively pursuing **Senior QA Engineer, QA Lead, Principal QA Analyst, QA Ma
 - ✅ Leadership opportunities to build QA culture and mentor engineers
 
 **Open To**
-- 🌎 US-based and Indian market roles
+- 🌎 US-based roles
 - ⏰ Available to start immediately
 
 ---

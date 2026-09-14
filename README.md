@@ -85,13 +85,13 @@ I architect and execute comprehensive quality strategies for complex healthcare 
 ## 💻 Technical Toolkit
 
 **API & Integration Testing**
-REST Assured • Postman • SoapUI • Pact (Contract Testing) • HL7/FHIR Validation • GraphQL Testing
+REST Assured • Postman • SoapUI • Pact (Contract Testing) • HL7/FHIR Validation
 
 **Test Management & Defect Tracking**
 Jira • Confluence • TestRail • qTest • HP ALM/Quality Center • Zephyr
 
 **Data & Database Validation**
-SQL Server • PostgreSQL • MySQL • Oracle • MongoDB • ETL Validation • Data Lineage Testing
+SQL Server • MySQL • Oracle
 
 **Healthcare & Compliance**
 HL7 v2 & FHIR • ICD-10/CPT Coding • HIPAA Requirements • FDA 21 CFR Part 11 • ISO 13485 • GxP Compliance

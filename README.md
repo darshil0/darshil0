@@ -61,7 +61,6 @@ I architect and execute comprehensive quality strategies for complex healthcare 
 - HL7/FHIR healthcare interface validation
 
 **Test Management & Defect Excellence**
-- IEEE 829 standard test plans with risk-based coverage
 - Three Amigos sessions for early testability identification
 - Structured defect reports with reproducibility & root cause analysis
 - Requirements traceability matrices (RTMs) for audit readiness
@@ -70,7 +69,6 @@ I architect and execute comprehensive quality strategies for complex healthcare 
 ### Healthcare Compliance & Quality Standards
 - **HIPAA:** PHI data handling, access control, audit logging, consent management
 - **FDA 21 CFR Part 11:** Electronic records/signatures validation, data integrity, audit trails
-- **ISO 13485:** Medical device software quality management
 - **Pharmacy & Claims:** Adjudication logic, formulary compliance, eligibility, claims scrubbing
 - **Additional:** ADA Compliance, connected medical devices, EHR/EMR systems, telehealth platforms
 
